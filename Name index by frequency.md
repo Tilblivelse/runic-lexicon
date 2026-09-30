@@ -1,13 +1,3 @@
----
-type: index
-source: Rundata-net
-tags:
-  - runes
-  - rundata
-  - onomastics
-  - domain/runology
-  - domain/philology
----
 # Rundata name index, by frequency
 
 Individual occurrences is the number of inscriptions a name occurs in, duplicates the extra mentions within the same inscription. 
