@@ -10,3489 +10,3491 @@ tags:
 ---
 # Rundata name index, alphabetical
 
-Stones is the number of inscriptions a name occurs in, tokens the total number of occurrences. Source: Rundata-net.
+Individual occurrences is the number of inscriptions a name occurs in, duplicates the extra mentions within the same inscription. Source: Rundata-net.
 
-- A: 1 stone, 1 token
-- Aachen: 1 stone, 1 token
-- Aaron: 2 stones, 2 tokens
-- Abdenago: 2 stones, 2 tokens
-- Ábjôrn: 8 stones, 8 tokens
-- Abraham: 1 stone, 1 token
-- Absalon: 1 stone, 1 token
-- Ábý: 1 stone, 1 token
-- Adam: 1 stone, 2 tokens
-- Adami: 1 stone, 1 token
-- Adamnán: 1 stone, 1 token
-- Ádís: 1 stone, 1 token
-- Ádísa: 1 stone, 1 token
-- Ádjarf: 4 stones, 6 tokens; forms Ádjarf (4), Ádjarfr (2)
-- Adonai: 3 stones, 4 tokens
-- Aðakáns: 1 stone, 1 token
-- Aðalmarr: 6 stones, 6 tokens
-- Aðalmerki: 1 stone, 1 token
-- Aðalmæki: 1 stone, 1 token
-- Aðísl: 3 stones, 3 tokens
-- Áðísla: 1 stone, 1 token
-- Áfast: 1 stone, 1 token
-- Affoca: 1 stone, 1 token
-- Affricala: 1 stone, 1 token
-- Affricca: 1 stone, 1 token
-- Afkar: 1 stone, 1 token
-- Áfríði: 1 stone, 1 token
-- Áfríðr: 7 stones, 7 tokens
-- Ágautr: 2 stones, 2 tokens; forms Ágautr (1), Ágaut (1)
-- Ágeirr: 2 stones, 2 tokens
-- Ágerðr: 1 stone, 1 token
-- Agilamundon: 1 stone, 1 token
-- Agios: 1 stone, 1 token
-- Agmundr: 8 stones, 8 tokens; forms Agmundr (5), Agmund (3)
-- Agna: 1 stone, 1 token
-- Agnabó: 2 stones, 2 tokens
-- Agneta: 1 stone, 2 tokens
-- Agni: 2 stones, 2 tokens
-- Agnmundr: 1 stone, 1 token
-- Ágota: 2 stones, 2 tokens
-- Ágoti: 7 stones, 7 tokens
-- Agviðr: 2 stones, 2 tokens
-- aikiR: 1 stone, 1 token
-- Ailmar: 1 stone, 1 token
-- Aiþalataz: 1 stone, 1 token
-- Áka: 2 stones, 2 tokens
-- Akaz: 1 stone, 1 token
-- Áki: 9 stones, 11 tokens
-- Akli: 1 stone, 1 token
-- akoft: 1 stone, 1 token
-- akopk: 1 stone, 1 token
-- Ál: 2 stones, 2 tokens; forms Ál (1), al (1)
-- Ála: 6 stones, 7 tokens
-- Alaifu: 1 stone, 1 token
-- Alawin: 1 stone, 3 tokens
-- Albóð: 1 stone, 1 token
-- Aldi: 1 stone, 1 token
-- Aldrífar: 1 stone, 1 token
-- Aldulfs: 1 stone, 1 token
-- Aldvið: 2 stones, 2 tokens; forms Aldvið (1), Aldviðr (1)
-- Áleif: 3 stones, 3 tokens; forms Áleif (2), Áleifr (1)
-- Alfar: 1 stone, 1 token
-- Alfdís: 1 stone, 1 token
-- Alfgautr: 2 stones, 2 tokens
-- Alfgeirr: 3 stones, 3 tokens; forms Alfgeirr (2), Alfgeir (1)
-- Alfhildar: 1 stone, 1 token
-- alf---ir: 1 stone, 1 token
-- Alfkell: 2 stones, 2 tokens
-- Alfketil: 1 stone, 1 token
-- Alflak: 1 stone, 1 token
-- Alfr: 1 stone, 1 token
-- Alfríkr: 4 stones, 4 tokens
-- Álfrúnar: 1 stone, 1 token
-- Alfvin: 3 stones, 3 tokens
-- Algautr: 1 stone, 1 token
-- Algísl: 1 stone, 1 token
-- Áli: 11 stones, 11 tokens
-- Aljamarkiz: 1 stone, 1 token
-- alkm: 1 stone, 1 token
-- Alla: 8 stones, 11 tokens
-- Alli: 11 stones, 11 tokens
-- Almgaut: 2 stones, 2 tokens; forms Almgaut (1), Almgautr (1)
-- Almgeir: 1 stone, 1 token
-- al-naet: 1 stone, 1 token
-- Alríkr: 4 stones, 6 tokens
-- Alríks: 1 stone, 1 token
-- Alskóg: 1 stone, 1 token
-- Alugodo: 1 stone, 1 token
-- Aluko: 1 stone, 1 token
-- Alvaldr: 1 stone, 1 token
-- Alvina: 1 stone, 1 token
-- Alvne: 1 stone, 1 token
-- Alþrúði: 1 stone, 1 token
-- Alþrúðr: 1 stone, 2 tokens
-- Ám: 1 stone, 1 token
-- Ambrosii: 1 stone, 1 token
-- Amdis: 1 stone, 1 token
-- Ámóða: 2 stones, 2 tokens
-- Ámunda: 3 stones, 3 tokens; forms Ámunda (2), Amunda (1)
-- Amundasonr: 1 stone, 1 token
-- Ámundi: 10 stones, 10 tokens
-- Ámundr: 1 stone, 1 token
-- Anastasius: 1 stone, 1 token
-- anasuiþr: 1 stone, 1 token
-- Anderius: 1 stone, 2 tokens
-- Andórr: 1 stone, 1 token
-- Andreas: 8 stones, 9 tokens
-- Andrés: 8 stones, 9 tokens; forms Andrés (6), Andres (3)
-- Andresar: 1 stone, 1 token
-- Andréssonr: 1 stone, 1 token
-- Andsvarr: 7 stones, 8 tokens; forms Andsvarr (6), Andsvar (2)
-- Andsvars: 1 stone, 1 token
-- Andvéttar: 1 stone, 1 token
-- Andvéttr: 18 stones, 18 tokens; forms Andvéttr (11), Andvétt (7)
-- Anga: 1 stone, 1 token
-- Anga-smiðs: 1 stone, 1 token
-- Angelbos: 2 stones, 2 tokens
-- Áni: 3 stones, 3 tokens
-- Ánn: 3 stones, 3 tokens
-- Anna: 2 stones, 2 tokens
-- Anno: 1 stone, 1 token
-- annuhanenkium: 1 stone, 1 token
-- Ansugastiz: 1 stone, 1 token
-- Anula: 1 stone, 1 token
-- Apa: 3 stones, 3 tokens
-- Api: 1 stone, 1 token
-- Ara: 3 stones, 3 tokens
-- Arang: 2 stones, 2 tokens
-- Árbý: 1 stone, 1 token
-- Arfastr: 1 stone, 1 token
-- Arges: 1 stone, 1 token
-- Ari: 7 stones, 7 tokens
-- Arinbárðr: 1 stone, 1 token
-- Arinbjarnar: 1 stone, 1 token
-- Arinbjôrgu: 1 stone, 1 token
-- Arinbjôrn: 2 stones, 2 tokens
-- Arinmundr: 1 stone, 1 token
-- Arn: 2 stones, 2 tokens
-- Árna: 5 stones, 5 tokens
-- Arnar: 1 stone, 1 token
-- Árnasonr: 1 stone, 1 token
-- Arnbjarnar: 2 stones, 2 tokens
-- Arnbjôrg: 1 stone, 1 token
-- Arnbjôrn: 4 stones, 4 tokens
-- Arnfast: 7 stones, 7 tokens; forms Arnfast (5), Arnfastr (2)
-- Arnfasta: 1 stone, 1 token
-- Arnfinnr: 7 stones, 7 tokens
-- Arnfríðr: 1 stone, 1 token
-- Arngeirr: 4 stones, 4 tokens
-- Arngeirs: 2 stones, 2 tokens
-- Arngerðr: 3 stones, 3 tokens
-- Arngísl: 4 stones, 4 tokens
-- Arngunnr: 1 stone, 1 token
-- Arnhvatr: 2 stones, 2 tokens
-- Árni: 21 stones, 21 tokens
-- Arnkell: 5 stones, 5 tokens; forms Arnkell (4), Arnkel (1)
-- Arnketill: 1 stone, 1 token
-- Arnlaug: 1 stone, 1 token
-- Arnmundr: 3 stones, 3 tokens
-- Arnnjótr: 1 stone, 1 token
-- Arnstein: 2 stones, 2 tokens; forms Arnstein (1), Arnsteinn (1)
-- Arnulfr: 2 stones, 2 tokens; forms Arnulfr (1), Arnulf (1)
-- Arnvé: 2 stones, 3 tokens
-- Arnviðr: 2 stones, 2 tokens
-- Arnþórs: 2 stones, 2 tokens
-- Arta: 1 stone, 1 token
-- Ás: 7 stones, 7 tokens
-- Ása: 30 stones, 34 tokens; forms Ása (31), ása (3)
-- Ásbjarnar: 6 stones, 7 tokens
-- Ásbjôrg: 1 stone, 1 token
-- Ásbjôrn: 50 stones, 51 tokens
-- Ásboð: 2 stones, 3 tokens; forms Ásboð (2), Ásbôð (1)
-- Ásdjarfr: 1 stone, 1 token
-- Áselfi: 1 stone, 1 token
-- Ásfast: 1 stone, 1 token
-- Ásfríðr: 4 stones, 4 tokens
-- Ásfrøðr: 2 stones, 2 tokens
-- Ásgauta: 1 stone, 1 token
-- Ásgautr: 33 stones, 36 tokens; forms Ásgautr (23), Ásgaut (13)
-- Ásgauts: 1 stone, 1 token
-- Ásgeirr: 21 stones, 25 tokens; forms Ásgeirr (14), Ásgeir (11)
-- Ásgeirs: 3 stones, 3 tokens
-- Ásgerðar: 1 stone, 1 token
-- Ásgerði: 2 stones, 2 tokens
-- Ásgerðr: 4 stones, 4 tokens
-- Ásgísl: 1 stone, 1 token
-- Ásgrímr: 5 stones, 5 tokens
-- Ásgunnr: 2 stones, 2 tokens
-- Ásheiði: 1 stone, 1 token
-- Ási: 7 stones, 7 tokens
-- Ásjó: 1 stone, 1 token
-- Áskatla: 4 stones, 4 tokens
-- Áskelheim: 1 stone, 1 token
-- Áskell: 31 stones, 32 tokens; forms Áskell (18), Áskel (14)
-- Ásl: 4 stones, 4 tokens
-- Áslabúðum: 1 stone, 1 token
-- Áslakr: 11 stones, 12 tokens; forms Áslakr (10), Áslak (2)
-- Áslakr's: 1 stone, 1 token
-- Ásleif: 1 stone, 1 token
-- Ásleikr: 5 stones, 5 tokens; forms Ásleikr (3), Ásleik (2)
-- Ásleiks: 1 stone, 1 token
-- Ásmarr: 2 stones, 3 tokens; forms Ásmarr (2), Ásmar (1)
-- Ásmóð: 3 stones, 3 tokens; forms Ásmóð (2), Ásmóðr (1)
-- Ásmundar: 1 stone, 1 token
-- Ásmundarsonr: 3 stones, 3 tokens
-- Ásmundr: 43 stones, 51 tokens; forms Ásmundr (45), Ásmund (6)
-- Áspakr: 1 stone, 1 token
-- Ásrøðr: 2 stones, 2 tokens
-- Ásta: 1 stone, 1 token
-- Ásti: 1 stone, 1 token
-- Ástráðr: 4 stones, 4 tokens; forms Ástráðr (3), Ástráð (1)
-- Ástríðar: 1 stone, 1 token
-- Ástríði: 4 stones, 4 tokens
-- Ástríðr: 14 stones, 15 tokens; forms Ástríðr (14), Ástrið (1)
-- Ásu: 11 stones, 11 tokens
-- Asugislas: 1 stone, 1 token
-- Ásulfr: 6 stones, 7 tokens; forms Ásulfr (4), Ásulf (3)
-- Ásulfs: 2 stones, 2 tokens
-- Ásvald: 1 stone, 1 token
-- Ásvaldi: 2 stones, 2 tokens
-- Ásvarð: 2 stones, 2 tokens; forms Ásvarð (1), Ásvarðr (1)
-- Ásvé: 1 stone, 1 token
-- Ásviðar: 1 stone, 1 token
-- Ásviðr: 2 stones, 2 tokens; forms Ásviðr (1), Ásvið (1)
-- Ásvôr: 2 stones, 2 tokens
-- asþrn: 1 stone, 1 token
-- Atfari: 1 stone, 1 token
-- Atla: 5 stones, 5 tokens
-- Atlasonr: 1 stone, 1 token
-- Atli: 1 stone, 1 token
-- Atlingabó: 1 stone, 1 token
-- Atlingbo: 1 stone, 1 token
-- Atlings: 1 stone, 1 token
-- Átryggr: 1 stone, 1 token
-- Atta: 1 stone, 1 token
-- Atti: 1 stone, 1 token
-- Auð: 6 stones, 6 tokens; forms Auð (4), Auðr (2)
-- Auða: 6 stones, 6 tokens
-- Auðbjarnar: 2 stones, 3 tokens
-- Auðbjôrn: 14 stones, 14 tokens
-- Auðelfi: 1 stone, 1 token
-- Auðfríðar: 1 stone, 1 token
-- Auðfríðr: 1 stone, 1 token
-- Auðga: 1 stone, 1 token
-- Auðgautr: 3 stones, 3 tokens; forms Auðgautr (2), Auðgaut (1)
-- Auðgeirr: 5 stones, 5 tokens; forms Auðgeirr (3), Auðgeir (2)
-- Auðgeirsarfa: 1 stone, 3 tokens
-- Auðgerði: 1 stone, 1 token
-- Auðgerðr: 3 stones, 3 tokens
-- Auðgísl: 1 stone, 1 token
-- Auðgrímr: 1 stone, 1 token
-- Auðgunnr: 1 stone, 1 token
-- Auðhvatr: 4 stones, 4 tokens
-- Auði: 3 stones, 3 tokens
-- Auðin: 3 stones, 3 tokens
-- Auðkell: 4 stones, 4 tokens; forms Auðkell (2), Auðkel (2)
-- Auðketil: 1 stone, 1 token
-- Auðleif: 1 stone, 1 token
-- Auðmarr: 1 stone, 1 token
-- Auðmundr: 5 stones, 5 tokens; forms Auðmundr (4), Auðmund (1)
-- Auðreifr: 1 stone, 1 token
-- Auðreifs: 1 stone, 1 token
-- Auðríki: 1 stone, 2 tokens
-- Auðríkr: 4 stones, 6 tokens; forms Auðríkr (5), Auðrík (1)
-- Auðsteinn: 1 stone, 1 token
-- Auðu: 2 stones, 2 tokens
-- Auðulfr: 5 stones, 5 tokens
-- Auðun: 4 stones, 4 tokens
-- Auðunar: 1 stone, 1 token
-- Auðvaldr: 6 stones, 6 tokens; forms Auðvaldr (4), Auðvald (2)
-- Auðvalds: 1 stone, 1 token
-- Auðviðr: 1 stone, 1 token
-- aufa: 1 stone, 2 tokens
-- aufu>heiði: 1 stone, 1 token
-- Auga: 1 stone, 1 token
-- Augmundr: 1 stone, 1 token
-- au-ka: 1 stone, 1 token
-- Auki: 1 stone, 1 token
-- Aun: 1 stone, 1 token
-- Auna: 1 stone, 1 token
-- Aunar: 1 stone, 1 token
-- aurir: 1 stone, 1 token
-- Austbjôrn: 1 stone, 1 token
-- Austmaðr: 1 stone, 1 token
-- Austr: 1 stone, 1 token
-- Austrbý: 1 stone, 1 token
-- ausut: 1 stone, 1 token
-- Autir: 2 stones, 2 tokens
-- auþikR: 1 stone, 1 token
-- Ávarr: 4 stones, 5 tokens
-- Ávi: 1 stone, 1 token
-- Áviðr: 2 stones, 2 tokens
-- Awings: 1 stone, 1 token
-- ayt--u: 1 stone, 1 token
-- Aþmiul: 1 stone, 1 token
-- Bagga: 2 stones, 3 tokens
-- Baggi: 1 stone, 1 token
-- Bági: 1 stone, 1 token
-- Balastein: 1 stone, 1 token
-- Baldrs: 1 stone, 1 token
-- Balli: 26 stones, 31 tokens
-- Bällings: 1 stone, 2 tokens
-- Balsi: 1 stone, 1 token
-- Banka: 2 stones, 3 tokens
-- Banki: 1 stone, 1 token
-- Baptistam: 1 stone, 1 token
-- Bárðr: 12 stones, 12 tokens
-- bariRþ: 1 stone, 1 token
-- Báristôðum: 2 stones, 2 tokens
-- Barkviðr: 3 stones, 3 tokens; forms Barkviðr (2), Barkvið (1)
-- Barnabe: 1 stone, 1 token
-- Barni: 2 stones, 2 tokens
-- Bartholomei: 1 stone, 1 token
-- Bartholomeusmessu: 1 stone, 1 token
-- Bartolomeus: 1 stone, 1 token
-- Bassi: 2 stones, 2 tokens
-- Báulf: 1 stone, 1 token
-- Bausa: 2 stones, 2 tokens
-- Begli: 1 stone, 1 token
-- Beilir: 1 stone, 1 token
-- Beini: 1 stone, 1 token
-- Beinviðr: 1 stone, 1 token
-- bel: 1 stone, 1 token
-- Bellingabó: 1 stone, 2 tokens; forms Bellingabó (1), Bellingabo (1)
-- Bendikt: 1 stone, 1 token
-- Benedicta: 1 stone, 1 token
-- Benedicti: 2 stones, 2 tokens
-- benedictis: 1 stone, 1 token
-- Benedictus: 1 stone, 1 token
-- Benedikt: 2 stones, 2 tokens
-- Benedikta: 1 stone, 1 token
-- Benedikter: 1 stone, 1 token
-- Benediktus: 1 stone, 1 token
-- Benediktusmessu: 1 stone, 1 token
-- Benedit: 1 stone, 1 token
-- Bengeirr: 1 stone, 1 token
-- Bera: 1 stone, 1 token
-- Berdor: 1 stone, 1 token
-- Bergi: 1 stone, 1 token
-- Bergleif: 1 stone, 1 token
-- Berglôf: 1 stone, 1 token
-- Bergr: 1 stone, 1 token
-- Bergsvein: 4 stones, 4 tokens; forms Bergsvein (2), Bergsveinn (2)
-- Bergviðr: 4 stones, 4 tokens; forms Bergviðr (2), Bergvið (2)
-- Bergþórr: 4 stones, 4 tokens
-- Berno: 1 stone, 1 token
-- Bero: 1 stone, 1 token
-- Bersa: 1 stone, 1 token
-- Bersasonr: 1 stone, 1 token
-- Bersu: 2 stones, 3 tokens
-- Bessi: 1 stone, 1 token
-- Biarni: 2 stones, 2 tokens
-- bibrau: 1 stone, 1 token
-- Bidawarijaz: 1 stone, 1 token
-- bi--li: 1 stone, 1 token
-- Billingr: 2 stones, 2 tokens
-- Bindawarijaz: 1 stone, 1 token
-- Bingil: 1 stone, 1 token
-- Bínu: 1 stone, 1 token
-- Birgir: 2 stones, 2 tokens
-- Birgisonr: 1 stone, 1 token
-- Birita: 1 stone, 1 token
-- Birla: 1 stone, 1 token
-- Birsa: 1 stone, 1 token
-- Birsu: 2 stones, 3 tokens
-- Birti: 1 stone, 1 token
-- Bisi: 1 stone, 1 token
-- bitu: 1 stone, 1 token
-- biu: 1 stone, 1 token
-- Bjalfa: 1 stone, 1 token
-- Bjarnar: 9 stones, 9 tokens
-- Bjarnarsonr: 1 stone, 1 token
-- Bjarngeir: 1 stone, 1 token
-- Bjarnhôfða: 1 stone, 1 token
-- Bjarnhôfði: 2 stones, 2 tokens
-- Bjarni: 5 stones, 5 tokens
-- Bjarnlaugr: 1 stone, 1 token
-- Bjarnulfr: 3 stones, 3 tokens
-- Bjärs: 2 stones, 2 tokens
-- Bjartr: 2 stones, 2 tokens
-- Bjerge: 1 stone, 1 token
-- Bjergi: 1 stone, 1 token
-- Bjergum: 1 stone, 1 token
-- Bjór: 3 stones, 3 tokens; forms Bjór (2), Bjórr (1)
-- Bjórstein: 2 stones, 2 tokens
-- Bjôrg: 2 stones, 2 tokens
-- Bjôrgvin: 1 stone, 1 token
-- Bjôrgvini: 1 stone, 1 token
-- Bjôrn: 128 stones, 130 tokens
-- Bjôrngeirr: 1 stone, 1 token
-- Bjôrnssonr: 1 stone, 1 token
-- Bjôrnulfr: 1 stone, 1 token
-- Blákára: 1 stone, 1 token
-- Blákári: 1 stone, 1 token
-- Bláni: 1 stone, 1 token
-- Blánum: 1 stone, 1 token
-- Bleikr: 3 stones, 3 tokens; forms Bleikr (2), Bleik (1)
-- Blesa: 1 stone, 1 token
-- Blesi: 2 stones, 2 tokens
-- Blómi: 1 stone, 1 token
-- Boði: 1 stone, 1 token
-- Bófa: 9 stones, 11 tokens
-- Bófi: 10 stones, 11 tokens
-- Bófríðr: 1 stone, 1 token
-- Bógi: 1 stone, 1 token
-- boin: 1 stone, 1 token
-- Bóla: 1 stone, 1 token
-- Boldi: 1 stone, 1 token
-- Bóli: 1 stone, 1 token
-- Bolla: 1 stone, 1 token
-- Bolli: 1 stone, 1 token
-- Bollu: 2 stones, 2 tokens
-- Bólnauts: 1 stone, 1 token
-- Bólu: 1 stone, 1 token
-- Bóndi: 3 stones, 3 tokens
-- Bóndo: 1 stone, 1 token
-- Borga: 1 stone, 1 token
-- Borgbý: 1 stone, 1 token
-- Borgeirr: 1 stone, 1 token
-- Borgfastr: 3 stones, 3 tokens; forms Borgfastr (2), Borgfast (1)
-- Borggeir: 4 stones, 4 tokens
-- Borgulf: 3 stones, 3 tokens; forms Borgulf (2), Borgulfr (1)
-- Borgunna: 1 stone, 1 token
-- boriaukr: 1 stone, 1 token
-- Boro: 1 stone, 1 token
-- Bósa: 3 stones, 3 tokens
-- Bósi: 2 stones, 3 tokens
-- Bót: 4 stones, 4 tokens
-- Bótbjôrn: 1 stone, 1 token
-- Bótfosar: 1 stone, 1 token
-- Bótfreðr: 3 stones, 3 tokens; forms Bótfreðr (2), Bótfreð (1)
-- Bótfríðr: 1 stone, 1 token
-- Bótfúsar: 1 stone, 1 token
-- Bótfúss: 1 stone, 1 token
-- Bótgeirr: 8 stones, 9 tokens; forms Bótgeirr (5), Bótgeir (4)
-- Bótgeirs: 3 stones, 3 tokens
-- Bótheiðar: 1 stone, 1 token
-- Bótheiði: 1 stone, 1 token
-- Bótheiðr: 5 stones, 5 tokens
-- Bótheiðu: 6 stones, 6 tokens
-- Bóthildr: 2 stones, 2 tokens
-- Bóthvatr: 1 stone, 1 token
-- Bótleifr: 1 stone, 1 token
-- Bótlíkn: 1 stone, 1 token
-- Bótliknar: 2 stones, 2 tokens
-- Bótlíkni: 1 stone, 1 token
-- Bótmundar: 1 stone, 1 token
-- Bótmundr: 4 stones, 4 tokens
-- Botna: 1 stone, 1 token
-- Botni: 1 stone, 1 token
-- Bótný: 1 stone, 1 token
-- Bótolfar: 1 stone, 1 token
-- Bótolfr: 1 stone, 1 token
-- Bótreifr: 3 stones, 3 tokens; forms Bótreifr (2), Bótreif (1)
-- Bótríðu: 1 stone, 1 token
-- Bótstein: 1 stone, 1 token
-- Botti: 1 stone, 1 token
-- Bótulfr: 18 stones, 18 tokens; forms Bótulfr (14), Bótulf (4)
-- Bótulfs: 5 stones, 5 tokens
-- Bótulfsmessu: 2 stones, 2 tokens
-- Bótulfsvôku: 1 stone, 1 token
-- Bótvalda: 1 stone, 1 token
-- Bótvé: 2 stones, 2 tokens
-- Bótvéar: 1 stone, 1 token
-- Bótvéu: 2 stones, 2 tokens
-- Bótviða: 2 stones, 2 tokens
-- Bótviðar: 4 stones, 4 tokens
-- Bótviði: 1 stone, 1 token
-- Bótviðr: 16 stones, 16 tokens; forms Bótviðr (14), Bótvið (1), Bótvíðr (1)
-- Bótþjóð: 1 stone, 1 token
-- Bótþjóðar: 1 stone, 1 token
-- Bótþjóðu: 2 stones, 2 tokens
-- Bour(r: 1 stone, 1 token
-- Braido: 1 stone, 1 token
-- Brakil: 1 stone, 1 token
-- Bram: 1 stone, 1 token
-- Brandi: 1 stone, 1 token
-- Brandr: 11 stones, 12 tokens
-- Bratti: 1 stone, 1 token
-- Brattr: 1 stone, 1 token
-- Brattssonr: 1 stone, 1 token
-- Bredkvie: 1 stone, 1 token
-- Breiðarjóðr: 1 stone, 1 token
-- Breíðukvíum: 1 stone, 1 token
-- Brettifa: 1 stone, 1 token
-- Brigit: 1 stone, 2 tokens
-- Brísa: 2 stones, 2 tokens
-- Brísi: 1 stone, 1 token
-- Broddi: 1 stone, 1 token
-- Broddr: 2 stones, 2 tokens; forms Broddr (1), Brodd (1)
-- Bróðir: 8 stones, 8 tokens
-- Bróður: 3 stones, 4 tokens; forms Bróður (3), bróður (1)
-- Bróðurs: 1 stone, 1 token
-- Brún: 1 stone, 1 token
-- Brúna: 7 stones, 7 tokens
-- Brúni: 10 stones, 10 tokens
-- Brúnkell: 1 stone, 1 token
-- Brúnketill: 1 stone, 1 token
-- Brúnmaðr: 2 stones, 2 tokens
-- Brunnum: 1 stone, 1 token
-- Brúsa: 2 stones, 2 tokens
-- Brúsaeiki: 1 stone, 1 token
-- Brúsi: 5 stones, 9 tokens
-- Brynjulfr: 7 stones, 7 tokens; forms Brynjulfr (5), Brynjulf (2)
-- Brynjulfs: 1 stone, 1 token
-- Bryti: 2 stones, 2 tokens
-- bræ: 1 stone, 1 token
-- Búa: 3 stones, 4 tokens
-- Buddo: 1 stone, 1 token
-- Búdo: 1 stone, 1 token
-- Bugga: 2 stones, 2 tokens
-- Búi: 13 stones, 15 tokens
-- Bunt: 1 stone, 1 token
-- Búr-Almarr: 1 stone, 1 token
-- Burg: 2 stones, 3 tokens
-- Burge: 2 stones, 3 tokens
-- Búri: 2 stones, 2 tokens; forms Búri (1), buri (1)
-- buþu: 1 stone, 1 token
-- Bygglandi: 1 stone, 1 token
-- Býri: 1 stone, 1 token
-- Býrir: 1 stone, 1 token
-- Byrr: 1 stone, 1 token
-- Býsir: 1 stone, 1 token
-- Bysju: 1 stone, 1 token
-- Bænkfríðar: 1 stone, 1 token
-- Bænkfríðr: 1 stone, 1 token
-- Bøðnýar: 1 stone, 1 token
-- Bôðum: 1 stone, 1 token
-- Bôðvar: 1 stone, 1 token
-- Bôðvé: 1 stone, 1 token
-- Bôllungs: 1 stone, 1 token
-- Bôrkr: 1 stone, 1 token
-- Bœsir: 1 stone, 1 token
-- Catarina: 1 stone, 1 token
-- Chorezm: 1 stone, 1 token
-- Christe: 2 stones, 2 tokens
-- Christi: 6 stones, 11 tokens
-- Christo: 1 stone, 1 token
-- Christum: 1 stone, 1 token
-- Christus: 16 stones, 29 tokens
-- Constantinus: 2 stones, 2 tokens
-- Daglangs: 1 stone, 1 token
-- Dagr: 3 stones, 3 tokens; forms Dagr (2), Dag (1)
-- Dálkr: 1 stone, 1 token
-- Danmarkar: 1 stone, 1 token
-- Danr: 14 stones, 14 tokens; forms Danr (9), Dan (5)
-- Dans: 1 stone, 1 token
-- Danska: 1 stone, 1 token
-- Dási: 1 stone, 1 token
-- David: 5 stones, 5 tokens; forms David (3), Dáviðr (1), Dávið (1)
-- Dei: 1 stone, 1 token
-- Deus: 2 stones, 5 tokens
-- Diakonus: 1 stone, 1 token
-- Diarf: 1 stone, 1 token
-- Diðrik: 2 stones, 2 tokens; forms Diðrik (1), Didrik (1)
-- Dionysius: 4 stones, 5 tokens
-- Dísa: 1 stone, 2 tokens
-- Díselfr: 2 stones, 2 tokens
-- Dísvi: 1 stone, 2 tokens
-- Djákn: 1 stone, 1 token
-- Djarfr: 15 stones, 15 tokens; forms Djarfr (13), Djarf (2)
-- Djarfs: 1 stone, 1 token
-- Djúra: 3 stones, 4 tokens
-- Djúrgeir: 1 stone, 2 tokens
-- Djúri: 2 stones, 3 tokens
-- Dolga: 1 stone, 1 token
-- Dólgfinnr: 1 stone, 1 token
-- Dóma: 1 stone, 1 token
-- Dómara: 1 stone, 2 tokens; forms Dómara (1), dómara (1)
-- Domi: 2 stones, 3 tokens; forms Domi (2), Dómi (1)
-- Domini: 1 stone, 2 tokens
-- Dominus: 1 stone, 1 token
-- Dómisnes: 1 stone, 1 token
-- Domnall: 1 stone, 1 token
-- Dóta: 2 stones, 2 tokens
-- Dotbert: 1 stone, 1 token
-- Dóttir: 3 stones, 3 tokens
-- Dóttur: 1 stone, 1 token
-- Dragmál: 1 stone, 1 token
-- Dreng: 1 stone, 1 token
-- Drengi: 1 stone, 1 token
-- Drósbúi: 2 stones, 2 tokens
-- Drótni: 1 stone, 1 token
-- Druian: 1 stone, 1 token
-- Drums: 1 stone, 1 token
-- Dryllr: 1 stone, 1 token
-- Dufgals: 2 stones, 2 tokens
-- Dverg: 1 stone, 1 token
-- Dverg-Ketill: 1 stone, 1 token
-- Dyntr: 2 stones, 2 tokens
-- Dýra: 1 stone, 1 token
-- Dýrabergi: 1 stone, 1 token
-- Dýrbjôrn: 1 stone, 1 token
-- Dýri: 1 stone, 1 token
-- Dýrmóðsson: 1 stone, 1 token
-- Dýrvés: 1 stone, 1 token
-- Eadric: 1 stone, 1 token
-- Ebba: 4 stones, 4 tokens
-- Ebbi: 1 stone, 1 token
-- Ebbis: 1 stone, 1 token
-- Eðvin: 1 stone, 1 token
-- Efa: 1 stone, 1 token
-- Efesiorum: 1 stone, 1 token
-- Efi: 2 stones, 2 tokens
-- Efkar: 1 stone, 1 token
-- Efli: 1 stone, 1 token
-- Egidii: 1 stone, 1 token
-- Egil: 2 stones, 3 tokens
-- Egla: 2 stones, 2 tokens
-- Egvið: 1 stone, 1 token
-- Ei: 4 stones, 4 tokens
-- Eibjôrn: 6 stones, 7 tokens
-- Eiði: 1 stone, 1 token
-- Eifor: 1 stone, 1 token
-- Eihvatr: 1 stone, 1 token
-- Eikey: 1 stone, 1 token
-- Eikibý: 1 stone, 1 token
-- Eikinefs: 1 stone, 1 token
-- Eikru: 1 stone, 1 token
-- Eiksta: 1 stone, 1 token
-- Eilafr: 1 stone, 1 token
-- Eileifr: 6 stones, 6 tokens; forms Eileifr (3), Eileif (3)
-- Eilífr: 9 stones, 9 tokens; forms Eilífr (7), Eilíf (2)
-- Eilíkni: 1 stone, 1 token
-- Eimundar: 1 stone, 1 token
-- Eimundr: 5 stones, 6 tokens
-- Einarr: 11 stones, 12 tokens; forms Einarr (11), Einar (1)
-- Einars: 1 stone, 1 token
-- Einarssonr: 1 stone, 1 token
-- Eindriði: 9 stones, 11 tokens
-- Eingeirr: 1 stone, 1 token
-- Einjótr: 1 stone, 1 token
-- Einráða: 1 stone, 1 token
-- Einriði: 2 stones, 2 tokens
-- e-iR: 1 stone, 1 token
-- Eir-Bjôrn: 1 stone, 1 token
-- Eiríki: 1 stone, 1 token
-- Eiríkr: 26 stones, 26 tokens; forms Eiríkr (22), Eirík (4)
-- Eiríks: 4 stones, 5 tokens; forms Eiríks (4), Eiriks (1)
-- Eiríksdóttur: 1 stone, 1 token
-- Eiríkur: 1 stone, 1 token
-- Eiríkus: 1 stone, 1 token
-- Eist: 13 stones, 13 tokens; forms Eist (11), Eistr (2)
-- Eista: 1 stone, 1 token
-- Eistaland: 1 stone, 1 token
-- Eistfari: 1 stone, 1 token
-- Eistlôndum: 1 stone, 1 token
-- Eistmann: 1 stone, 1 token
-- Eistulf: 2 stones, 2 tokens
-- Eivísl: 1 stone, 3 tokens
-- Eivísli: 1 stone, 1 token
-- Eiþorn: 1 stone, 1 token
-- Ekebys: 1 stone, 1 token
-- Eksta: 1 stone, 1 token
-- Elda: 1 stone, 1 token
-- Eldjarn: 2 stones, 2 tokens
-- Eldríðr: 2 stones, 2 tokens
-- Elffrica: 1 stone, 1 token
-- Elgjaholts: 1 stone, 1 token
-- Elgjastôðum: 1 stone, 1 token
-- Elgr: 1 stone, 1 token
-- Elín: 2 stones, 2 tokens
-- Elion: 1 stone, 2 tokens
-- Elisabet: 2 stones, 2 tokens
-- Eloi: 1 stone, 1 token
-- Eloihim: 1 stone, 1 token
-- Elon: 1 stone, 6 tokens
-- Emanuel: 2 stones, 2 tokens
-- Endils: 1 stone, 1 token
-- Engibriktssonar: 1 stone, 1 token
-- Engla: 3 stones, 3 tokens
-- Englands: 6 stones, 6 tokens
-- Englandsfari: 2 stones, 2 tokens
-- Engli: 1 stone, 1 token
-- Enni: 1 stone, 1 token
-- Ennibrattar: 1 stone, 1 token
-- Ennibrattr: 1 stone, 1 token
-- Erfaz: 1 stone, 1 token
-- Ericus: 2 stones, 2 tokens
-- Erinbjôrn: 1 stone, 1 token
-- Erindís: 1 stone, 1 token
-- Erinfastr: 1 stone, 1 token
-- Eringeirr: 1 stone, 1 token
-- Eringerðr: 1 stone, 1 token
-- Eringunni: 1 stone, 1 token
-- Erinmundr: 5 stones, 5 tokens; forms Erinmundr (3), Erinmund (2)
-- Erinvarðr: 1 stone, 1 token
-- Erinvé: 3 stones, 3 tokens
-- Erlendr: 8 stones, 9 tokens
-- Erlendsson: 2 stones, 2 tokens; forms Erlendsson (1), Erlendssonr (1)
-- Erlingr: 12 stones, 13 tokens; forms Erlingr (12), Erling (1)
-- Erlings: 1 stone, 2 tokens
-- Ermundi: 1 stone, 1 token
-- Ern: 1 stone, 1 token
-- Ernbiôrn: 1 stone, 1 token
-- Ernbjôrn: 4 stones, 4 tokens
-- Erndís: 1 stone, 1 token
-- Ernfastr: 10 stones, 10 tokens; forms Ernfastr (8), Ernfast (2)
-- Ernfríðar: 1 stone, 1 token
-- Ernfríði: 1 stone, 1 token
-- Ernfríðr: 1 stone, 1 token
-- Erngautr: 1 stone, 1 token
-- Erngeirr: 1 stone, 1 token
-- Erngísl: 2 stones, 2 tokens
-- Ernlaug: 2 stones, 2 tokens
-- Ernleifr: 1 stone, 1 token
-- Ernmund: 8 stones, 9 tokens; forms Ernmund (6), Ernmundr (3)
-- Ernsteinn: 1 stone, 1 token
-- Ernvarðs: 1 stone, 1 token
-- Ernvars: 1 stone, 1 token
-- Ernviðr: 1 stone, 1 token
-- Erra: 1 stone, 1 token
-- Erri: 1 stone, 1 token
-- Erru: 1 stone, 1 token
-- esi: 1 stone, 1 token
-- Eskilhem: 1 stone, 1 token
-- Etil: 1 stone, 1 token
-- Etta: 1 stone, 1 token
-- Etti: 1 stone, 1 token
-- Ettu: 1 stone, 1 token
-- Eva: 1 stone, 2 tokens
-- Ey: 1 stone, 1 token
-- Eybjarnar: 1 stone, 1 token
-- Eybjôrg: 1 stone, 1 token
-- Eybjôrn: 5 stones, 5 tokens
-- Eydísi: 2 stones, 2 tokens
-- Eyðr: 1 stone, 1 token
-- Eygautr: 2 stones, 2 tokens
-- Eygeirr: 4 stones, 4 tokens
-- Eygeirs: 1 stone, 1 token
-- Eygota: 1 stone, 1 token
-- Eygrím: 1 stone, 1 token
-- Eyindr: 2 stones, 2 tokens; forms Eyindr (1), Eyind (1)
-- Eyja: 1 stone, 1 token
-- Eyjabó: 1 stone, 1 token
-- Eyjarr: 3 stones, 3 tokens; forms Eyjarr (2), Eyjar (1)
-- Eyjars: 1 stone, 1 token
-- Eyju: 1 stone, 1 token
-- Eyjulfr: 6 stones, 9 tokens; forms Eyjulfr (7), Eyjulf (2)
-- Eyjulfs: 1 stone, 1 token
-- Eykel: 2 stones, 2 tokens
-- Eylakr: 1 stone, 1 token
-- Eyleif: 1 stone, 1 token
-- Eymund: 2 stones, 2 tokens
-- Eymunda: 1 stone, 1 token
-- Eyndar: 1 stone, 1 token
-- Eyndr: 17 stones, 18 tokens; forms Eyndr (13), Eynd (5)
-- Eynjótr: 2 stones, 2 tokens
-- Eyrasundi: 1 stone, 1 token
-- Eyravaði: 1 stone, 1 token
-- Eyrhvatr: 1 stone, 1 token
-- Eyríki: 1 stone, 1 token
-- Eyríkr: 3 stones, 4 tokens
-- Eysteinn: 61 stones, 63 tokens; forms Eysteinn (41), Eystein (22)
-- Eysteins: 3 stones, 3 tokens
-- Eyvindar: 2 stones, 2 tokens
-- Eyvindr: 15 stones, 15 tokens; forms Eyvindr (8), Eyvind (7)
-- Faði: 1 stone, 1 token
-- Faðir: 2 stones, 2 tokens
-- Fagr: 1 stone, 1 token
-- Fáinn: 1 stone, 1 token
-- Fakaz: 2 stones, 2 tokens
-- Fara: 3 stones, 3 tokens
-- Farbjôrn: 3 stones, 3 tokens
-- Farbjôrnssonr: 1 stone, 1 token
-- Fargeirr: 2 stones, 2 tokens
-- Farmaðr: 2 stones, 2 tokens
-- Farulfr: 7 stones, 7 tokens; forms Farulfr (5), Farulf (2)
-- Farulfs: 2 stones, 2 tokens
-- Farþegn: 3 stones, 3 tokens
-- Fast: 2 stones, 2 tokens; forms Fast (1), Fastr (1)
-- Fasta: 10 stones, 10 tokens
-- Fastaðr: 1 stone, 1 token
-- Fastarr: 2 stones, 2 tokens; forms Fastarr (1), Fastar (1)
-- Fastbjôrn: 9 stones, 9 tokens
-- Fastgeirr: 6 stones, 6 tokens
-- Fastgerðr: 2 stones, 2 tokens
-- Fastheiði: 1 stone, 1 token
-- Fastheiðr: 1 stone, 1 token
-- Fasti: 10 stones, 10 tokens
-- Fastlaug: 11 stones, 11 tokens
-- Fastlaugu: 1 stone, 1 token
-- Fastmund: 1 stone, 1 token
-- Fastný: 1 stone, 1 token
-- Fastríð: 1 stone, 1 token
-- Fastulfr: 17 stones, 17 tokens; forms Fastulfr (12), Fastulf (5)
-- Fastulfs: 1 stone, 1 token
-- Fastvé: 3 stones, 3 tokens
-- Fastvéu: 1 stone, 1 token
-- Fastþegn: 1 stone, 2 tokens
-- Fati: 3 stones, 3 tokens
-- fauka: 1 stone, 1 token
-- Faus: 1 stone, 1 token
-- Fauskr: 1 stone, 1 token
-- Fáva: 1 stone, 1 token
-- Faxi: 1 stone, 2 tokens; forms Faxi (1), faxi (1)
-- Féar-Un: 1 stone, 2 tokens
-- Feðrasjó: 1 stone, 1 token
-- Feitr: 1 stone, 1 token
-- Ferð-Kári: 1 stone, 1 token
-- Fetr: 1 stone, 1 token
-- Fiak: 1 stone, 1 token
-- fiauar: 1 stone, 1 token
-- Fífill: 1 stone, 1 token
-- fila: 1 stone, 1 token
-- File: 1 stone, 1 token
-- Fíli: 1 stone, 1 token
-- Fílum: 1 stone, 1 token
-- Fingr: 1 stone, 1 token
-- Finnheiði: 3 stones, 3 tokens
-- Finno: 1 stone, 1 token
-- Finnr: 14 stones, 14 tokens; forms Finnr (11), Finn (3)
-- Finnulfs: 2 stones, 2 tokens
-- Finnviðar: 3 stones, 4 tokens
-- Finnviðr: 11 stones, 11 tokens; forms Finnviðr (9), Finnvið (2)
-- Firi: 1 stone, 1 token
-- fir--riui: 1 stone, 1 token
-- Fjôlmóð: 1 stone, 1 token
-- Fjôlvarr: 1 stone, 1 token
-- Fjôlvars: 1 stone, 1 token
-- Flenavík: 2 stones, 2 tokens
-- Flenvike: 2 stones, 2 tokens
-- Flír: 1 stone, 1 token
-- Folbóa: 1 stone, 1 token
-- Foldars: 1 stone, 1 token
-- Folkaðr: 1 stone, 1 token
-- Folkarr: 1 stone, 1 token
-- Folkbjôrn: 3 stones, 3 tokens
-- Folkgeirr: 1 stone, 3 tokens
-- Folkgerðr: 1 stone, 3 tokens
-- Folki: 3 stones, 3 tokens
-- Folkmarr: 1 stone, 1 token
-- Folksteinn: 1 stone, 1 token
-- Folku: 1 stone, 1 token
-- Folkvarðr: 1 stone, 1 token
-- Folkvé: 2 stones, 2 tokens
-- Folkviðr: 2 stones, 2 tokens
-- Fómir: 1 stone, 1 token
-- Forkunnr: 10 stones, 10 tokens; forms Forkunnr (7), Forkunn (3)
-- Forsjáll: 1 stone, 1 token
-- Fóthraðr: 1 stone, 1 token
-- Fótr: 8 stones, 8 tokens; forms Fótr (7), Fót (1)
-- Fóts: 1 stone, 1 token
-- Fox: 1 stone, 1 token
-- fr: 1 stone, 1 token
-- Fraða: 1 stone, 1 token
-- Fraði: 1 stone, 1 token
-- Fraðulf: 1 stone, 1 token
-- Frakka: 1 stone, 1 token
-- Frans: 1 stone, 1 token
-- Frawaradaz: 1 stone, 1 token
-- Freða: 1 stone, 1 token
-- Freði: 1 stone, 1 token
-- Frey: 2 stones, 2 tokens
-- Freybjôrn: 11 stones, 11 tokens
-- Freydís: 1 stone, 1 token
-- Freygeiri: 1 stone, 2 tokens
-- Freygeirr: 9 stones, 9 tokens; forms Freygeirr (5), Freygeir (4)
-- Freygeirs: 3 stones, 4 tokens
-- Freygerðar: 1 stone, 1 token
-- Freygerðr: 1 stone, 1 token
-- Freygunnr: 2 stones, 2 tokens
-- Freyjil: 1 stone, 1 token
-- Freylaug: 1 stone, 1 token
-- Freyríkr: 1 stone, 1 token
-- Freyslundum: 1 stone, 1 token
-- Freysteinn: 28 stones, 31 tokens; forms Freysteinn (18), Freystein (13)
-- Freysteins: 1 stone, 1 token
-- Frið: 1 stone, 1 token
-- Fríða: 1 stone, 1 token
-- Friðbjôrn: 1 stone, 1 token
-- Friðelfi: 1 stone, 1 token
-- Friðelfr: 1 stone, 1 token
-- Friðgeirr: 2 stones, 2 tokens
-- Friði: 2 stones, 2 tokens
-- Friðleifs: 1 stone, 1 token
-- Friðmundr: 1 stone, 1 token
-- Fríðu: 1 stone, 1 token
-- Friðulf: 1 stone, 1 token
-- Friggis: 1 stone, 1 token
-- Frii: 1 stone, 1 token
-- Fríslands: 1 stone, 1 token
-- Fríss: 1 stone, 1 token
-- Fróa: 1 stone, 1 token
-- Fróða: 1 stone, 1 token
-- Fróði: 1 stone, 1 token
-- Froila: 1 stone, 1 token
-- Frosta: 4 stones, 4 tokens
-- Frosti: 2 stones, 2 tokens
-- Frøðar: 1 stone, 1 token
-- Fröjel: 1 stone, 1 token
-- Frœkn: 1 stone, 1 token
-- Frœknar: 1 stone, 1 token
-- Fuðkula: 1 stone, 1 token
-- Fuðsleikir: 1 stone, 1 token
-- Fugl: 1 stone, 1 token
-- Fugla: 1 stone, 1 token
-- Fúl: 1 stone, 2 tokens; forms Fúl (1), Full (1)
-- Fulluga: 4 stones, 4 tokens
-- Fullugi: 19 stones, 20 tokens
-- Fúlni: 1 stone, 1 token
-- Fumma: 1 stone, 1 token
-- Fundinn: 6 stones, 6 tokens; forms Fundinn (5), Fundin (1)
-- Funi: 1 stone, 1 token
-- Funiz: 1 stone, 1 token
-- Funnum: 1 stone, 1 token
-- Fúnum: 1 stone, 1 token
-- Fyl: 1 stone, 1 token
-- Fylkir: 1 stone, 3 tokens
-- Fôður: 2 stones, 3 tokens
-- Fœri: 1 stone, 1 token
-- G: 1 stone, 1 token
-- Gabriel: 5 stones, 6 tokens
-- Gadda: 1 stone, 1 token
-- Gag: 7 stones, 8 tokens; forms Gag (5), Gagr (3)
-- Gaga: 1 stone, 1 token
-- Gagar: 1 stone, 1 token
-- Gagnvið: 2 stones, 2 tokens; forms Gagnvið (1), Gagnviðr (1)
-- Gagnviðararfa: 1 stone, 1 token
-- Galinn: 1 stone, 1 token
-- Galla: 1 stone, 1 token
-- Galmi: 1 stone, 1 token
-- Gamalíel: 1 stone, 1 token
-- Gamall: 13 stones, 15 tokens; forms Gamall (12), Gamal (3)
-- Gamals: 1 stone, 1 token
-- Gamla: 1 stone, 1 token
-- Gamli: 1 stone, 1 token
-- Gangulfr: 1 stone, 1 token
-- Ganna: 1 stone, 1 token
-- Gannarve: 1 stone, 1 token
-- Gansa: 2 stones, 2 tokens
-- Gapi: 1 stone, 1 token
-- Gapr: 1 stone, 1 token
-- Garde: 2 stones, 2 tokens
-- Garðr: 1 stone, 1 token
-- Garðstôngum: 1 stone, 1 token
-- Garmr: 1 stone, 1 token
-- Garna: 1 stone, 1 token
-- Gás: 3 stones, 3 tokens
-- Gása: 1 stone, 1 token
-- Gási: 5 stones, 5 tokens
-- Gaukr: 1 stone, 1 token
-- Gauss: 3 stones, 3 tokens
-- Gauta: 2 stones, 2 tokens
-- Gautarr: 1 stone, 1 token
-- Gautasonr: 1 stone, 1 token
-- Gautdjarfr: 1 stone, 1 token
-- Gauti: 5 stones, 5 tokens
-- Gautr: 11 stones, 11 tokens; forms Gautr (8), Gaut (3)
-- Gautráðr: 1 stone, 1 token
-- Gauts: 3 stones, 3 tokens
-- Gautulfr: 1 stone, 1 token
-- Gautviðr: 1 stone, 1 token
-- Gauþz: 1 stone, 1 token
-- Gedda: 1 stone, 1 token
-- Geddu: 1 stone, 1 token
-- Geira: 8 stones, 8 tokens
-- Geiralf: 1 stone, 1 token
-- Geirarðr: 1 stone, 1 token
-- Geirbjarnar: 2 stones, 2 tokens
-- Geirbjôrn: 16 stones, 17 tokens
-- Geirdjarfr: 1 stone, 1 token
-- Geirfast: 8 stones, 8 tokens; forms Geirfast (5), Geirfastr (3)
-- Geirfríðr: 1 stone, 1 token
-- Geirhildr: 1 stone, 1 token
-- Geirhjalmr: 3 stones, 3 tokens; forms Geirhjalmr (2), Geirhjalm (1)
-- Geirhvatar: 1 stone, 1 token
-- Geirhvatr: 7 stones, 8 tokens
-- Geiri: 7 stones, 7 tokens
-- Geirlakr: 2 stones, 3 tokens
-- Geirlaug: 1 stone, 2 tokens
-- Geirlaugar: 1 stone, 1 token
-- Geirleifr: 2 stones, 2 tokens
-- Geirma: 1 stone, 1 token
-- Geirmarr: 3 stones, 3 tokens; forms Geirmarr (2), Geirmar (1)
-- Geirmóð: 1 stone, 1 token
-- Geirmunda: 1 stone, 1 token
-- Geirmundar: 2 stones, 2 tokens
-- Geirmundr: 16 stones, 17 tokens; forms Geirmundr (9), Geirmund (8)
-- Geirna: 1 stone, 1 token
-- Geirnjótr: 1 stone, 1 token
-- Geirr: 13 stones, 15 tokens; forms Geirr (9), Geir (6)
-- Geirrøð: 1 stone, 1 token
-- Geirsteinn: 1 stone, 1 token
-- Geirulf: 2 stones, 2 tokens
-- Geirunni: 1 stone, 1 token
-- Geirvaldr: 4 stones, 5 tokens; forms Geirvaldr (4), Geirvald (1)
-- Geirvarar: 1 stone, 1 token
-- Geirvarr: 1 stone, 1 token
-- Geirvé: 3 stones, 4 tokens
-- Geirvéar: 1 stone, 1 token
-- Geirviðr: 1 stone, 1 token
-- Geirvôr: 2 stones, 2 tokens
-- Geit: 1 stone, 1 token
-- Geiti: 1 stone, 1 token
-- Geitingr: 1 stone, 1 token
-- Gelf: 2 stones, 2 tokens
-- Gelfs: 1 stone, 1 token
-- Gerðarr: 15 stones, 15 tokens; forms Gerðarr (9), Gerðar (6)
-- Gerðars: 1 stone, 1 token
-- Gertruð: 1 stone, 1 token
-- Gestr: 1 stone, 1 token
-- Gilda: 2 stones, 2 tokens
-- Gilla: 1 stone, 1 token
-- Gillaug: 18 stones, 19 tokens
-- Gillaugar: 2 stones, 2 tokens
-- Gillingr: 1 stone, 1 token
-- Gína: 3 stones, 3 tokens
-- Ginna: 3 stones, 3 tokens
-- Ginnfastr: 1 stone, 1 token
-- Ginnlaug: 3 stones, 3 tokens
-- Ginnlaugar: 2 stones, 2 tokens
-- Ginnlaugu: 1 stone, 1 token
-- Gínu: 1 stone, 1 token
-- giokuifr: 1 stone, 1 token
-- Gísa: 1 stone, 1 token
-- Gisico: 1 stone, 1 token
-- Gísl: 23 stones, 23 tokens
-- Gísla: 3 stones, 3 tokens
-- Gíslarsonr: 1 stone, 1 token
-- Gíslaug: 6 stones, 8 tokens
-- Gísli: 1 stone, 1 token
-- Gísls: 1 stone, 1 token
-- Gísmundar: 1 stone, 1 token
-- Gísmundr: 2 stones, 2 tokens
-- Gíssteinn: 1 stone, 1 token
-- Gjafaldr: 1 stone, 1 token
-- Gjaflaug: 2 stones, 2 tokens; forms Gjaflaug (1), Gjaflaugr (1)
-- Gjafulfr: 1 stone, 1 token
-- Gjalli: 2 stones, 3 tokens
-- Glaði: 2 stones, 2 tokens
-- Glegga: 1 stone, 1 token
-- Gleggi: 1 stone, 1 token
-- Glippir: 1 stone, 1 token
-- Glóa: 1 stone, 1 token
-- Glóða: 1 stone, 1 token
-- Gloppa: 1 stone, 1 token
-- Glúmr: 1 stone, 1 token
-- Glôggr: 1 stone, 1 token
-- Gnauðimaðr: 1 stone, 1 token
-- Gneggis: 1 stone, 1 token
-- gnumante: 1 stone, 1 token
-- Gnúpa: 1 stone, 1 token
-- Gnúpr: 2 stones, 2 tokens
-- Gnúpu: 2 stones, 2 tokens
-- Gnýpli: 1 stone, 1 token
-- Gnýs: 1 stone, 1 token
-- Godagas: 1 stone, 1 token
-- Godagastiz: 1 stone, 1 token
-- Godefridus: 1 stone, 1 token
-- Góða: 4 stones, 5 tokens; forms Góða (4), Goða (1)
-- góðan: 4 stones, 4 tokens
-- Góðr: 1 stone, 1 token
-- Gorm: 4 stones, 4 tokens; forms Gorm (2), Gormr (2)
-- Gorms: 2 stones, 3 tokens
-- Gota: 5 stones, 5 tokens
-- Goti: 4 stones, 4 tokens
-- Gotis: 1 stone, 1 token
-- Granar: 1 stone, 1 token
-- Granbý: 1 stone, 1 token
-- Gräne: 1 stone, 1 token
-- Grani: 1 stone, 1 token
-- Gregores: 1 stone, 1 token
-- Gregorius: 2 stones, 2 tokens
-- Grein: 2 stones, 2 tokens
-- Greip: 1 stone, 1 token
-- Grenjum: 1 stone, 1 token
-- Grenski: 1 stone, 1 token
-- Grettis: 1 stone, 1 token
-- Grikkfara: 2 stones, 2 tokens
-- Grikkhafnir: 1 stone, 1 token
-- Grikki: 1 stone, 1 token
-- Grikkjar: 1 stone, 1 token
-- Grímarr: 3 stones, 3 tokens; forms Grímarr (2), Grímar (1)
-- Grímkell: 2 stones, 2 tokens
-- Grímketill: 1 stone, 1 token
-- Grímmund: 1 stone, 1 token
-- Grímnis: 1 stone, 1 token
-- Grímr: 15 stones, 17 tokens; forms Grímr (15), Grím (2)
-- Gríms: 3 stones, 3 tokens
-- Grímu: 1 stone, 1 token
-- Grímulfr: 6 stones, 6 tokens; forms Grímulfr (3), Grímulf (3)
-- Grípis: 1 stone, 1 token
-- Grípr: 1 stone, 1 token
-- Grjótgarðr: 2 stones, 2 tokens
-- Grjótum: 1 stone, 1 token
-- Gróa: 2 stones, 2 tokens
-- Grœnalands: 1 stone, 1 token
-- Gubba: 2 stones, 3 tokens
-- Guða: 2 stones, 4 tokens
-- Guðbjarnar: 3 stones, 3 tokens
-- Guðbjôrn: 9 stones, 10 tokens
-- Guðbrandr: 2 stones, 2 tokens
-- Guðelfar: 1 stone, 1 token
-- Guðelfi: 1 stone, 1 token
-- Guðfastar: 1 stone, 1 token
-- Guðfastr: 18 stones, 18 tokens; forms Guðfastr (13), Guðfast (5)
-- Guðfinns: 1 stone, 1 token
-- Guðfreðr: 1 stone, 1 token
-- Guðfríði: 1 stone, 1 token
-- Guðfríðr: 5 stones, 5 tokens
-- Guðis: 1 stone, 1 token
-- Guðissnapa: 1 stone, 1 token
-- Guðki: 1 stone, 1 token
-- Guðlaf: 1 stone, 2 tokens
-- Guðlaug: 18 stones, 22 tokens
-- Guðlaugar: 2 stones, 2 tokens
-- Guðlaugu: 1 stone, 1 token
-- Guðleifar: 1 stone, 1 token
-- Guðleifr: 4 stones, 5 tokens; forms Guðleifr (4), Guðleif (1)
-- Guðleifs: 1 stone, 1 token
-- Guðmann: 1 stone, 1 token
-- Guðmar: 5 stones, 6 tokens
-- Guðmóðr: 2 stones, 2 tokens; forms Guðmóðr (1), Guðmóð (1)
-- Guðmundar: 3 stones, 4 tokens
-- Guðmundr: 32 stones, 33 tokens; forms Guðmundr (24), Guðmund (9)
-- Guðmunds: 1 stone, 1 token
-- Guðnjótr: 1 stone, 2 tokens
-- Guðný: 1 stone, 1 token
-- Guðormr: 1 stone, 1 token
-- Guðríðr: 1 stone, 1 token
-- Guðrík: 8 stones, 8 tokens; forms Guðrík (5), Guðríkr (3)
-- Guðríks: 1 stone, 1 token
-- Guðrún: 6 stones, 7 tokens
-- Guðstein: 2 stones, 2 tokens; forms Guðstein (1), Guðsteinn (1)
-- Guðulfr: 1 stone, 1 token
-- Guðulfsdóttur: 1 stone, 1 token
-- Guðvarðr: 2 stones, 2 tokens; forms Guðvarðr (1), Guðvarð (1)
-- Guðvarr: 3 stones, 3 tokens; forms Guðvarr (2), Guðvar (1)
-- Guðvé: 2 stones, 2 tokens
-- Guðveig: 1 stone, 1 token
-- Guðvér: 3 stones, 3 tokens
-- Guðvés: 1 stone, 1 token
-- Guðvin: 1 stone, 1 token
-- Guðvini: 4 stones, 4 tokens
-- Guðvôr: 2 stones, 2 tokens
-- Guðvôru: 1 stone, 1 token
-- Guðþormr: 2 stones, 2 tokens
-- Guðþorn: 1 stone, 1 token
-- Gufa: 1 stone, 1 token
-- Gufi: 4 stones, 4 tokens
-- Gulbrandr: 1 stone, 1 token
-- Gulla: 5 stones, 6 tokens
-- Gullaug: 5 stones, 6 tokens
-- Gullaugar: 1 stone, 1 token
-- Gulleifr: 8 stones, 8 tokens; forms Gulleifr (6), Gulleif (2)
-- Gulleifs: 1 stone, 1 token
-- Gulley: 1 stone, 1 token
-- Gullfinnr: 1 stone, 1 token
-- Gulli: 3 stones, 3 tokens
-- Gumma: 1 stone, 1 token
-- Gummi: 2 stones, 2 tokens
-- Gunn: 6 stones, 7 tokens; forms Gunn (6), Gunnr (1)
-- Gunna: 26 stones, 27 tokens
-- Gunnari: 1 stone, 1 token
-- Gunnarr: 87 stones, 95 tokens; forms Gunnarr (73), Gunnar (22)
-- Gunnars: 6 stones, 6 tokens
-- Gunn-Bjúr: 1 stone, 1 token
-- Gunnbjôrn: 12 stones, 13 tokens
-- Gunnborga: 1 stone, 1 token
-- Gunndjarfr: 2 stones, 2 tokens; forms Gunndjarfr (1), Gunndjarf (1)
-- Gunnelfr: 2 stones, 2 tokens
-- Gunnfastr: 1 stone, 1 token
-- Gunnfús: 1 stone, 1 token
-- Gunnheiði: 1 stone, 1 token
-- Gunnheiðr: 1 stone, 1 token
-- Gunnhildar: 1 stone, 1 token
-- Gunnhildarsonr: 1 stone, 1 token
-- Gunnhildi: 2 stones, 2 tokens
-- Gunnhildr: 13 stones, 14 tokens; forms Gunnhildr (13), Gunnhild (1)
-- Gunnhvatar: 1 stone, 1 token
-- Gunnhvatr: 6 stones, 6 tokens; forms Gunnhvatr (3), Gunnhvat (3)
-- Gunni: 14 stones, 15 tokens
-- Gunnkell: 1 stone, 1 token
-- Gunnlaug: 1 stone, 1 token
-- Gunnleifr: 4 stones, 4 tokens; forms Gunnleifr (2), Gunnleif (2)
-- Gunnmarr: 1 stone, 3 tokens
-- Gunnmundar: 2 stones, 2 tokens
-- Gunnreifr: 1 stone, 1 token
-- Gunnríðr: 1 stone, 1 token
-- Gunnsitr: 1 stone, 1 token
-- Gunnsteinn: 2 stones, 2 tokens
-- Gunnu: 7 stones, 7 tokens
-- Gunnuðr: 1 stone, 1 token
-- Gunnulfr: 6 stones, 6 tokens; forms Gunnulfr (3), Gunnulf (3)
-- Gunnulfs: 2 stones, 2 tokens
-- Gunnvaldr: 4 stones, 4 tokens; forms Gunnvaldr (3), Gunnvald (1)
-- Gunnvalds: 1 stone, 1 token
-- Gunnvar: 1 stone, 2 tokens
-- Gunnvarar: 1 stone, 1 token
-- Gunnviðr: 4 stones, 4 tokens; forms Gunnviðr (3), Gunnvið (1)
-- Gunnvôr: 9 stones, 9 tokens
-- Gunnvôru: 1 stone, 1 token
-- Gunnþrúðr: 1 stone, 1 token
-- Gusi: 1 stone, 1 token
-- Gusir: 1 stone, 1 token
-- Guss: 3 stones, 3 tokens; forms Guss (2), Gus (1)
-- Gussi: 1 stone, 1 token
-- Gutis: 1 stone, 1 token
-- Gyða: 9 stones, 10 tokens
-- Gyðings: 1 stone, 1 token
-- Gyðu: 1 stone, 1 token
-- Gýi: 8 stones, 8 tokens
-- Gylfir: 1 stone, 1 token
-- Gylla: 7 stones, 7 tokens
-- Gylli: 1 stone, 1 token
-- Gyllir: 1 stone, 1 token
-- Gyllu: 1 stone, 1 token
-- Gynna: 2 stones, 2 tokens
-- Gyra: 1 stone, 1 token
-- Gyrð: 3 stones, 3 tokens; forms Gyrð (2), Gyrðr (1)
-- Gyrðar: 1 stone, 1 token
-- Gyrðir: 1 stone, 1 token
-- Gyríðar: 3 stones, 3 tokens
-- Gyríði: 1 stone, 1 token
-- Gyríðr: 17 stones, 17 tokens; forms Gyríðr (15), Gýríðr (1), Gyrið (1)
-- Gyrill: 1 stone, 2 tokens
-- Gæfr: 1 stone, 1 token
-- Gæsling: 1 stone, 1 token
-- Gôrðum: 7 stones, 8 tokens
-- Habukoþuz: 1 stone, 1 token
-- Haddr: 1 stone, 1 token
-- Hadulaikaz: 1 stone, 1 token
-- Haðalandi: 1 stone, 1 token
-- Haðistôðum: 1 stone, 1 token
-- Háðska: 1 stone, 1 token
-- Hafdjarfr: 1 stone, 2 tokens; forms Hafdjarfr (1), hafdjarfr (1)
-- Hafgrími: 1 stone, 1 token
-- Hafrs: 1 stone, 1 token
-- Hagbarðr: 1 stone, 2 tokens
-- Hagebý: 1 stone, 1 token
-- Hagiradaz: 1 stone, 1 token
-- Hagnastôðum: 1 stone, 1 token
-- Hagnestäde: 1 stone, 1 token
-- Hagni: 1 stone, 1 token
-- Hagnviðr: 1 stone, 1 token
-- Hagormr: 1 stone, 1 token
-- Hagrjóð: 1 stone, 1 token
-- Hagstein: 1 stone, 1 token
-- Hagusta(l)daz: 1 stone, 1 token
-- Hagustaldaz: 1 stone, 1 token
-- Háislar: 1 stone, 1 token
-- Haki: 3 stones, 3 tokens
-- Haklang: 1 stone, 1 token
-- Haklangs: 1 stone, 1 token
-- Hákon: 24 stones, 24 tokens
-- Hákonar: 6 stones, 6 tokens
-- Hakoþuz: 1 stone, 1 token
-- Hála: 1 stone, 1 token
-- Háleikr: 1 stone, 1 token
-- Halfborinn: 1 stone, 1 token
-- Halfburinn: 1 stone, 1 token
-- Halfdan: 48 stones, 48 tokens
-- Halfdanar: 4 stones, 4 tokens
-- Halla: 1 stone, 1 token
-- Hallasonr: 1 stone, 1 token
-- Hallbjôrg: 3 stones, 3 tokens
-- Hallbjôrn: 2 stones, 2 tokens
-- Halldóra: 1 stone, 1 token
-- Halldórr: 2 stones, 2 tokens
-- Halldórs: 2 stones, 2 tokens
-- Hallfreðar: 1 stone, 1 token
-- Hallfreðr: 1 stone, 1 token
-- Hallfríðar: 1 stone, 1 token
-- Hallfríðr: 1 stone, 1 token
-- Hallgeirr: 2 stones, 2 tokens
-- Hallgísl: 1 stone, 1 token
-- Hallgrímssonr: 1 stone, 1 token
-- Hallhvatr: 1 stone, 1 token
-- Hallhvats: 1 stone, 1 token
-- Halli: 2 stones, 2 tokens
-- Hallkatla: 1 stone, 1 token
-- Hallkell: 1 stone, 1 token
-- Hallr: 4 stones, 4 tokens; forms Hallr (3), Hall (1)
-- Hallssonr: 1 stone, 1 token
-- Hallsteinn: 5 stones, 5 tokens; forms Hallsteinn (4), Hallstein (1)
-- Hallvarði: 1 stone, 1 token
-- Hallvarðr: 8 stones, 8 tokens; forms Hallvarðr (7), Hallvarð (1)
-- Hallvarðs: 2 stones, 2 tokens
-- Hallvarðsmessu: 1 stone, 1 token
-- Hallvarðssonr: 1 stone, 1 token
-- Hallvéar: 1 stone, 2 tokens
-- Hallvéu: 1 stone, 1 token
-- Hallþjóð: 1 stone, 1 token
-- Hallþjóðu: 1 stone, 1 token
-- Hals: 2 stones, 2 tokens
-- Hamarbý: 1 stone, 1 token
-- Hambri: 2 stones, 2 tokens
-- Hammars: 2 stones, 2 tokens
-- Hámunda: 1 stone, 1 token
-- Hámundr: 1 stone, 1 token
-- Hana: 1 stone, 1 token
-- Handar: 2 stones, 2 tokens
-- Hani: 2 stones, 2 tokens
-- Hans: 1 stone, 1 token
-- Hanssen: 1 stone, 1 token
-- Harald(r: 1 stone, 1 token
-- Haraldr: 13 stones, 14 tokens; forms Haraldr (9), Harald (5)
-- Haralds: 4 stones, 4 tokens
-- Harðar: 1 stone, 1 token
-- Harðarsonr: 1 stone, 1 token
-- Harð<eksi: 1 stone, 1 token
-- Harðenna: 1 stone, 1 token
-- Harðgeirr: 1 stone, 1 token
-- Harði: 1 stone, 1 token
-- Harðina: 1 stone, 1 token
-- Harðsteinn: 2 stones, 3 tokens
-- Harðsteins: 1 stone, 1 token
-- Hariso: 1 stone, 1 token
-- Hari<uha: 1 stone, 1 token
-- Hariwulfa: 1 stone, 2 tokens
-- Hariwulfz: 1 stone, 2 tokens
-- Harja: 2 stones, 2 tokens
-- Harkilaz: 1 stone, 1 token
-- Harmsorga: 1 stone, 1 token
-- Harpara: 1 stone, 2 tokens
-- Háruk: 1 stone, 1 token
-- Háruks: 1 stone, 1 token
-- Harvistôðum: 1 stone, 1 token
-- Hástein: 4 stones, 4 tokens; forms Hástein (3), Hásteinn (1)
-- Há<tiuR: 1 stone, 1 token
-- Haugbý: 2 stones, 2 tokens
-- Haugum: 1 stone, 1 token
-- Haukoþuz: 1 stone, 1 token
-- Haukr: 5 stones, 5 tokens
-- Háulf: 1 stone, 1 token
-- Haurlaug: 1 stone, 1 token
-- Haurr: 2 stones, 2 tokens; forms Haurr (1), Haur (1)
-- Haursa: 4 stones, 4 tokens
-- Haursi: 3 stones, 3 tokens
-- Hávarðr: 5 stones, 6 tokens
-- Hávarðssonr: 1 stone, 1 token
-- Hávarr: 1 stone, 1 token
-- Haþuwolfa: 1 stone, 1 token
-- HaþuwulfaR: 1 stone, 1 token
-- HaþuwulfR: 1 stone, 1 token
-- Haþuwulfz: 2 stones, 4 tokens
-- Heðinbjôrn: 2 stones, 2 tokens
-- Heðindís: 3 stones, 3 tokens
-- Heðinfast: 4 stones, 5 tokens
-- Heðinfríða: 1 stone, 1 token
-- Heðingeirr: 2 stones, 2 tokens
-- Heðingunnr: 1 stone, 1 token
-- Heðinn: 12 stones, 13 tokens; forms Heðinn (7), Heðin (6)
-- Heðinvé: 2 stones, 2 tokens
-- Hefni: 1 stone, 1 token
-- Hefnir: 1 stone, 1 token
-- Heg: 1 stone, 1 token
-- Hegbjôrn: 1 stone, 1 token
-- Hegga: 1 stone, 1 token
-- Heghvat: 1 stone, 1 token
-- Heghvatar: 1 stone, 1 token
-- Hegleikr: 1 stone, 1 token
-- Hegmundr: 1 stone, 1 token
-- Hegulfr: 2 stones, 2 tokens
-- Hegvaldi: 1 stone, 1 token
-- Hegvaldr: 2 stones, 2 tokens
-- Hegvarðs: 1 stone, 1 token
-- Hegvé: 1 stone, 1 token
-- Hegvér: 1 stone, 1 token
-- Hegviða: 1 stone, 1 token
-- Hegviðar: 1 stone, 1 token
-- Hegviðr: 5 stones, 5 tokens; forms Hegviðr (3), Hegvið (2)
-- Hegvin: 1 stone, 1 token
-- Hé-Gylfa: 2 stones, 4 tokens
-- Hé-Gylfis: 2 stones, 2 tokens
-- Heiðabý: 5 stones, 5 tokens
-- Heiðr: 1 stone, 1 token
-- Heil: 1 stone, 1 token
-- Heilfús: 1 stone, 1 token
-- Heilgeirr: 3 stones, 3 tokens; forms Heilgeirr (2), Heilgeir (1)
-- Heilvé: 2 stones, 2 tokens
-- Heimaldr: 1 stone, 5 tokens
-- Heimdallr: 1 stone, 1 token
-- Heimkel: 3 stones, 3 tokens; forms Heimkel (2), Heimkell (1)
-- Heimkels: 1 stone, 1 token
-- Heimlaug: 1 stone, 1 token
-- Hein: 1 stone, 1 token
-- Heinrekr: 3 stones, 3 tokens; forms Heinrekr (2), Heinrek (1)
-- Heins: 1 stone, 1 token
-- Heldaz: 1 stone, 1 token
-- Helfr: 1 stone, 1 token
-- Helga: 27 stones, 29 tokens; forms Helga (28), helga (1)
-- Helgalandi: 1 stone, 1 token
-- Helgasonr: 2 stones, 2 tokens
-- Helgi: 16 stones, 17 tokens
-- Helgramessu: 1 stone, 1 token
-- Helgu: 2 stones, 2 tokens
-- Helgulfr: 4 stones, 4 tokens
-- Helgunnr: 1 stone, 1 token
-- Hella: 1 stone, 1 token
-- Hellvisbóar: 1 stone, 1 token
-- Hely: 1 stone, 1 token
-- Hemingr: 19 stones, 19 tokens; forms Hemingr (15), Heming (4)
-- Hemkell: 2 stones, 2 tokens; forms Hemkell (1), Hemkel (1)
-- Hemkels: 1 stone, 1 token
-- Henricus: 1 stone, 1 token
-- Henrik: 1 stone, 1 token
-- Hera: 2 stones, 2 tokens
-- Herbjôrn: 2 stones, 2 tokens
-- Herfreðr: 1 stone, 1 token
-- Herfríðr: 1 stone, 1 token
-- Herjarr: 2 stones, 2 tokens
-- Herjulfr: 5 stones, 5 tokens; forms Herjulfr (3), Herjulf (2)
-- Herjulfs: 1 stone, 1 token
-- Herlaugs: 1 stone, 1 token
-- Herleif: 1 stone, 1 token
-- Hermóðr: 3 stones, 3 tokens; forms Hermóðr (2), Hermóð (1)
-- Hermundr: 1 stone, 1 token
-- Herrøðr: 1 stone, 1 token
-- Hersir: 1 stone, 1 token
-- Herulfr: 1 stone, 1 token
-- Heruwulfiz: 1 stone, 2 tokens
-- Hervarðr: 1 stone, 1 token
-- Hervistôðum: 1 stone, 1 token
-- Herþrúðr: 1 stone, 2 tokens
-- Hettingr: 1 stone, 1 token
-- Hettusveins: 1 stone, 1 token
-- Hildulfr: 2 stones, 2 tokens
-- Hildungr: 1 stone, 1 token
-- Hildvígr: 1 stone, 1 token
-- Himinríkis: 1 stone, 1 token
-- himunafi: 1 stone, 1 token
-- Hinsarfa: 1 stone, 1 token
-- Hinsarve: 1 stone, 1 token
-- hinuntr: 1 stone, 1 token
-- hi--o: 1 stone, 1 token
-- Hiwigaz: 1 stone, 1 token
-- Hjalli: 1 stone, 1 token
-- Hjalmdís: 1 stone, 1 token
-- Hjalmfastr: 5 stones, 5 tokens; forms Hjalmfastr (4), Hjalmfast (1)
-- Hjalmgeirr: 2 stones, 2 tokens; forms Hjalmgeirr (1), Hjalmgeir (1)
-- Hjalmlaug: 2 stones, 2 tokens
-- Hjalmr: 2 stones, 2 tokens; forms Hjalmr (1), Hjalm (1)
-- Hjalms: 1 stone, 1 token
-- Hjalmviðr: 3 stones, 3 tokens; forms Hjalmviðr (2), Hjalmvið (1)
-- Hjalti: 1 stone, 1 token
-- Hjärne: 1 stone, 1 token
-- Hjarnum: 1 stone, 1 token
-- Hjôrtstôðum: 1 stone, 2 tokens
-- Hjôrulf: 1 stone, 1 token
-- Hjôrvarðr: 2 stones, 2 tokens
-- Hlaðgerðr: 1 stone, 1 token
-- Hlahahaukz: 1 stone, 1 token
-- Hlewagastiz: 1 stone, 1 token
-- Hlíf: 1 stone, 1 token
-- Hlífhildi: 1 stone, 2 tokens
-- Hlífsteinn: 12 stones, 12 tokens; forms Hlífsteinn (11), Hlífstein (1)
-- Hlífsteins: 1 stone, 1 token
-- Hlífundr: 1 stone, 1 token
-- hlu: 1 stone, 1 token
-- Hnabudas: 1 stone, 1 token
-- Hnakka: 1 stone, 1 token
-- Hnakki: 2 stones, 2 tokens
-- hnuþa: 1 stone, 1 token
-- Hofa: 1 stone, 1 token
-- Hofi: 4 stones, 5 tokens; forms Hofi (4), Høfi (1)
-- Holfi: 1 stone, 1 token
-- Holi: 1 stone, 1 token
-- Holma: 10 stones, 11 tokens
-- Holmbjôrn: 7 stones, 7 tokens
-- Holmdís: 4 stones, 4 tokens
-- Holmdísar: 1 stone, 1 token
-- Holmdísi: 1 stone, 1 token
-- Holmdjarf: 1 stone, 1 token
-- Holmdórr: 1 stone, 1 token
-- Holmf: 1 stone, 1 token
-- Holmfastar: 1 stone, 1 token
-- Holmfastr: 27 stones, 27 tokens; forms Holmfastr (19), Holmfast (8)
-- Holmfasts: 1 stone, 1 token
-- Holmfríðar: 2 stones, 2 tokens
-- Holmfríði: 2 stones, 2 tokens
-- Holmfríðr: 20 stones, 22 tokens
-- Holmgarði: 4 stones, 4 tokens
-- Holmgaut: 2 stones, 2 tokens; forms Holmgaut (1), Holmgautr (1)
-- Holmgeirr: 24 stones, 24 tokens; forms Holmgeirr (15), Holmgeir (9)
-- Holmgeirs: 3 stones, 3 tokens
-- Holmgerðr: 3 stones, 3 tokens
-- Holmi: 8 stones, 8 tokens
-- Holmlaug: 6 stones, 8 tokens; forms Holmlaug (5), Holmlaugr (3)
-- Holmlaugar: 1 stone, 1 token
-- Holmr: 3 stones, 3 tokens; forms Holmr (2), Holm (1)
-- Holms: 1 stone, 1 token
-- Holmsteinn: 26 stones, 26 tokens; forms Holmsteinn (18), Holmstein (8)
-- Holmsteins: 4 stones, 4 tokens
-- Holmu: 1 stone, 1 token
-- Holmvé: 1 stone, 1 token
-- Holmviðr: 4 stones, 5 tokens; forms Holmviðr (3), Holmvið (2)
-- Holta: 2 stones, 2 tokens
-- Holti: 1 stone, 1 token
-- Holtijaz: 1 stone, 1 token
-- Hónefr: 3 stones, 3 tokens; forms Hónefr (2), Hónef (1)
-- Hornbora: 1 stone, 1 token
-- Hornum: 1 stone, 1 token
-- Horsefni: 1 stone, 1 token
-- Houaz: 2 stones, 2 tokens
-- Houhaz: 1 stone, 1 token
-- houtian: 1 stone, 1 token
-- Hoz: 1 stone, 1 token
-- Hrabnaz: 1 stone, 1 token
-- Hraða: 1 stone, 1 token
-- Hraði: 1 stone, 2 tokens
-- Hrafn: 5 stones, 5 tokens
-- Hrafni: 1 stone, 1 token
-- Hrafns: 1 stone, 1 token
-- hragli: 1 stone, 1 token
-- Hrammstarka: 1 stone, 1 token
-- Hrana: 2 stones, 2 tokens
-- Hrani: 4 stones, 4 tokens
-- Hrazaz: 2 stones, 2 tokens
-- Hraþaz: 1 stone, 1 token
-- Hrefna: 1 stone, 2 tokens
-- Hrefningr: 2 stones, 2 tokens
-- Hreiðar: 2 stones, 2 tokens; forms Hreiðar (1), Hreiðarr (1)
-- Hreiðars: 1 stone, 1 token
-- Hreiðgotum: 1 stone, 1 token
-- Hreiði: 1 stone, 1 token
-- Hreiðmarar: 1 stone, 1 token
-- Hreiðulfar: 1 stone, 1 token
-- Hreiðulfr: 1 stone, 1 token
-- Hreiðulfs: 2 stones, 2 tokens
-- Hreppisson: 1 stone, 1 token
-- Hríði: 1 stone, 1 token
-- Hrifla: 2 stones, 2 tokens
-- Hring: 2 stones, 2 tokens; forms Hring (1), Hringr (1)
-- Hringaríki: 1 stone, 1 token
-- Hringja: 1 stone, 1 token
-- Hringstôðum: 1 stone, 1 token
-- Hrísney: 1 stone, 1 token
-- Hróalda: 1 stone, 1 token
-- Hróaldr: 3 stones, 3 tokens; forms Hróaldr (2), Hróald (1)
-- Hróalds: 1 stone, 1 token
-- Hroaldz: 1 stone, 1 token
-- Hróarr: 8 stones, 8 tokens; forms Hróarr (7), Hróar (1)
-- Hróð: 1 stone, 1 token
-- Hróða: 2 stones, 2 tokens
-- Hróðarr: 1 stone, 1 token
-- Hróðbjarnarfa: 1 stone, 1 token
-- Hróðbjôrn: 2 stones, 2 tokens
-- Hróðelfar: 1 stone, 1 token
-- Hróðelfr: 5 stones, 5 tokens
-- Hróðfinn: 1 stone, 1 token
-- Hróðfús: 1 stone, 1 token
-- Hróðfúsar: 1 stone, 1 token
-- Hróðgautr: 1 stone, 1 token
-- Hróðgeir: 3 stones, 3 tokens
-- Hróðgeirs: 2 stones, 2 tokens
-- Hróðgerða: 1 stone, 1 token
-- Hróðgísl: 1 stone, 1 token
-- Hróðheiðr: 1 stone, 1 token
-- Hróðheiðu: 1 stone, 1 token
-- Hróðhvat: 1 stone, 1 token
-- Hróðlaug: 1 stone, 1 token
-- Hróðlaugar: 1 stone, 1 token
-- Hróðleifr: 6 stones, 6 tokens; forms Hróðleifr (5), Hróðleif (1)
-- Hróðleikr: 3 stones, 3 tokens; forms Hróðleikr (2), Hróðleik (1)
-- Hróðlíkn: 2 stones, 2 tokens
-- Hróðmar: 3 stones, 4 tokens
-- Hróðmarsarfi: 1 stone, 1 token
-- Hróðmundr: 6 stones, 9 tokens; forms Hróðmundr (5), Hróðmund (4)
-- Hróðorm: 1 stone, 1 token
-- Hróðorms: 1 stone, 1 token
-- Hróðsteinn: 2 stones, 2 tokens
-- Hróðulfr: 4 stones, 4 tokens; forms Hróðulfr (3), Hróðulf (1)
-- Hróðvaldr: 3 stones, 3 tokens
-- Hróðvé: 4 stones, 4 tokens
-- Hróðvéar: 1 stone, 1 token
-- Hróðvéu: 1 stone, 1 token
-- Hróðviðar: 1 stone, 1 token
-- Hróðviðr: 2 stones, 2 tokens; forms Hróðviðr (1), Hróðvið (1)
-- Hróðvilaarfi: 1 stone, 1 token
-- Hróðvísl: 4 stones, 4 tokens
-- Hróðþjóð: 3 stones, 3 tokens
-- Hróðþjóðar: 2 stones, 2 tokens
-- Hróðþrúðr: 1 stone, 1 token
-- Hrói: 1 stone, 1 token
-- Hrók: 2 stones, 2 tokens
-- Hrólfr: 15 stones, 16 tokens; forms Hrólfr (11), Hrólf (5)
-- Hrólfsstôðum: 1 stone, 1 token
-- Hrossketill: 1 stone, 1 token
-- Hrozaz: 1 stone, 1 token
-- Hrúts: 1 stone, 1 token
-- Hrœðingr: 1 stone, 1 token
-- Hrœming: 1 stone, 1 token
-- Hrœríkr: 5 stones, 5 tokens
-- Hrœríks: 1 stone, 1 token
-- hua: 1 stone, 1 token
-- huas: 1 stone, 1 token
-- Hubert: 1 stone, 1 token
-- Huga: 1 stone, 1 token
-- Hugaldr: 1 stone, 1 token
-- Hugalds: 1 stone, 1 token
-- Hugals: 1 stone, 1 token
-- Hugbjôrn: 1 stone, 1 token
-- Hugi: 1 stone, 1 token
-- Hugulu: 1 stone, 1 token
-- Húkr: 1 stone, 1 token
-- huli: 1 stone, 1 token
-- Hultríkr: 1 stone, 1 token
-- hu-msr: 1 stone, 1 token
-- Hundengja: 1 stone, 1 token
-- Hundingjum: 1 stone, 1 token
-- Hunninge: 2 stones, 2 tokens
-- Húnvið: 1 stone, 1 token
-- Húsabý: 1 stone, 1 token
-- Húsbjôrn: 1 stone, 1 token
-- Húskarl: 5 stones, 6 tokens
-- Húskarls: 1 stone, 2 tokens
-- Húsríkr: 1 stone, 1 token
-- Húsum: 2 stones, 2 tokens; forms Húsum (1), husum (1)
-- huþska: 1 stone, 1 token
-- Hváli: 1 stone, 1 token
-- Hváli's: 1 stone, 1 token
-- Hvatarr: 1 stone, 1 token
-- Hvatr: 3 stones, 5 tokens
-- Hveimi: 1 stone, 1 token
-- Hvít: 4 stones, 4 tokens; forms Hvít (3), Hvítr (1)
-- Hvíthôfða: 2 stones, 2 tokens
-- Hvítkárs: 1 stone, 1 token
-- Hyfi: 1 stone, 1 token
-- Hylia: 1 stone, 1 token
-- Hylti: 1 stone, 1 token
-- Hýnifrár: 1 stone, 1 token
-- Hæli: 1 stone, 1 token
-- Hæni: 1 stone, 1 token
-- Hæra: 1 stone, 1 token
-- Hæru: 3 stones, 4 tokens
-- Hônd: 1 stone, 2 tokens
-- Hôr: 1 stone, 1 token
-- Hôrð: 2 stones, 2 tokens; forms Hôrð (1), Hôrðr (1)
-- Hôrðs: 1 stone, 1 token
-- Hôskuldr: 2 stones, 2 tokens
-- Hôsumýra: 1 stone, 1 token
-- Hôsva: 1 stone, 1 token
-- Hôsvi: 2 stones, 2 tokens
-- Iacobus: 5 stones, 5 tokens
-- i-al: 1 stone, 1 token
-- iarlR: 1 stone, 1 token
-- Íðaldr: 1 stone, 1 token
-- iel: 1 stone, 1 token
-- Iesu: 1 stone, 1 token
-- Iesus: 1 stone, 1 token
-- if--r: 1 stone, 1 token
-- Ígulbjôrn: 14 stones, 16 tokens
-- Ígulfastr: 15 stones, 15 tokens; forms Ígulfastr (11), Ígulfast (4)
-- Ígulfríðr: 3 stones, 3 tokens
-- Ígulgeir: 2 stones, 2 tokens
-- Ígull: 21 stones, 22 tokens; forms Ígull (11), Ígul (11)
-- ihu: 1 stone, 1 token
-- ikkrei: 1 stone, 1 token
-- ilin--r: 1 stone, 1 token
-- iliuri: 1 stone, 1 token
-- Illfúss: 1 stone, 1 token
-- Illuga: 4 stones, 4 tokens
-- Illugi: 13 stones, 14 tokens
-- ilturi: 1 stone, 1 token
-- Imi: 1 stone, 1 token
-- Immi: 1 stone, 1 token
-- Ing: 1 stone, 1 token
-- Inga: 23 stones, 23 tokens
-- Ingaduz: 1 stone, 1 token
-- Ingeborg: 1 stone, 1 token
-- Ingemarus: 1 stone, 1 token
-- Ingi: 9 stones, 10 tokens
-- Ingibjargar: 3 stones, 3 tokens
-- Ingibjærg: 1 stone, 1 token
-- Ingibjôrg: 9 stones, 9 tokens
-- Ingibjôrn: 6 stones, 6 tokens
-- Ingiey: 1 stone, 1 token
-- Ingifast: 35 stones, 36 tokens; forms Ingifast (18), Ingifastr (18)
-- Ingifastar: 3 stones, 3 tokens
-- Ingifríðar: 2 stones, 2 tokens
-- Ingifríði: 1 stone, 1 token
-- Ingifríðr: 3 stones, 4 tokens
-- Ingigeirr: 3 stones, 3 tokens
-- Ingigerði: 3 stones, 3 tokens
-- Ingigerðr: 15 stones, 15 tokens
-- Ingigunni: 1 stone, 1 token
-- Ingihvatr: 1 stone, 1 token
-- Ingijon: 1 stone, 1 token
-- Ingikárr: 1 stone, 1 token
-- Ingilaug: 3 stones, 3 tokens
-- Ingileif: 3 stones, 3 tokens
-- Ingimarar: 1 stone, 1 token
-- Ingimarr: 8 stones, 9 tokens; forms Ingimarr (7), Ingimar (2)
-- Ingimóð: 1 stone, 1 token
-- Ingimundr: 12 stones, 13 tokens; forms Ingimundr (8), Ingimund (5)
-- Ingiríði: 1 stone, 1 token
-- Ingiríðr: 2 stones, 2 tokens
-- Ingirún: 3 stones, 3 tokens
-- Ingirúnar: 1 stone, 1 token
-- Ingivaldr: 9 stones, 9 tokens; forms Ingivaldr (7), Ingivald (2)
-- Ingiþóra: 5 stones, 5 tokens
-- Ingiþóru: 5 stones, 5 tokens
-- Ingjaldr: 28 stones, 29 tokens; forms Ingjaldr (17), Ingjald (12)
-- Ingoldinga: 1 stone, 1 token
-- Ingríðr: 8 stones, 9 tokens
-- Ingu: 5 stones, 5 tokens
-- Ingulfr: 12 stones, 12 tokens; forms Ingulfr (8), Ingulf (4)
-- Ingvar: 21 stones, 22 tokens; forms Ingvar (13), Ingvarr (9)
-- Ingvari: 18 stones, 19 tokens
-- Ingvars: 7 stones, 7 tokens
-- iokis: 1 stone, 1 token
-- iolatr: 1 stone, 1 token
-- Ióna: 1 stone, 2 tokens
-- irfR: 1 stone, 1 token
-- i-rkiorþ: 1 stone, 1 token
-- isa: 1 stone, 1 token
-- Ísakr: 2 stones, 3 tokens
-- Isem: 1 stone, 2 tokens
-- isifara: 1 stone, 1 token
-- Ísjôkul: 1 stone, 1 token
-- Ísli: 2 stones, 2 tokens
-- Isome: 1 stone, 1 token
-- Isomi: 1 stone, 1 token
-- Ísulfr: 1 stone, 1 token
-- Isums: 1 stone, 2 tokens
-- iualfir: 1 stone, 1 token
-- i-ui: 1 stone, 1 token
-- iutis: 1 stone, 1 token
-- Iuþingaz: 1 stone, 1 token
-- Ívarðr: 1 stone, 1 token
-- Ívarr: 19 stones, 20 tokens; forms Ívarr (17), Ívar (3)
-- Ívars: 2 stones, 2 tokens
-- iþal-ra: 1 stone, 1 token
-- iþia-m: 1 stone, 1 token
-- Jacob: 1 stone, 1 token
-- Jacobi: 2 stones, 2 tokens
-- Jacobus: 4 stones, 4 tokens
-- Jacop: 1 stone, 1 token
-- Jaðri: 1 stone, 1 token
-- Jafna: 1 stone, 1 token
-- Jafra: 1 stone, 1 token
-- Jakobr: 27 stones, 28 tokens; forms Jakobr (18), Jakob (10)
-- Jakobs: 9 stones, 9 tokens
-- Jamtaland: 1 stone, 1 token
-- Jamts: 1 stone, 1 token
-- Jap: 1 stone, 1 token
-- Jargeir: 3 stones, 3 tokens; forms Jargeir (2), Jargeirr (1)
-- Jarl: 16 stones, 18 tokens
-- Jarla: 1 stone, 1 token
-- Jarlabanka: 1 stone, 1 token
-- Jarlabanki: 11 stones, 12 tokens
-- Jarls: 1 stone, 1 token
-- Jarlssonr: 1 stone, 1 token
-- Jarna: 1 stone, 1 token
-- Jarnstorp: 1 stone, 1 token
-- Jarpi: 1 stone, 1 token
-- Jarpr: 2 stones, 2 tokens; forms Jarpr (1), Jarp (1)
-- Jarpulf: 1 stone, 1 token
-- Jatvarðssonr: 1 stone, 1 token
-- Jerusalem: 1 stone, 1 token
-- Jésú: 2 stones, 2 tokens; forms Jésú (1), Jésu (1)
-- Jesum: 2 stones, 2 tokens
-- Jóan: 5 stones, 5 tokens
-- Jóarr: 6 stones, 7 tokens; forms Jóarr (4), Jóar (3)
-- Jóbjôrn: 6 stones, 6 tokens
-- Jófast: 1 stone, 1 token
-- Jófastu: 1 stone, 1 token
-- Jófríðr: 1 stone, 1 token
-- Jógeirr: 9 stones, 9 tokens; forms Jógeirr (7), Jógeir (2)
-- Jógerðr: 1 stone, 1 token
-- Joha: 1 stone, 1 token
-- Jóhan: 33 stones, 33 tokens
-- Jóhani: 1 stone, 1 token
-- Jóhanna: 1 stone, 1 token
-- Johannem: 1 stone, 1 token
-- Johannes: 31 stones, 32 tokens; forms Johannes (23), Jóhannes (9)
-- Jóhans: 3 stones, 3 tokens
-- Jólgeir: 1 stone, 1 token
-- Jón: 26 stones, 31 tokens; forms Jón (30), Jónn (1)
-- Jóns: 2 stones, 3 tokens
-- Jónsmessudagr: 1 stone, 1 token
-- Jónssonr: 1 stone, 1 token
-- Jór: 1 stone, 1 token
-- Jórdan: 1 stone, 1 token
-- Jórhildi: 1 stone, 1 token
-- Jórils: 1 stone, 1 token
-- Jórkell: 1 stone, 1 token
-- Jórulfr: 2 stones, 2 tokens; forms Jórulfr (1), Jórulf (1)
-- Jórunnar: 1 stone, 1 token
-- Jórunni: 2 stones, 2 tokens
-- Jórunnr: 8 stones, 8 tokens; forms Jórunnr (5), Jórunn (3)
-- Jósep: 2 stones, 2 tokens
-- Jóstein: 5 stones, 5 tokens; forms Jóstein (3), Jósteinn (2)
-- Juda: 4 stones, 4 tokens
-- Judas: 2 stones, 2 tokens
-- Jude: 1 stone, 1 token
-- Jula: 1 stone, 1 token
-- Juli: 1 stone, 1 token
-- Júta: 3 stones, 3 tokens
-- Jútlandi: 1 stone, 1 token
-- Júzki: 1 stone, 1 token
-- Jôfurbjôrn: 1 stone, 1 token
-- Jôfurfast: 8 stones, 8 tokens
-- Jôfurfastar: 1 stone, 1 token
-- Jôfurfríðr: 2 stones, 2 tokens
-- Jôfurr: 11 stones, 11 tokens; forms Jôfurr (7), Jôfur (4)
-- Jôfursteinn: 1 stone, 1 token
-- Jôrunda: 2 stones, 2 tokens
-- Jôrundar: 2 stones, 2 tokens
-- Jôrundr: 26 stones, 26 tokens; forms Jôrundr (16), Jôrund (10)
-- Jôtunstôðum: 2 stones, 2 tokens
-- K: 1 stone, 1 token
-- Kabbi: 1 stone, 1 token
-- Kafi: 1 stone, 1 token
-- Kafli: 1 stone, 1 token
-- Kag: 7 stones, 8 tokens; forms Kag (5), Kagr (3)
-- Kain: 1 stone, 2 tokens
-- Kál: 4 stones, 4 tokens; forms Kál (3), Káll (1)
-- Kala: 4 stones, 4 tokens
-- Kalf: 7 stones, 7 tokens; forms Kalf (5), Kalfr (2)
-- Kalfs: 1 stone, 1 token
-- Kali: 8 stones, 9 tokens
-- Kalla: 3 stones, 3 tokens
-- Kalli: 1 stone, 1 token
-- kallo: 1 stone, 1 token
-- Kalmarna: 1 stone, 1 token
-- Kalt: 1 stone, 1 token
-- kalukR: 1 stone, 1 token
-- Kambs: 1 stone, 1 token
-- Kampi: 1 stone, 1 token
-- Kana: 2 stones, 2 tokens
-- kan-it: 1 stone, 1 token
-- Kanp: 2 stones, 2 tokens; forms Kanp (1), Kanpr (1)
-- Kapalein: 1 stone, 1 token
-- Kappa: 1 stone, 1 token
-- Kappi: 1 stone, 1 token
-- Kára: 8 stones, 9 tokens
-- Káradóttur: 1 stone, 1 token
-- Kári: 12 stones, 13 tokens
-- Karin: 1 stone, 1 token
-- Karl: 39 stones, 41 tokens
-- Karla: 1 stone, 1 token
-- Karli: 3 stones, 3 tokens
-- Karlsefni: 1 stone, 1 token
-- Karna: 1 stone, 1 token
-- Kárr: 9 stones, 10 tokens
-- Kárs: 1 stone, 1 token
-- Karsi: 2 stones, 2 tokens
-- Kártóki: 1 stone, 1 token
-- Kasi: 1 stone, 1 token
-- kasl: 1 stone, 1 token
-- Kassi: 1 stone, 1 token
-- Kassla: 1 stone, 1 token
-- Kassle: 1 stone, 1 token
-- kasu: 1 stone, 1 token
-- Káta: 5 stones, 6 tokens
-- Katerina: 1 stone, 1 token
-- Káti: 4 stones, 4 tokens
-- Kátr: 1 stone, 1 token
-- Katrín: 5 stones, 5 tokens
-- Katrína: 1 stone, 2 tokens
-- Katrínu: 1 stone, 1 token
-- Katrínumessu: 1 stone, 1 token
-- Kattr: 1 stone, 1 token
-- Kátu: 1 stone, 1 token
-- Káulfr: 1 stone, 1 token
-- Kauparfa: 2 stones, 2 tokens
-- Kauparve: 2 stones, 2 tokens
-- Kaupi: 3 stones, 3 tokens
-- Kaupmann: 1 stone, 1 token
-- kaur: 1 stone, 1 token
-- kautaun: 2 stones, 2 tokens
-- Kefas: 1 stone, 1 token
-- Kelbaþewas: 1 stone, 1 token
-- Kelsstôðum: 1 stone, 1 token
-- Ketilas: 1 stone, 1 token
-- Ketilbjôrn: 15 stones, 16 tokens
-- Ketilelfr: 1 stone, 1 token
-- Ketiley: 6 stones, 6 tokens
-- Ketileyjar: 1 stone, 1 token
-- Ketilfastr: 10 stones, 11 tokens; forms Ketilfastr (6), Ketilfast (5)
-- Ketilfríðr: 2 stones, 2 tokens
-- Ketilgerðr: 1 stone, 1 token
-- Ketilhôfða: 2 stones, 2 tokens
-- Ketilhôfði: 1 stone, 1 token
-- Ketilhôss: 1 stone, 1 token
-- Ketill: 51 stones, 53 tokens; forms Ketill (37), Ketil (16)
-- Ketillaug: 2 stones, 2 tokens
-- Ketillauga: 1 stone, 1 token
-- Ketilmund: 11 stones, 11 tokens; forms Ketilmund (6), Ketilmundr (5)
-- Ketilmundar: 2 stones, 2 tokens
-- Ketils: 3 stones, 3 tokens
-- Ketilssonar: 1 stone, 1 token
-- Ketilvé: 7 stones, 7 tokens
-- Ketta: 1 stone, 1 token
-- Keþan: 1 stone, 1 token
-- ki: 1 stone, 1 token
-- kigumantr: 1 stone, 1 token
-- Kík: 1 stone, 1 token
-- Kilfir: 1 stone, 1 token
-- Kíli: 1 stone, 1 token
-- Kinn: 1 stone, 1 token
-- Kirkjuvelli: 1 stone, 1 token
-- kiti: 2 stones, 2 tokens
-- Kjallakr: 4 stones, 4 tokens; forms Kjallakr (3), Kjallak (1)
-- Kjós: 1 stone, 1 token
-- Kjúla: 1 stone, 1 token
-- Kjúli: 4 stones, 4 tokens
-- Kjullakr: 4 stones, 4 tokens; forms Kjullakr (3), Kjullak (1)
-- Kjôtvi: 1 stone, 1 token
-- Klakka: 2 stones, 2 tokens
-- Klakkr: 2 stones, 2 tokens; forms Klakkr (1), Klakk (1)
-- Klas: 1 stone, 1 token
-- Klefa: 1 stone, 1 token
-- Klementsmessuaptan: 1 stone, 1 token
-- Klemet: 5 stones, 6 tokens; forms Klemet (3), Klemetr (3)
-- Kleppi: 1 stone, 1 token
-- Kleppir: 1 stone, 1 token
-- Klett: 2 stones, 2 tokens; forms Klett (1), Klettr (1)
-- Klinti: 1 stone, 1 token
-- Klints: 1 stone, 1 token
-- Kloppa: 1 stone, 1 token
-- Knakr: 1 stone, 1 token
-- Knasa: 2 stones, 2 tokens
-- Kneikis: 1 stone, 1 token
-- Knúti: 3 stones, 3 tokens
-- Knútr: 13 stones, 14 tokens; forms Knútr (12), Knút (2)
-- Knúts: 2 stones, 2 tokens
-- Knútsmessudagr: 1 stone, 1 token
-- Kofri: 1 stone, 1 token
-- ko-l: 1 stone, 1 token
-- Kolbeini: 1 stone, 1 token
-- Kolbeinn: 5 stones, 6 tokens; forms Kolbeinn (4), Kolbein (2)
-- Kolbeins: 2 stones, 2 tokens
-- Kolbjôrn: 5 stones, 5 tokens
-- Kolfinnr: 1 stone, 1 token
-- Kolhaug: 1 stone, 1 token
-- Kolki: 1 stone, 1 token
-- Kolla: 1 stone, 1 token
-- Kolli: 2 stones, 2 tokens
-- Kolr: 3 stones, 4 tokens; forms Kolr (3), Kol (1)
-- Kolsveins: 1 stone, 1 token
-- Kornadal: 1 stone, 1 token
-- Korpr: 1 stone, 1 token
-- koþbein: 1 stone, 1 token
-- Krák: 1 stone, 1 token
-- Krákuarfi: 1 stone, 1 token
-- Krassa: 1 stone, 1 token
-- Krasse: 1 stone, 1 token
-- krifi: 1 stone, 1 token
-- Krínáns: 1 stone, 1 token
-- Kristin: 2 stones, 2 tokens
-- Kristína: 2 stones, 2 tokens; forms Kristína (1), Kristina (1)
-- Kristus: 9 stones, 12 tokens
-- Krók: 10 stones, 10 tokens; forms Krók (6), Krókr (4)
-- Króki: 1 stone, 1 token
-- Krosskirkju: 1 stone, 1 token
-- kru: 1 stone, 1 token
-- Krums: 1 stone, 1 token
-- Krúsa: 1 stone, 1 token
-- ku: 1 stone, 1 token
-- kuan: 1 stone, 1 token
-- kufri: 1 stone, 1 token
-- ku-k-R: 1 stone, 1 token
-- Kullands: 1 stone, 1 token
-- Kumble: 1 stone, 1 token
-- Kumbli: 1 stone, 1 token
-- kumli: 1 stone, 1 token
-- Kunimundiu: 1 stone, 1 token
-- kuntru: 1 stone, 1 token
-- kura-a: 1 stone, 1 token
-- Kúrr: 1 stone, 1 token
-- kuru: 1 stone, 1 token
-- kurþi: 1 stone, 1 token
-- Kúsi: 1 stone, 1 token
-- Kúss: 3 stones, 3 tokens; forms Kúss (2), Kús (1)
-- kusta: 1 stone, 1 token
-- kuta: 1 stone, 1 token
-- Kvíg: 2 stones, 2 tokens
-- Kvígbjôrn: 2 stones, 2 tokens
-- Kvígulfr: 2 stones, 2 tokens
-- Kvikr: 4 stones, 4 tokens; forms Kvikr (3), Kvik (1)
-- Kviks: 1 stone, 1 token
-- Kylfa: 1 stone, 1 token
-- Kylfingr: 4 stones, 4 tokens
-- Kynmundar: 1 stone, 1 token
-- Kôðu: 1 stone, 2 tokens
-- Køgis: 1 stone, 1 token
-- Kœlingi: 1 stone, 1 token
-- Kôrlung: 3 stones, 3 tokens; forms Kôrlung (2), Kôrlungr (1)
-- Kôrlungs: 1 stone, 1 token
-- Kôrungs: 1 stone, 1 token
-- Kôttr: 1 stone, 1 token
-- labus: 1 stone, 1 token
-- Lafranz: 9 stones, 9 tokens
-- Lafranzar: 1 stone, 1 token
-- lafri: 1 stone, 1 token
-- Lafsa: 2 stones, 2 tokens
-- Lafsi: 2 stones, 2 tokens
-- Lagi: 2 stones, 2 tokens; forms Lagi (1), Lági (1)
-- Laguþewa: 1 stone, 1 token
-- Laguþewaz: 1 stone, 1 token
-- Laiþigaz: 1 stone, 1 token
-- Lambi: 1 stone, 1 token
-- Lamo: 1 stone, 1 token
-- Landawarijaz: 1 stone, 1 token
-- Lang: 1 stone, 1 token
-- Langaforsinn: 1 stone, 1 token
-- Langgarni: 1 stone, 1 token
-- Langsum: 1 stone, 1 token
-- Laughamri: 1 stone, 1 token
-- Laurencius: 1 stone, 1 token
-- Laurentius: 1 stone, 1 token
-- laurfian: 1 stone, 1 token
-- Lávarðr: 1 stone, 2 tokens
-- Lax: 1 stone, 1 token
-- Lefsi: 3 stones, 3 tokens
-- Leifa: 1 stone, 2 tokens
-- Leifr: 1 stone, 1 token
-- Leik: 1 stone, 1 token
-- Leikfrøð: 1 stone, 1 token
-- Leiknarr: 2 stones, 2 tokens
-- Leiku: 1 stone, 1 token
-- Lengju: 1 stone, 1 token
-- Lengjum: 1 stone, 1 token
-- Lerdal: 1 stone, 1 token
-- Léttu: 1 stone, 1 token
-- Leubaz: 1 stone, 1 token
-- Leugaz: 1 stone, 1 token
-- Leþro: 2 stones, 2 tokens
-- Libbi: 1 stone, 1 token
-- Lið-Bófa: 1 stone, 1 token
-- Liðsmaðr: 2 stones, 2 tokens
-- Liðsvaldr: 1 stone, 1 token
-- Liðvandr: 1 stone, 1 token
-- Liðvarðr: 1 stone, 1 token
-- Lífeyjar: 1 stone, 1 token
-- Lífland: 1 stone, 1 token
-- Líflandi: 2 stones, 2 tokens
-- Líkbjôrn: 3 stones, 3 tokens
-- Likko: 1 stone, 1 token
-- Líknhvat: 2 stones, 2 tokens
-- Líknhvatar: 2 stones, 2 tokens
-- Líknmundar: 2 stones, 2 tokens
-- Líknreifr: 1 stone, 1 token
-- Líknvéar: 1 stone, 1 token
-- Líknviðar: 1 stone, 1 token
-- Líknviðr: 4 stones, 5 tokens; forms Líknviðr (4), Líknvið (1)
-- Liko: 1 stone, 1 token
-- Líkviðr: 2 stones, 2 tokens
-- Lillrone: 1 stone, 1 token
-- lin: 1 stone, 1 token
-- Lina: 2 stones, 3 tokens
-- Lindey: 1 stone, 1 token
-- Lingorm: 1 stone, 1 token
-- Lini: 1 stone, 1 token
-- Linko: 1 stone, 1 token
-- Lippa: 1 stone, 1 token
-- Lippi: 1 stone, 1 token
-- Litlaronum: 1 stone, 1 token
-- Litli: 4 stones, 4 tokens
-- Ljótgeirr: 1 stone, 1 token
-- Ljótr: 5 stones, 6 tokens
-- Ljótulfs: 1 stone, 1 token
-- Ljúfr: 1 stone, 1 token
-- Ljúfvini: 2 stones, 2 tokens
-- l-khas: 1 stone, 1 token
-- Ló: 1 stone, 1 token
-- Loðbrókar: 1 stone, 1 token
-- Loðinn: 10 stones, 12 tokens; forms Loðinn (7), Loðin (5)
-- Loðins: 1 stone, 1 token
-- Loðni: 1 stone, 1 token
-- Lóðurr: 1 stone, 1 token
-- Lófa: 1 stone, 1 token
-- Lófi: 1 stone, 1 token
-- Lofríkr: 1 stone, 1 token
-- Lokarr: 1 stone, 1 token
-- Lokki: 2 stones, 2 tokens
-- Lokkr: 1 stone, 1 token
-- Lopts: 1 stone, 1 token
-- Loptssonr: 1 stone, 1 token
-- lubu: 1 stone, 1 token
-- Lucas: 20 stones, 21 tokens
-- Lucia: 1 stone, 1 token
-- Lúciu: 1 stone, 1 token
-- Lúkas: 1 stone, 1 token
-- Lúkasmessu: 1 stone, 1 token
-- Lunaneyju: 1 stone, 1 token
-- Lunde: 1 stone, 1 token
-- Lundunum: 1 stone, 1 token
-- lu--R: 1 stone, 1 token
-- lutaris: 1 stone, 1 token
-- luþar: 1 stone, 1 token
-- Lýðbjôrn: 2 stones, 3 tokens
-- Lye: 1 stone, 2 tokens
-- Lyum: 1 stone, 2 tokens
-- Lønangri: 1 stone, 1 token
-- ma: 1 stone, 1 token
-- Maelmuire: 1 stone, 1 token
-- Magdalena: 2 stones, 2 tokens
-- Magnhildar: 1 stone, 1 token
-- Magni: 1 stone, 1 token
-- Magno: 1 stone, 1 token
-- Magnús: 12 stones, 12 tokens
-- Magnúsar: 1 stone, 1 token
-- mailb---ak: 1 stone, 1 token
-- Malaki: 1 stone, 1 token
-- Malchus: 3 stones, 3 tokens
-- Malgeirs: 1 stone, 1 token
-- mallymkun: 1 stone, 1 token
-- malmury: 1 stone, 1 token
-- Mána: 3 stones, 4 tokens
-- Managôrðum: 2 stones, 2 tokens
-- Máni: 6 stones, 6 tokens
-- Manna: 5 stones, 6 tokens
-- Mannegårde: 2 stones, 2 tokens
-- Manni: 7 stones, 7 tokens
-- Mannsengi: 1 stone, 2 tokens
-- Marce: 1 stone, 1 token
-- Marci: 1 stone, 1 token
-- Marcus: 20 stones, 20 tokens
-- Margareta: 3 stones, 3 tokens; forms Margareta (2), Margaréta (1)
-- Margarétar: 1 stone, 1 token
-- Margaréti: 1 stone, 1 token
-- Margarétu: 1 stone, 1 token
-- Margét: 1 stone, 1 token
-- Margétu: 1 stone, 1 token
-- Margit: 1 stone, 1 token
-- Margítu: 1 stone, 1 token
-- Margotarfa: 1 stone, 1 token
-- Margrét: 4 stones, 4 tokens; forms Margrét (3), Margret (1)
-- Margréta: 4 stones, 4 tokens
-- Margrétu: 1 stone, 1 token
-- Mari: 1 stone, 1 token
-- Mariksen: 1 stone, 2 tokens
-- Marilingu: 1 stone, 1 token
-- Marinus: 1 stone, 1 token
-- Maríumessu: 2 stones, 2 tokens
-- Maríumessudag: 1 stone, 1 token
-- Mariz: 1 stone, 1 token
-- Mariþeubaz: 1 stone, 1 token
-- Markús: 1 stone, 1 token
-- Marteinn: 8 stones, 8 tokens; forms Marteinn (7), Martein (1)
-- Martinianus: 2 stones, 2 tokens
-- marþa: 1 stone, 1 token
-- Mássonr: 1 stone, 1 token
-- Mathei: 1 stone, 1 token
-- Matheus: 1 stone, 1 token
-- Mathie: 1 stone, 1 token
-- Matr: 1 stone, 1 token
-- Matthias: 1 stone, 1 token
-- Matthæus: 16 stones, 18 tokens
-- Mattias: 1 stone, 1 token
-- Mattiasar: 1 stone, 1 token
-- Mattis: 1 stone, 1 token
-- Maurins: 1 stone, 1 token
-- Maximianus: 3 stones, 3 tokens
-- maþur: 1 stone, 1 token
-- Medebys: 1 stone, 1 token
-- Mediator: 1 stone, 1 token
-- Megensarve: 1 stone, 1 token
-- Meginbjôrn: 1 stone, 1 token
-- Meginsarfa: 1 stone, 1 token
-- Meinulfr: 1 stone, 1 token
-- Mekthildr: 1 stone, 1 token
-- Melbrigða: 1 stone, 1 token
-- Melbrigði: 1 stone, 1 token
-- menk: 1 stone, 2 tokens
-- mer: 1 stone, 1 token
-- Meretu: 1 stone, 1 token
-- Merila: 1 stone, 1 token
-- Messias: 2 stones, 2 tokens
-- Mey: 2 stones, 2 tokens
-- Michael: 2 stones, 2 tokens
-- Miðgarði: 1 stone, 1 token
-- Mikjáll: 19 stones, 21 tokens
-- mink: 1 stone, 1 token
-- Misak: 2 stones, 2 tokens
-- miskik: 1 stone, 2 tokens
-- Mistivis: 1 stone, 1 token
-- Mjáfingr: 1 stone, 1 token
-- Mjúka: 1 stone, 1 token
-- Móða: 1 stone, 1 token
-- Monacus: 1 stone, 1 token
-- Morða: 1 stone, 1 token
-- Mosel: 1 stone, 1 token
-- m-r--ns: 1 stone, 1 token
-- muaR: 1 stone, 1 token
-- muha: 1 stone, 1 token
-- Muhumaa: 1 stone, 1 token
-- Múla: 2 stones, 5 tokens
-- Múli: 3 stones, 4 tokens
-- Munán: 1 stone, 1 token
-- Munda: 1 stone, 1 token
-- Mundi: 1 stone, 1 token
-- Mundvalds: 1 stone, 1 token
-- Mungeirr: 3 stones, 3 tokens
-- Mungerðr: 1 stone, 1 token
-- Munulfr: 1 stone, 1 token
-- Munulfs: 1 stone, 1 token
-- mutifu: 1 stone, 1 token
-- Mylnu: 1 stone, 1 token
-- Myndil: 3 stones, 3 tokens; forms Myndil (2), Myndill (1)
-- Myntari: 1 stone, 1 token
-- Mýr: 1 stone, 1 token
-- Myrgjôl: 1 stone, 1 token
-- Mýribý: 1 stone, 1 token
-- Myskja: 2 stones, 2 tokens
-- Myskju: 2 stones, 2 tokens
-- Myttar: 1 stone, 1 token
-- Mæringa: 1 stone, 1 token
-- Mölner: 1 stone, 1 token
-- Môn: 1 stone, 1 token
-- n: 1 stone, 1 token
-- Nafarr: 1 stone, 1 token
-- Nafni: 1 stone, 1 token
-- naft: 1 stone, 1 token
-- nafuam: 1 stone, 1 token
-- Nag: 1 stone, 1 token
-- nahhar: 1 stone, 1 token
-- Naktergal: 1 stone, 1 token
-- Nann: 2 stones, 2 tokens
-- Narfasonr: 1 stone, 1 token
-- Nasi: 6 stones, 6 tokens
-- Náttfari: 1 stone, 1 token
-- Naudigastiz: 1 stone, 1 token
-- naus: 1 stone, 1 token
-- Nazarenus: 3 stones, 4 tokens
-- Nefa: 2 stones, 2 tokens
-- Nefbjôrn: 1 stone, 1 token
-- Nefgeir: 4 stones, 4 tokens; forms Nefgeir (3), Nefgeirr (1)
-- Nefr: 3 stones, 3 tokens; forms Nefr (2), Nef (1)
-- Nefs: 1 stone, 1 token
-- Nennir: 2 stones, 2 tokens
-- Nerfis: 1 stone, 1 token
-- Neriðs: 1 stone, 1 token
-- Neriðsdóttir: 1 stone, 1 token
-- Neriðssonr: 1 stone, 1 token
-- Nesbjôrn: 9 stones, 10 tokens
-- Nesbý: 1 stone, 1 token
-- Nesi: 6 stones, 6 tokens
-- Neskonungr: 1 stone, 1 token
-- Nes-Végeirr: 1 stone, 1 token
-- netil: 1 stone, 1 token
-- nibiaR: 1 stone, 1 token
-- Nicholaus: 2 stones, 2 tokens
-- Nickarve: 1 stone, 1 token
-- Nicomedes: 1 stone, 1 token
-- Niðarósi: 1 stone, 1 token
-- Nikkarfa: 1 stone, 1 token
-- niklif: 1 stone, 1 token
-- Nikolai: 1 stone, 1 token
-- Nikolaus: 2 stones, 2 tokens
-- Nikulás: 24 stones, 24 tokens
-- Nikulásar: 7 stones, 7 tokens
-- Niujila: 2 stones, 2 tokens
-- Niþijo: 1 stone, 1 token
-- Njósi: 1 stone, 1 token
-- Nokka: 2 stones, 2 tokens
-- Nora: 1 stone, 1 token
-- Norðmaðr: 2 stones, 2 tokens
-- Norðrbý: 2 stones, 2 tokens
-- Norðrgarðum: 1 stone, 1 token
-- Nore: 1 stone, 1 token
-- Nóregi: 1 stone, 1 token
-- Noregs: 1 stone, 1 token
-- Norrbys: 2 stones, 2 tokens
-- Norrgarde: 1 stone, 1 token
-- Norveg: 1 stone, 1 token
-- Nykr: 1 stone, 1 token
-- Næmr: 1 stone, 2 tokens; forms Næmr (1), næmr (1)
-- Næstr: 1 stone, 1 token
-- Óbeinn: 1 stone, 1 token
-- Óblauðr: 1 stone, 1 token
-- Ocksarve: 1 stone, 3 tokens
-- Odda: 3 stones, 3 tokens
-- Oddgeir: 2 stones, 2 tokens
-- Oddi: 3 stones, 4 tokens
-- Oddlaug: 1 stone, 1 token
-- Oddr: 12 stones, 12 tokens; forms Oddr (10), Odd (2)
-- Odds: 2 stones, 2 tokens
-- Oddulf: 3 stones, 4 tokens; forms Oddulf (2), Oddulfr (2)
-- Oddulfi: 1 stone, 1 token
-- Oddvarr: 1 stone, 1 token
-- Óðalfreðr: 1 stone, 1 token
-- Óðalfríðr: 1 stone, 1 token
-- Óðindísa: 1 stone, 1 token
-- Óðindísu: 1 stone, 1 token
-- Óðinkár: 4 stones, 4 tokens; forms Óðinkár (2), Óðinkárr (2)
-- Óðinkárs: 1 stone, 1 token
-- Óðinn: 4 stones, 5 tokens
-- Ófeigr: 33 stones, 34 tokens; forms Ófeigr (21), Ófeig (13)
-- Ófeigs: 1 stone, 1 token
-- Óflá: 1 stone, 1 token
-- Ofláti: 1 stone, 1 token
-- Ofráðr: 2 stones, 2 tokens
-- Óframr: 1 stone, 1 token
-- Ófriðr: 2 stones, 2 tokens; forms Ófriðr (1), Ófrið (1)
-- Ofæta: 1 stone, 1 token
-- Óhneigr: 1 stone, 1 token
-- oifuþ: 1 stone, 1 token
-- oka: 1 stone, 1 token
-- Ól: 1 stone, 1 token
-- Óla: 2 stones, 2 tokens
-- Ólafi: 1 stone, 1 token
-- Ólafr: 73 stones, 85 tokens; forms Ólafr (67), Ólaf (15), Olafr (2), Óláfr (1)
-- Ólafs: 13 stones, 14 tokens
-- Ólafsvôku: 2 stones, 2 tokens
-- Ólafsvôkunótt: 1 stone, 1 token
-- Olai: 1 stone, 1 token
-- Ólaug: 2 stones, 2 tokens
-- Ólausmessaptan: 1 stone, 1 token
-- Olavi: 1 stone, 1 token
-- Olavus: 3 stones, 3 tokens
-- olbusi: 1 stone, 1 token
-- Óleifr: 33 stones, 34 tokens; forms Óleifr (17), Óleif (16), Oleifr (1)
-- Óli: 3 stones, 3 tokens
-- Olla: 2 stones, 2 tokens
-- Olli: 4 stones, 4 tokens
-- Ólôf: 7 stones, 7 tokens
-- Ólôfar: 2 stones, 2 tokens
-- Ólôfu: 1 stone, 1 token
-- Ómun: 1 stone, 1 token
-- Óneisi: 1 stone, 1 token
-- Óníðing: 2 stones, 2 tokens
-- Ónn: 4 stones, 4 tokens
-- Ónæm: 5 stones, 5 tokens; forms Ónæm (3), Ónæmr (2)
-- Ónæms: 1 stone, 1 token
-- Orka: 1 stone, 1 token
-- Orkhaug: 1 stone, 1 token
-- Orma: 2 stones, 2 tokens
-- Ormarr: 5 stones, 6 tokens; forms Ormarr (4), Ormar (2)
-- Ormgeirr: 2 stones, 2 tokens; forms Ormgeirr (1), Ormgeir (1)
-- Ormhildr: 1 stone, 1 token
-- Ormi: 1 stone, 1 token
-- Ormika: 1 stone, 1 token
-- Ormr: 12 stones, 12 tokens; forms Ormr (8), Orm (4)
-- Ormríkr: 1 stone, 1 token
-- Orms: 2 stones, 2 tokens
-- Ormsteinssonr: 1 stone, 1 token
-- Ormulf: 1 stone, 1 token
-- Órnesi: 1 stone, 1 token
-- Orra: 1 stone, 1 token
-- Orri: 1 stone, 1 token
-- Orrosta: 1 stone, 1 token
-- Orrostr: 1 stone, 1 token
-- Órœkja: 9 stones, 9 tokens
-- Órœkju: 3 stones, 4 tokens
-- osaoiar: 1 stone, 1 token
-- osi: 1 stone, 1 token
-- Ósníkinn: 6 stones, 6 tokens; forms Ósníkinn (4), Ósníkin (2)
-- Óspaka: 1 stone, 1 token
-- Óspaki: 1 stone, 1 token
-- Óspakr: 3 stones, 3 tokens; forms Óspakr (2), Óspak (1)
-- Ósríkr: 1 stone, 1 token
-- Óstarki: 1 stone, 1 token
-- Ósyrg: 2 stones, 2 tokens
-- Ótama: 1 stone, 1 token
-- Ótamr: 1 stone, 1 token
-- Otheim: 1 stone, 1 token
-- Othem: 1 stone, 1 token
-- Otr: 2 stones, 2 tokens
-- Ótryggr: 11 stones, 13 tokens; forms Ótryggr (8), Ótrygg (5)
-- Ótryggs: 1 stone, 1 token
-- Ótryggva: 1 stone, 1 token
-- Óttarr: 11 stones, 13 tokens; forms Óttarr (11), Óttar (2)
-- Óttars: 1 stone, 1 token
-- Óttu: 1 stone, 1 token
-- Oxi: 1 stone, 1 token
-- Óþvegin: 3 stones, 3 tokens; forms Óþvegin (2), Óþveginn (1)
-- Óþvegins: 1 stone, 1 token
-- Pái: 5 stones, 6 tokens
-- Pálín: 1 stone, 1 token
-- Páll: 7 stones, 7 tokens
-- Palni: 1 stone, 1 token
-- Paraclitus: 1 stone, 1 token
-- Parvel: 1 stone, 1 token
-- Patrik: 1 stone, 1 token
-- Pauli: 1 stone, 1 token
-- Paulus: 3 stones, 3 tokens
-- Pétar: 10 stones, 10 tokens
-- Pétars: 2 stones, 2 tokens
-- Péto: 1 stone, 2 tokens
-- Pétr: 19 stones, 20 tokens
-- Pétri: 1 stone, 1 token
-- Petronilla: 1 stone, 1 token
-- Petrus: 7 stones, 7 tokens
-- Philippus: 1 stone, 1 token
-- Philomena: 1 stone, 1 token
-- Pípari: 1 stone, 2 tokens
-- Prestr: 1 stone, 1 token
-- Primi: 1 stone, 1 token
-- Processi: 1 stone, 1 token
-- Pæsel: 1 stone, 1 token
-- Raðars: 1 stone, 1 token
-- Ráðborgar: 1 stone, 1 token
-- Ráðspaka: 1 stone, 1 token
-- Ráðulfr: 1 stone, 1 token
-- Ráðulfs: 1 stone, 1 token
-- Ráðþjalfr: 1 stone, 1 token
-- Rafael: 3 stones, 4 tokens
-- Raggi: 1 stone, 1 token
-- Ragn: 2 stones, 2 tokens
-- Ragna: 8 stones, 8 tokens
-- Ragnarr: 7 stones, 7 tokens; forms Ragnarr (4), Ragnar (3)
-- Ragnarssonar: 1 stone, 1 token
-- Ragnbjôrg: 1 stone, 1 token
-- Ragnbjôrn: 1 stone, 1 token
-- Ragnelfi: 1 stone, 1 token
-- Ragnelfr: 1 stone, 1 token
-- Ragnfastr: 12 stones, 12 tokens; forms Ragnfastr (8), Ragnfast (4)
-- Ragnfríðar: 2 stones, 2 tokens
-- Ragnfríði: 1 stone, 1 token
-- Ragnfríðr: 6 stones, 6 tokens
-- Ragnhildar: 1 stone, 1 token
-- Ragnhildi: 2 stones, 2 tokens
-- Ragnhildr: 8 stones, 9 tokens
-- Ragnhildu: 1 stone, 1 token
-- Ragni: 3 stones, 3 tokens
-- Ragnvaldr: 8 stones, 9 tokens; forms Ragnvaldr (5), Ragnvald (4)
-- Ragnvalds: 1 stone, 1 token
-- Ragnvaldsarfa: 1 stone, 1 token
-- Ragnvé: 2 stones, 3 tokens
-- Ragnviðr: 2 stones, 2 tokens
-- Ragnvôr: 1 stone, 1 token
-- Ragnþrúðr: 1 stone, 1 token
-- Raguel: 1 stone, 1 token
-- Rambi: 1 stone, 1 token
-- Ránar: 1 stone, 1 token
-- Randr: 2 stones, 2 tokens
-- Randulfr: 1 stone, 1 token
-- Randvé: 3 stones, 3 tokens
-- Randviðs: 1 stone, 1 token
-- Rang: 1 stone, 1 token
-- Ranga: 2 stones, 2 tokens
-- Rangsarve: 1 stone, 1 token
-- Rann: 1 stone, 1 token
-- Rannveig: 10 stones, 10 tokens
-- ranuiþi: 1 stone, 1 token
-- Raphael: 2 stones, 2 tokens
-- Rasi: 1 stone, 1 token
-- Rasmus: 1 stone, 1 token
-- Rauða: 3 stones, 3 tokens
-- Rauð-Ballir: 1 stone, 1 token
-- Rauði: 2 stones, 2 tokens
-- Rauðingr: 1 stone, 1 token
-- Rauðkár: 1 stone, 1 token
-- Rauðlitr: 1 stone, 1 token
-- Rauðr: 8 stones, 8 tokens
-- Rauðu: 1 stone, 1 token
-- Rauðumskjalda: 1 stone, 1 token
-- Rauðusjó: 1 stone, 1 token
-- Raumr: 1 stone, 1 token
-- Raunijaz: 1 stone, 1 token
-- Rauningi: 1 stone, 1 token
-- Rawsijo: 1 stone, 1 token
-- Refr: 2 stones, 2 tokens; forms Refr (1), Ref (1)
-- Reginmóð: 2 stones, 2 tokens
-- Reginmund: 1 stone, 1 token
-- Reginn: 1 stone, 1 token
-- Regis: 1 stone, 1 token
-- Reiðubúin: 1 stone, 1 token
-- Reið-Viðurr: 1 stone, 1 token
-- Reif: 2 stones, 2 tokens
-- Rekkr: 3 stones, 3 tokens
-- Ribbi: 1 stone, 1 token
-- ribut: 1 stone, 1 token
-- Ricarþ: 1 stone, 1 token
-- Ridanäs: 1 stone, 1 token
-- Riðanes: 1 stone, 1 token
-- rifata: 1 stone, 1 token
-- Rikarðr: 1 stone, 1 token
-- Ríkhvatr: 1 stone, 1 token
-- Ríki: 3 stones, 3 tokens
-- Rikin: 1 stone, 1 token
-- Ríkr: 2 stones, 2 tokens
-- Ríkulfr: 1 stone, 1 token
-- Ríkvé: 1 stone, 1 token
-- Ríkviðr: 4 stones, 4 tokens
-- Ringheim: 1 stone, 1 token
-- Ringi: 1 stone, 1 token
-- Ringome: 1 stone, 1 token
-- Rings: 1 stone, 1 token
-- Risalandi: 1 stone, 1 token
-- risbiik: 1 stone, 1 token
-- riuiþr: 1 stone, 1 token
-- Rjóði: 1 stone, 1 token
-- r--nuktr: 1 stone, 1 token
-- Robbenarve: 1 stone, 1 token
-- Rodmarsarve: 1 stone, 1 token
-- Rofsteini: 1 stone, 1 token
-- Rogalandi: 1 stone, 1 token
-- Róghvat: 1 stone, 1 token
-- roini: 1 stone, 1 token
-- Roma: 1 stone, 1 token
-- Romfarari: 1 stone, 1 token
-- Rone: 1 stone, 1 token
-- Rónni: 1 stone, 1 token
-- Ronum: 1 stone, 1 token
-- Ronviðr: 1 stone, 1 token
-- Róta: 1 stone, 1 token
-- Rotarve: 1 stone, 1 token
-- ru: 1 stone, 1 token
-- Ruðsmôrkum: 1 stone, 2 tokens
-- Ruffus: 1 stone, 1 token
-- Rufus: 5 stones, 5 tokens
-- Rugga: 1 stone, 1 token
-- Ruggi: 2 stones, 2 tokens
-- Ruggu: 1 stone, 1 token
-- Rugulfs: 1 stone, 1 token
-- rulur: 1 stone, 1 token
-- Rúmfari: 2 stones, 2 tokens
-- Rún: 1 stone, 1 token
-- Rúna: 8 stones, 8 tokens
-- Rúnarr: 1 stone, 1 token
-- Rúnasteinn: 1 stone, 1 token
-- Runbý: 1 stone, 1 token
-- Rúnfastr: 4 stones, 4 tokens; forms Rúnfastr (2), Rúnfast (2)
-- Rúnfríðr: 3 stones, 3 tokens
-- Rúni: 3 stones, 3 tokens
-- Rúnu: 1 stone, 1 token
-- Rúnulf: 3 stones, 3 tokens; forms Rúnulf (2), Rúnulfr (1)
-- Rúnulfs: 1 stone, 1 token
-- Rúnviðr: 1 stone, 1 token
-- Rute: 1 stone, 1 token
-- Ruti: 1 stone, 1 token
-- ruþur: 1 stone, 1 token
-- ry: 1 stone, 1 token
-- Ryðingr: 1 stone, 1 token
-- Ryggju: 1 stone, 1 token
-- Rysja: 1 stone, 1 token
-- Rysju: 1 stone, 1 token
-- Ryskr: 1 stone, 1 token
-- Ræfils: 1 stone, 1 token
-- Rôgnu: 1 stone, 1 token
-- Rôgnvaldr: 1 stone, 1 token
-- Rœkju: 1 stone, 1 token
-- Røkkva: 1 stone, 1 token
-- Rôskulf: 1 stone, 1 token
-- Rôskviðr: 1 stone, 1 token
-- S: 1 stone, 1 token
-- Sabaoth: 4 stones, 4 tokens
-- Sadai: 1 stone, 1 token
-- sairR: 1 stone, 1 token
-- Salgerðr: 1 stone, 1 token
-- Salhaugum: 1 stone, 1 token
-- Saligastiz: 1 stone, 1 token
-- Salmund: 2 stones, 2 tokens; forms Salmund (1), Salmundr (1)
-- Salome: 1 stone, 1 token
-- Salsa: 1 stone, 1 token
-- Sámr: 4 stones, 4 tokens; forms Sámr (3), Sám (1)
-- Samson: 3 stones, 3 tokens
-- Sancte: 1 stone, 1 token
-- Sancti: 1 stone, 1 token
-- Sanctus: 1 stone, 1 token
-- Sandarr: 4 stones, 5 tokens
-- Sandey: 1 stone, 1 token
-- Sandulfr: 1 stone, 1 token
-- Sankta: 6 stones, 7 tokens
-- Saralu: 1 stone, 1 token
-- Sasgerðr: 1 stone, 1 token
-- Sassurr: 8 stones, 8 tokens; forms Sassurr (6), Sassur (2)
-- Sassurs: 1 stone, 1 token
-- Sauðr: 1 stone, 1 token
-- Sawilagaz: 1 stone, 1 token
-- Saxa: 5 stones, 5 tokens
-- Saxi: 10 stones, 11 tokens
-- Saxlandi: 1 stone, 1 token
-- Sebaoth: 1 stone, 2 tokens
-- Sebba: 1 stone, 1 token
-- Sefa: 1 stone, 1 token
-- Seimgala: 1 stone, 1 token
-- Seinn: 11 stones, 12 tokens; forms Seinn (11), Sein (1)
-- Selanus: 1 stone, 1 token
-- Selion: 1 stone, 1 token
-- Selshôfuð: 1 stone, 1 token
-- semper: 1 stone, 1 token
-- Serapion: 3 stones, 3 tokens
-- Serða: 1 stone, 1 token
-- Serðu: 1 stone, 1 token
-- Sess: 1 stone, 1 token
-- Sessi: 1 stone, 1 token
-- Sétta: 1 stone, 1 token
-- Seybjôrn: 3 stones, 3 tokens
-- Seygeir: 1 stone, 1 token
-- Seyvarar: 1 stone, 2 tokens
-- siab: 1 stone, 1 token
-- Sibba: 15 stones, 16 tokens
-- Sibbi: 16 stones, 16 tokens
-- Sibbu: 1 stone, 1 token
-- Sidrak: 2 stones, 2 tokens
-- Síðu: 1 stone, 1 token
-- Sig: 5 stones, 6 tokens
-- Sigbaldr: 1 stone, 1 token
-- Sigbjôrg: 1 stone, 1 token
-- Sigbjôrn: 20 stones, 21 tokens
-- Sigborg: 1 stone, 1 token
-- Sigdali: 1 stone, 1 token
-- Sigdan: 1 stone, 1 token
-- Sigdjarf: 6 stones, 7 tokens; forms Sigdjarf (4), Sigdjarfr (3)
-- Sigfasta: 1 stone, 1 token
-- Sigfastr: 22 stones, 22 tokens; forms Sigfastr (14), Sigfast (8)
-- Sigfreð: 1 stone, 1 token
-- Sigfríðr: 2 stones, 2 tokens
-- Sigfrøðr: 1 stone, 1 token
-- Sigfúss: 4 stones, 4 tokens; forms Sigfúss (3), Sigfús (1)
-- Siggeirr: 2 stones, 2 tokens; forms Siggeirr (1), Siggeir (1)
-- Siggi: 2 stones, 2 tokens
-- Siggunnar: 1 stone, 1 token
-- Sighjalmr: 5 stones, 5 tokens; forms Sighjalmr (4), Sighjalm (1)
-- Sighvatr: 17 stones, 17 tokens; forms Sighvatr (11), Sighvat (6)
-- Sighvats: 1 stone, 1 token
-- Sigihaþuz: 1 stone, 1 token
-- Sigimarz: 1 stone, 1 token
-- Sigketil: 1 stone, 1 token
-- Siglaug: 2 stones, 2 tokens
-- Sigleifr: 2 stones, 2 tokens
-- Sigleikr: 1 stone, 1 token
-- Sigleiksarfa: 1 stone, 1 token
-- Sigmarar: 1 stone, 1 token
-- Sigmarr: 3 stones, 3 tokens
-- Sigmóðr: 1 stone, 1 token
-- Sigmundar: 2 stones, 2 tokens
-- Sigmundarsonr: 1 stone, 1 token
-- Sigmundr: 12 stones, 13 tokens; forms Sigmundr (9), Sigmund (4)
-- Signjóta: 1 stone, 1 token
-- Signjótr: 6 stones, 6 tokens
-- Signý: 1 stone, 1 token
-- Sigolfr: 1 stone, 1 token
-- Sigrdríf: 1 stone, 1 token
-- Sigreifr: 20 stones, 21 tokens; forms Sigreifr (13), Sigreif (8)
-- Sigríðar: 3 stones, 3 tokens
-- Sigríði: 2 stones, 2 tokens
-- Sigríðr: 30 stones, 30 tokens; forms Sigríðr (29), Sigríð (1)
-- Sigríðu: 1 stone, 1 token
-- Sigríkr: 1 stone, 1 token
-- Sigrún: 2 stones, 2 tokens
-- Sigrøð: 5 stones, 5 tokens; forms Sigrøð (3), Sigrøðr (2)
-- Sigrøðar: 3 stones, 3 tokens
-- Sigsarve: 1 stone, 1 token
-- Sigsteinn: 20 stones, 20 tokens; forms Sigsteinn (11), Sigstein (9)
-- Sigsteins: 1 stone, 1 token
-- Sigtrygg: 7 stones, 7 tokens; forms Sigtrygg (4), Sigtryggr (3)
-- Sigtryggs: 5 stones, 5 tokens
-- Sigtúnum: 1 stone, 1 token
-- Sigulf: 2 stones, 2 tokens; forms Sigulf (1), Sigulfr (1)
-- Sigunn: 1 stone, 1 token
-- Sigunnar: 1 stone, 1 token
-- Sigurðar: 1 stone, 1 token
-- Sigurðarsonr: 1 stone, 1 token
-- Sigurðr: 28 stones, 35 tokens; forms Sigurðr (32), Sigurð (3)
-- Sigvalda: 2 stones, 2 tokens
-- Sigvaldi: 4 stones, 4 tokens
-- Sigvaldr: 2 stones, 2 tokens
-- Sigvaldstôðum: 1 stone, 1 token
-- Sigvarar: 1 stone, 2 tokens
-- Sigvarðr: 4 stones, 4 tokens
-- Sigviðr: 21 stones, 21 tokens; forms Sigviðr (18), Sigvið (3)
-- Sigvôr: 2 stones, 2 tokens
-- Sigþjóð: 2 stones, 2 tokens
-- Sigþjóðar: 1 stone, 1 token
-- Sigþór: 1 stone, 1 token
-- Sigþorn: 3 stones, 3 tokens
-- Sigþrúðr: 5 stones, 5 tokens; forms Sigþrúðr (4), Sigþrúð (1)
-- si-igr: 1 stone, 1 token
-- sik: 2 stones, 2 tokens; forms sik (1), Sík (1)
-- sikasuaio: 1 stone, 1 token
-- Sikijaz: 1 stone, 1 token
-- Sikum: 1 stone, 1 token
-- Silfrsmiðs: 1 stone, 1 token
-- Silkifuð: 1 stone, 1 token
-- Silla: 1 stone, 2 tokens
-- Silu: 1 stone, 1 token
-- si--m: 1 stone, 1 token
-- Simeon: 1 stone, 1 token
-- Simi: 1 stone, 1 token
-- Símon: 8 stones, 8 tokens; forms Símon (6), Simon (2)
-- Simonis: 1 stone, 1 token
-- Simpa: 2 stones, 2 tokens
-- Símun: 2 stones, 2 tokens
-- Símunardóttir: 1 stone, 1 token
-- Sinarr: 2 stones, 2 tokens; forms Sinarr (1), Sinar (1)
-- Sindrasonar: 1 stone, 1 token
-- Sini: 1 stone, 1 token
-- Sínkr: 2 stones, 3 tokens
-- sinn: 1 stone, 1 token
-- Síra: 2 stones, 2 tokens
-- sirhun: 1 stone, 1 token
-- Sisiganduz: 1 stone, 1 token
-- Sjafi: 1 stone, 1 token
-- Sjalfa: 1 stone, 1 token
-- Sjalfi: 2 stones, 2 tokens
-- sjalfr: 1 stone, 1 token
-- Sjali: 1 stone, 1 token
-- Sjaundi: 1 stone, 1 token
-- Sjóli: 1 stone, 1 token
-- Sjólundi: 1 stone, 1 token
-- Sjónheim: 1 stone, 1 token
-- Sjonhem: 1 stone, 1 token
-- Skaga: 2 stones, 2 tokens
-- Skagi: 3 stones, 3 tokens
-- Skakka: 2 stones, 2 tokens
-- Skakki: 1 stone, 1 token
-- Skakli: 2 stones, 2 tokens
-- Skald: 6 stones, 7 tokens
-- Skaldi: 2 stones, 2 tokens; forms Skaldi (1), Skáldi (1)
-- Skalli: 2 stones, 2 tokens
-- Skalmi: 1 stone, 1 token
-- Skammhals: 3 stones, 3 tokens
-- Skáney: 2 stones, 2 tokens
-- Skara: 1 stone, 1 token
-- Skarða: 4 stones, 4 tokens
-- Skarði: 3 stones, 3 tokens
-- Skarf: 2 stones, 2 tokens
-- Skári: 1 stone, 1 token
-- Skarpa: 1 stone, 1 token
-- Skaufa: 1 stone, 1 token
-- Skáungr: 1 stone, 1 token
-- Skeggi: 2 stones, 3 tokens
-- Sker: 1 stone, 1 token
-- Skera: 1 stone, 1 token
-- Skerði: 2 stones, 2 tokens
-- Skerlaug: 1 stone, 1 token
-- Skinþa-Leubaz: 1 stone, 1 token
-- Skírlaug: 1 stone, 1 token
-- skiu: 2 stones, 2 tokens; forms skiu (1), Skíu (1)
-- Skjaldar: 1 stone, 1 token
-- Skjalgi: 1 stone, 1 token
-- Skjalm: 1 stone, 1 token
-- Skjôldulfr: 1 stone, 1 token
-- Skóga: 1 stone, 1 token
-- Skógi: 1 stone, 1 token
-- Skógr: 1 stone, 1 token
-- Skolhamri: 2 stones, 2 tokens
-- Skopti: 1 stone, 1 token
-- Skorpa: 2 stones, 2 tokens
-- Skotlakr: 1 stone, 1 token
-- Skraddari: 1 stone, 1 token
-- Skrauta: 1 stone, 1 token
-- Skrimi: 1 stone, 1 token
-- Skúla: 1 stone, 1 token
-- Skúli: 2 stones, 2 tokens
-- Skygna: 1 stone, 1 token
-- Skyttingi: 1 stone, 1 token
-- Slagva: 1 stone, 1 token
-- Slagvér: 2 stones, 2 tokens
-- Slagvi: 1 stone, 1 token
-- slaka: 1 stone, 1 token
-- Sleðabrú: 1 stone, 1 token
-- Sleikir: 1 stone, 1 token
-- Sleyr: 1 stone, 1 token
-- Slítagôrðum: 1 stone, 1 token
-- Slitegårds: 1 stone, 1 token
-- Sljór: 1 stone, 1 token
-- Slóða: 4 stones, 6 tokens
-- Slóði: 6 stones, 6 tokens
-- Slóru: 2 stones, 2 tokens
-- Slúta: 1 stone, 1 token
-- Slyðru: 2 stones, 2 tokens
-- Smiðr: 12 stones, 13 tokens; forms Smiðr (10), Smið (3)
-- Smiðs: 1 stone, 1 token
-- Snari: 3 stones, 3 tokens
-- snatuson: 1 stone, 1 token
-- Snerribjôrn: 1 stone, 1 token
-- Snerrir: 3 stones, 3 tokens
-- Snerris: 1 stone, 1 token
-- Snjólaug: 1 stone, 1 token
-- Snjóvalds: 1 stone, 1 token
-- Snoder: 3 stones, 3 tokens
-- Snoðu: 3 stones, 3 tokens
-- Snorrir: 1 stone, 1 token
-- Snotastôðum: 1 stone, 1 token
-- Snæbjôrn: 1 stone, 1 token
-- Snægrindum: 1 stone, 1 token
-- Snögrinde: 1 stone, 1 token
-- soi->þóri: 1 stone, 1 token
-- Solfa: 1 stone, 1 token
-- Solfu: 1 stone, 1 token
-- Sómu: 1 stone, 1 token
-- Sona: 3 stones, 3 tokens
-- Soni: 5 stones, 6 tokens
-- Soria: 1 stone, 1 token
-- Sót: 1 stone, 1 token
-- Sóta: 5 stones, 5 tokens
-- Soter: 2 stones, 2 tokens
-- Sóti: 4 stones, 4 tokens
-- Sótrangi: 1 stone, 1 token
-- Spaka: 1 stone, 1 token
-- Spakr: 2 stones, 2 tokens
-- Spalkleysu: 1 stone, 1 token
-- Spán: 1 stone, 1 token
-- Spars: 1 stone, 1 token
-- Sperlu: 1 stone, 1 token
-- Spinku: 1 stone, 1 token
-- Spjall: 1 stone, 1 token
-- Spjalla: 1 stone, 1 token
-- Spjallboða: 4 stones, 5 tokens
-- Spjallboði: 5 stones, 5 tokens
-- Spjót: 1 stone, 1 token
-- Spjóti: 3 stones, 3 tokens
-- Spraka: 2 stones, 2 tokens
-- Spraki: 1 stone, 1 token
-- Spôrr: 1 stone, 1 token
-- Spôrs: 1 stone, 1 token
-- St: 1 stone, 1 token
-- Stafangri: 1 stone, 1 token
-- Stafi: 1 stone, 1 token
-- Stainawarijaz: 1 stone, 1 token
-- Staki: 1 stone, 1 token
-- Stála: 1 stone, 1 token
-- Stari: 1 stone, 1 token
-- Starki: 1 stone, 1 token
-- Starr: 1 stone, 1 token
-- Starri: 1 stone, 1 token
-- Steinarr: 4 stones, 5 tokens; forms Steinarr (3), Steinar (2)
-- Steinars: 1 stone, 1 token
-- Steinbjôrg: 3 stones, 3 tokens
-- Steinbjôrn: 9 stones, 9 tokens
-- steinbrú: 1 stone, 1 token
-- Steinfastr: 3 stones, 3 tokens
-- Steinfríði: 1 stone, 1 token
-- Steinfríðr: 3 stones, 3 tokens
-- Steingísl: 1 stone, 1 token
-- Steingrímr: 1 stone, 1 token
-- Steinhildr: 3 stones, 3 tokens
-- Steinkel: 4 stones, 4 tokens; forms Steinkel (3), Steinkell (1)
-- Steinketill: 1 stone, 1 token
-- Steinlaug: 1 stone, 1 token
-- Steinn: 32 stones, 33 tokens; forms Steinn (20), Stein (13)
-- Steins: 4 stones, 4 tokens
-- Steinu: 2 stones, 2 tokens
-- Steinulfr: 4 stones, 4 tokens; forms Steinulfr (3), Steinulf (1)
-- Steinunn: 1 stone, 1 token
-- Steinþórir: 1 stone, 1 token
-- stibkarl: 1 stone, 1 token
-- Stigr: 1 stone, 1 token
-- stikit: 1 stone, 1 token
-- Stílingr: 1 stone, 2 tokens
-- Stillingr: 1 stone, 2 tokens
-- Stóðbjôrn: 3 stones, 4 tokens; forms Stóðbjôrn (3), Stoðbjôrn (1)
-- Stóði: 1 stone, 1 token
-- Stóðkell: 3 stones, 3 tokens
-- Stóra: 2 stones, 2 tokens
-- Stórulfssonr: 1 stone, 1 token
-- Streitinn: 1 stone, 1 token
-- Stúfs: 1 stone, 1 token
-- sturkr: 1 stone, 1 token
-- Stybbi: 1 stone, 1 token
-- Styðingr: 3 stones, 3 tokens; forms Styðingr (2), Styðing (1)
-- Styfjaldr: 5 stones, 5 tokens; forms Styfjaldr (3), Styfjald (2)
-- Styfjalds: 1 stone, 1 token
-- Styggr: 1 stone, 1 token
-- Stynbjôrn: 1 stone, 1 token
-- Stynfríðr: 1 stone, 1 token
-- Styr: 3 stones, 3 tokens; forms Styr (2), Styrr (1)
-- Styrbjôrn: 11 stones, 11 tokens
-- Styrfastr: 2 stones, 2 tokens
-- Stýrimann: 1 stone, 1 token
-- Styrkárr: 6 stones, 6 tokens; forms Styrkárr (4), Styrkár (2)
-- Styrlakr: 1 stone, 1 token
-- Styrlaugr: 3 stones, 3 tokens
-- Stœðingr: 3 stones, 3 tokens; forms Stœðingr (2), Stœðing (1)
-- Suders: 1 stone, 1 token
-- Suðr: 1 stone, 1 token
-- Suðrbý: 3 stones, 3 tokens
-- sufar: 1 stone, 2 tokens
-- suhikierf: 1 stone, 1 token
-- Súlka: 1 stone, 1 token
-- Sullr: 1 stone, 1 token
-- Sumarliði: 3 stones, 3 tokens
-- sumuR: 1 stone, 1 token
-- Sundrál: 1 stone, 1 token
-- Sundre: 1 stone, 1 token
-- Sundru: 1 stone, 1 token
-- Suni: 1 stone, 1 token
-- Sunnhvatr: 1 stone, 1 token
-- Sunnviðr: 1 stone, 1 token
-- Suno: 1 stone, 1 token
-- Súrbein: 1 stone, 1 token
-- Sútari: 1 stone, 1 token
-- sutlak: 1 stone, 1 token
-- Sváfi: 2 stones, 2 tokens
-- Svali: 1 stone, 1 token
-- Svanabý: 1 stone, 1 token
-- Svanr: 1 stone, 1 token
-- Svaraldr: 1 stone, 1 token
-- Svart: 4 stones, 4 tokens; forms Svart (2), Svartr (2)
-- Svarta: 2 stones, 2 tokens
-- Svartabrandr: 1 stone, 1 token
-- Svarthôfða: 11 stones, 12 tokens
-- Svarthôfði: 6 stones, 6 tokens
-- Svarti: 1 stone, 1 token
-- Svartung: 1 stone, 1 token
-- Sveina: 3 stones, 3 tokens
-- Sveinaldi: 1 stone, 1 token
-- Sveinaldr: 1 stone, 1 token
-- Sveingeirr: 1 stone, 1 token
-- Sveinheiðr: 1 stone, 1 token
-- Sveini: 5 stones, 5 tokens
-- Sveinki: 1 stone, 1 token
-- Sveinn: 182 stones, 189 tokens; forms Sveinn (126), Svein (63)
-- Sveins: 10 stones, 11 tokens
-- Sveinssonr: 1 stone, 1 token
-- Sveinu: 1 stone, 1 token
-- Sveinungr: 3 stones, 3 tokens; forms Sveinungr (2), Sveinung (1)
-- Svell: 1 stone, 1 token
-- Sven: 1 stone, 1 token
-- Sverðolfr: 1 stone, 1 token
-- Sverkir: 3 stones, 3 tokens
-- Sverra: 2 stones, 2 tokens
-- Sverri: 2 stones, 2 tokens
-- Svertingr: 3 stones, 3 tokens; forms Svertingr (2), Sverting (1)
-- Svíðanda: 1 stone, 2 tokens; forms Svíðanda (1), Sviðanda (1)
-- Sviðbalka: 1 stone, 1 token
-- Sviðbalki: 1 stone, 1 token
-- Sviðings: 1 stone, 1 token
-- Svineburg: 1 stone, 1 token
-- Svíu: 1 stone, 1 token
-- Svíþjóðu: 4 stones, 4 tokens
-- Svôlunesi: 1 stone, 1 token
-- Swabaharjaz: 1 stone, 1 token
-- Swarta: 1 stone, 1 token
-- Sylfa: 3 stones, 4 tokens
-- Sylfu: 2 stones, 2 tokens
-- Syrkell: 1 stone, 1 token
-- Systu: 1 stone, 1 token
-- Syvurr: 1 stone, 1 token
-- Sæbjôrn: 7 stones, 7 tokens
-- Sædjarf: 2 stones, 2 tokens
-- Sæ-Eyndr: 1 stone, 1 token
-- Sæfa: 3 stones, 3 tokens
-- Sæfari: 1 stone, 1 token
-- Sæfu: 1 stone, 1 token
-- Sæfús: 1 stone, 1 token
-- Sægeir: 2 stones, 3 tokens; forms Sægeir (2), Sægeirr (1)
-- Sægrímr: 3 stones, 3 tokens
-- Sægunni: 1 stone, 1 token
-- Sælafr: 1 stone, 1 token
-- Sæmundr: 3 stones, 3 tokens; forms Sæmundr (2), Sæmund (1)
-- Sæmunds: 1 stone, 1 token
-- Særða: 1 stone, 1 token
-- Særeif: 4 stones, 4 tokens; forms Særeif (3), Særeifr (1)
-- Særla: 1 stone, 1 token
-- Sæulfr: 2 stones, 2 tokens
-- Sævar: 1 stone, 1 token
-- Sævini: 2 stones, 2 tokens
-- Sæþórr: 1 stone, 1 token
-- Söderby: 1 stone, 1 token
-- Söderbys: 1 stone, 1 token
-- Sœgsa: 2 stones, 2 tokens
-- Sôlsi: 1 stone, 1 token
-- Sôlva: 4 stones, 4 tokens
-- Sôlveig: 1 stone, 1 token
-- Sôlvi: 1 stone, 1 token
-- Sôlvu: 1 stone, 1 token
-- Sôndum: 1 stone, 1 token
-- Sørkell: 1 stone, 1 token
-- Sørkviðr: 1 stone, 1 token
-- Sørkvir: 1 stone, 1 token
-- Sôssur: 1 stone, 1 token
-- Tábý: 5 stones, 5 tokens
-- Taf: 1 stone, 1 token
-- Tafeistalandi: 1 stone, 2 tokens
-- Tafeistr: 3 stones, 3 tokens; forms Tafeistr (2), Tafeist (1)
-- Tafsa: 1 stone, 1 token
-- taist: 1 stone, 1 token
-- Taitz: 1 stone, 1 token
-- Takn: 1 stone, 1 token
-- Talijo: 1 stone, 1 token
-- Tanulu: 1 stone, 1 token
-- Tárr: 1 stone, 3 tokens; forms Tárr (1), Tár (1), Tarr (1)
-- Társtôðum: 1 stone, 2 tokens
-- Tassi: 1 stone, 1 token
-- Tast: 1 stone, 1 token
-- Tata: 1 stone, 1 token
-- Tati: 1 stone, 1 token
-- tatr: 1 stone, 1 token
-- Tatta: 1 stone, 1 token
-- Tatti: 1 stone, 1 token
-- tayr: 1 stone, 1 token
-- Terea: 1 stone, 1 token
-- Thomás: 3 stones, 3 tokens
-- Thomásmessu: 1 stone, 1 token
-- Tíðfríðr: 2 stones, 2 tokens; forms Tíðfríðr (1), Tíðfríð (1)
-- Tíðkuma: 2 stones, 2 tokens
-- Tíðkumi: 11 stones, 11 tokens
-- Tíráðr: 1 stone, 1 token
-- Tjôrva: 1 stone, 1 token
-- Tjôrvi: 2 stones, 3 tokens
-- Tobba: 3 stones, 3 tokens
-- Tobbi: 4 stones, 5 tokens
-- Tobias: 1 stone, 1 token
-- Toco: 1 stone, 1 token
-- Toðrwite: 1 stone, 1 token
-- Tófa: 22 stones, 22 tokens
-- Tófi: 21 stones, 22 tokens
-- Tófu: 2 stones, 2 tokens
-- Tóka: 23 stones, 27 tokens
-- Tóki: 28 stones, 30 tokens
-- Tóku: 1 stone, 1 token
-- Tóla: 5 stones, 5 tokens
-- Tóli: 8 stones, 9 tokens
-- Tólir: 5 stones, 6 tokens
-- Tolkr: 1 stone, 1 token
-- Tomás: 1 stone, 1 token
-- Tonna: 4 stones, 4 tokens
-- Tonnu: 2 stones, 2 tokens
-- Tópi: 1 stone, 1 token
-- Tóra: 2 stones, 2 tokens
-- Torfi: 1 stone, 1 token
-- Tosta: 10 stones, 11 tokens
-- Tosti: 15 stones, 15 tokens
-- Tóta: 1 stone, 1 token
-- Toti: 1 stone, 1 token
-- Trandils: 1 stone, 1 token
-- Trani: 2 stones, 2 tokens
-- Trjónn: 1 stone, 1 token
-- Trúfastr: 1 stone, 1 token
-- Trygg: 1 stone, 1 token
-- Tryggulf: 1 stone, 1 token
-- Tryggvi: 1 stone, 1 token
-- Tubba: 2 stones, 2 tokens
-- Tubbi: 3 stones, 4 tokens
-- tuguta: 1 stone, 1 token
-- tuku: 1 stone, 1 token
-- Tuli: 1 stone, 1 token
-- Tulkr: 1 stone, 1 token
-- Tuma: 7 stones, 8 tokens
-- Tumi: 5 stones, 5 tokens
-- Tumma: 3 stones, 4 tokens
-- Tummi: 3 stones, 3 tokens
-- tuna: 1 stone, 1 token
-- Tunna: 2 stones, 2 tokens
-- Tunnu: 1 stone, 1 token
-- Tveggja: 2 stones, 2 tokens
-- Týr: 1 stone, 1 token
-- Tœk: 1 stone, 1 token
-- ualu: 1 stone, 1 token
-- Ubbi: 3 stones, 3 tokens
-- Uddr: 1 stone, 1 token
-- uefut: 1 stone, 1 token
-- uekaltr: 1 stone, 1 token
-- úfeigr: 1 stone, 1 token
-- Uffi: 1 stone, 2 tokens
-- Uggs: 1 stone, 1 token
-- uha: 1 stone, 1 token
-- ui: 1 stone, 1 token
-- uika: 1 stone, 1 token
-- uiki: 1 stone, 1 token
-- uilit: 1 stone, 1 token
-- ui--n: 1 stone, 1 token
-- uinþa: 1 stone, 1 token
-- uisþi: 1 stone, 1 token
-- uitan: 1 stone, 1 token
-- ukiþila: 1 stone, 1 token
-- uku: 1 stone, 1 token
-- ukuþi: 1 stone, 1 token
-- Ulfdôlum: 1 stone, 1 token
-- Ulfeyju: 1 stone, 1 token
-- Ulfgautr: 1 stone, 1 token
-- Ulfgauts: 1 stone, 1 token
-- Ulfgeirr: 2 stones, 2 tokens
-- Ulfgeirssonar: 1 stone, 1 token
-- Ulfheðinn: 2 stones, 2 tokens; forms Ulfheðinn (1), Ulfheðin (1)
-- Ulfhildr: 1 stone, 1 token
-- Ulfhvatr: 1 stone, 1 token
-- Ulfhôss: 1 stone, 1 token
-- Ulfi: 2 stones, 2 tokens
-- Ulfkell: 15 stones, 15 tokens; forms Ulfkell (14), Ulfkel (1)
-- Ulfketill: 2 stones, 2 tokens; forms Ulfketill (1), Ulfketil (1)
-- Ulfljót: 3 stones, 3 tokens; forms Ulfljót (1), Ulfljótr (1), Úlfljót (1)
-- Ulfnoð: 1 stone, 1 token
-- Ulfr: 83 stones, 87 tokens; forms Ulfr (53), Ulf (34)
-- Ulfríkr: 5 stones, 5 tokens; forms Ulfríkr (3), Ulfrík (2)
-- Ulfs: 7 stones, 7 tokens
-- Ulfshala: 1 stone, 1 token
-- Ulfsundi: 1 stone, 1 token
-- Ulfvið: 1 stone, 1 token
-- ul---li: 1 stone, 1 token
-- Ulvshale: 1 stone, 1 token
-- uma-ut: 1 stone, 1 token
-- umun: 1 stone, 1 token
-- Una: 3 stones, 4 tokens
-- Unar: 2 stones, 2 tokens
-- Únáss: 1 stone, 1 token
-- Undrlaug: 2 stones, 2 tokens
-- Undrlaugar: 1 stone, 1 token
-- Unga-Ganna: 1 stone, 1 token
-- Ungandiz: 1 stone, 1 token
-- Ungi: 1 stone, 1 token
-- Uni: 4 stones, 4 tokens
-- Unir: 1 stone, 1 token
-- Unn: 9 stones, 12 tokens; forms Unn (6), Un (5), Unnr (1)
-- Unna: 3 stones, 4 tokens
-- Unnar: 1 stone, 1 token
-- Unn-Bjúr: 1 stone, 1 token
-- Unnbjôrn: 1 stone, 1 token
-- Unni: 4 stones, 4 tokens
-- Unnu: 2 stones, 2 tokens
-- Unnulfr: 4 stones, 4 tokens; forms Unnulfr (3), Unnulf (1)
-- Unnviðr: 1 stone, 1 token
-- Unu: 2 stones, 2 tokens
-- Unvald: 1 stone, 1 token
-- Unwodz: 1 stone, 1 token
-- Upphlaupr: 1 stone, 1 token
-- Uppsôlum: 2 stones, 2 tokens
-- Upsal: 1 stone, 1 token
-- u-r>bergi: 1 stone, 1 token
-- Urgude: 1 stone, 1 token
-- Urni: 1 stone, 1 token
-- Ustaholms: 1 stone, 1 token
-- Úteyjum: 1 stone, 1 token
-- Úthlaupr: 1 stone, 1 token
-- Útlagi: 2 stones, 2 tokens
-- Útlengju: 1 stone, 1 token
-- Utoje: 1 stone, 1 token
-- Úþyrmis: 1 stone, 1 token
-- Vaði: 1 stone, 1 token
-- Vafra: 2 stones, 2 tokens
-- Vagn: 2 stones, 2 tokens
-- Vakra: 1 stone, 1 token
-- Vála: 1 stone, 1 token
-- vald: 1 stone, 1 token
-- Valdarr: 1 stone, 1 token
-- Valdinga: 1 stone, 1 token
-- Valdríkr: 1 stone, 1 token
-- Valgarðs: 2 stones, 2 tokens
-- Valgerðr: 1 stone, 1 token
-- Valkar: 1 stone, 1 token
-- Valr: 1 stone, 1 token
-- Valtóka: 1 stone, 2 tokens
-- Vámóð: 1 stone, 1 token
-- Vani: 2 stones, 3 tokens
-- Var: 2 stones, 2 tokens; forms Var (1), Varr (1)
-- Várfeitr: 1 stone, 1 token
-- Vargas: 2 stones, 2 tokens
-- Varghôss: 2 stones, 2 tokens
-- Varin: 3 stones, 3 tokens; forms Varin (2), Varinn (1)
-- Varr-Ási: 2 stones, 2 tokens
-- Vási: 1 stone, 1 token
-- Väskinde: 1 stone, 1 token
-- Västerbys: 1 stone, 1 token
-- Västergårde: 2 stones, 2 tokens
-- Västerväte: 1 stone, 1 token
-- Vätaburg: 1 stone, 1 token
-- Vatrungum: 1 stone, 1 token
-- Vé: 1 stone, 1 token
-- Vébjôrg: 4 stones, 6 tokens
-- Vébjôrn: 23 stones, 25 tokens
-- Véborgum: 1 stone, 1 token
-- Védjarf: 6 stones, 6 tokens; forms Védjarf (4), Védjarfr (2)
-- Veðr: 4 stones, 4 tokens
-- Veðraldi: 3 stones, 3 tokens
-- Véelfr: 1 stone, 1 token
-- Véfastr: 16 stones, 16 tokens; forms Véfastr (9), Véfast (7)
-- Véfinn: 1 stone, 2 tokens
-- Véfríðar: 1 stone, 1 token
-- Véfríðr: 5 stones, 5 tokens; forms Véfríðr (4), Véfriðr (1)
-- Véfrøðar: 1 stone, 1 token
-- Véfrøðr: 1 stone, 1 token
-- Véfúss: 1 stone, 1 token
-- Végautr: 6 stones, 6 tokens; forms Végautr (5), Végaut (1)
-- Végauts: 1 stone, 1 token
-- Végeir: 6 stones, 6 tokens; forms Végeir (4), Végeirr (2)
-- Végerðar: 1 stone, 1 token
-- Végerðr: 2 stones, 2 tokens
-- Végísl: 4 stones, 4 tokens
-- Végrím: 1 stone, 1 token
-- Végulla: 1 stone, 1 token
-- Végunnr: 3 stones, 3 tokens
-- Véhjalmr: 4 stones, 4 tokens; forms Véhjalmr (3), Véhjalm (1)
-- Vékell: 2 stones, 2 tokens
-- Véketill: 3 stones, 3 tokens
-- Véleif: 1 stone, 1 token
-- Vémundr: 5 stones, 5 tokens
-- Vénjót: 7 stones, 7 tokens; forms Vénjót (4), Vénjótr (3)
-- Vermundr: 1 stone, 1 token
-- Verskulf: 1 stone, 1 token
-- Vérún: 1 stone, 1 token
-- Véseta: 2 stones, 2 tokens
-- Véseti: 14 stones, 14 tokens
-- Vestbý: 1 stone, 1 token
-- Vésteinn: 12 stones, 12 tokens; forms Vésteinn (9), Véstein (3)
-- Vestkindi: 1 stone, 1 token
-- Vestmund: 1 stone, 1 token
-- Vestrbý: 1 stone, 1 token
-- Vestrgôrðum: 1 stone, 1 token
-- Vestrhvetjum: 1 stone, 1 token
-- Vetaborgum: 1 stone, 1 token
-- Vetr: 2 stones, 2 tokens
-- Vetrliða: 1 stone, 1 token
-- Véulf: 3 stones, 3 tokens; forms Véulf (2), Véulfr (1)
-- Véulfs: 1 stone, 1 token
-- Véurð: 1 stone, 1 token
-- Viða: 2 stones, 3 tokens; forms Viða (2), Víða (1)
-- Víðarr: 2 stones, 2 tokens; forms Víðarr (1), Víðar (1)
-- Viðbjôrn: 9 stones, 10 tokens
-- Víðfara: 2 stones, 2 tokens
-- Víðfari: 2 stones, 2 tokens
-- Viðfastar: 1 stone, 1 token
-- Víðhugsi: 1 stone, 1 token
-- Viði: 2 stones, 4 tokens; forms Viði (2), Víði (2)
-- Víðihol: 1 stone, 1 token
-- Víðkunnr: 1 stone, 1 token
-- Viðkunnsstôðum: 1 stone, 1 token
-- Viðulfr: 1 stone, 1 token
-- Vífa: 2 stones, 2 tokens
-- Vífill: 2 stones, 2 tokens; forms Vífill (1), Vifill (1)
-- Víg: 7 stones, 7 tokens; forms Víg (4), Vígr (3)
-- Víga: 3 stones, 3 tokens
-- Vígbjôrn: 6 stones, 7 tokens
-- Vígdís: 2 stones, 2 tokens
-- Vígdísi: 1 stone, 1 token
-- Vígdjarfr: 4 stones, 4 tokens; forms Vígdjarfr (3), Vígdjarf (1)
-- Vígfast: 1 stone, 1 token
-- Víghjalmr: 7 stones, 7 tokens; forms Víghjalmr (5), Víghjalm (2)
-- Vígi: 7 stones, 9 tokens
-- Vígleikr: 2 stones, 2 tokens
-- Vígmaðr: 1 stone, 1 token
-- Vígmarr: 5 stones, 5 tokens; forms Vígmarr (3), Vígmar (2)
-- Vígmundar: 1 stone, 1 token
-- Vígmundr: 3 stones, 4 tokens; forms Vígmundr (3), Vígmund (1)
-- Vígnjótr: 2 stones, 3 tokens
-- Vígsharðr: 1 stone, 1 token
-- Vígulf: 1 stone, 1 token
-- Vígulfi: 1 stone, 1 token
-- Vígulfs: 1 stone, 1 token
-- Vígþorn: 1 stone, 1 token
-- Vík: 2 stones, 3 tokens; forms Vík (2), Vik (1)
-- Víkar: 2 stones, 2 tokens
-- Vikare: 1 stone, 1 token
-- Víkbý: 2 stones, 4 tokens
-- Víkhúsum: 1 stone, 1 token
-- Víkingr: 19 stones, 19 tokens; forms Víkingr (11), Víking (8)
-- Víkings: 2 stones, 2 tokens
-- Víku: 1 stone, 1 token
-- Víkulfs: 1 stone, 1 token
-- Vilhelmus: 1 stone, 1 token
-- Vilhjalmr: 1 stone, 1 token
-- Vilinn: 1 stone, 2 tokens
-- Viljalms: 1 stone, 1 token
-- Villi: 1 stone, 1 token
-- Villiam: 1 stone, 1 token
-- Vinaman: 1 stone, 1 token
-- Vindey: 1 stone, 1 token
-- Vindr: 1 stone, 1 token
-- Vindö: 1 stone, 1 token
-- Víneyju: 1 stone, 1 token
-- Vinfríðr: 1 stone, 1 token
-- Virðivægr: 1 stone, 1 token
-- Virlandi: 3 stones, 3 tokens
-- Visborg: 1 stone, 1 token
-- Vitalis: 1 stone, 1 token
-- Vittkarls: 1 stone, 1 token
-- Vivi: 1 stone, 1 token
-- Vráa: 1 stone, 1 token
-- Vraga: 1 stone, 1 token
-- Vrái: 1 stone, 1 token
-- Vreiðr: 5 stones, 5 tokens; forms Vreiðr (3), Vreið (2)
-- Vreistr: 1 stone, 1 token
-- Væringr: 1 stone, 1 token
-- Værings: 1 stone, 1 token
-- Vôr: 1 stone, 1 token
-- Vôrr-Ási: 2 stones, 2 tokens
-- Vôrrfeitr: 1 stone, 1 token
-- Wagagastiz: 1 stone, 1 token
-- Wage: 1 stone, 1 token
-- Wagigaz: 1 stone, 1 token
-- Wagnijo: 3 stones, 3 tokens
-- Wajaradas: 1 stone, 1 token
-- Wajemariz: 1 stone, 1 token
-- Wakraz: 1 stone, 1 token
-- Warafnisa: 1 stone, 1 token
-- Weladauþs: 1 stone, 1 token
-- Widugastiz: 1 stone, 1 token
-- Widuhundaz: 1 stone, 2 tokens
-- Wigaz: 2 stones, 2 tokens
-- Wilagaz: 1 stone, 1 token
-- Wilhelmus: 1 stone, 1 token
-- Witro: 1 stone, 1 token
-- Wiwaz: 1 stone, 1 token
-- Wiwila: 1 stone, 1 token
-- Wiwjo: 1 stone, 1 token
-- Wiz: 1 stone, 1 token
-- Wodinz: 1 stone, 1 token
-- Woduride: 1 stone, 3 tokens
-- Wormalaiba: 1 stone, 1 token
-- Wulfric: 1 stone, 1 token
-- Wulþuþewaz: 1 stone, 2 tokens
-- Yfir-Guðarfa: 1 stone, 1 token
-- Ýfla: 1 stone, 1 token
-- Yggjar: 1 stone, 1 token
-- Ylfa: 1 stone, 1 token
-- Ysi: 1 stone, 1 token
-- Ýtlingi: 1 stone, 1 token
-- Ytlings: 1 stone, 1 token
-- Zion: 1 stone, 2 tokens
-- Þaliz: 1 stone, 1 token
-- þanfuþ: 1 stone, 1 token
-- þefa: 1 stone, 1 token
-- Þegn: 20 stones, 21 tokens
-- Þegns: 1 stone, 1 token
-- Þelli-Nefr: 1 stone, 1 token
-- Þellinefr: 1 stone, 1 token
-- Þerf: 1 stone, 1 token
-- Þexla: 1 stone, 1 token
-- Þili-Nefr: 1 stone, 1 token
-- Þilinefr: 1 stone, 1 token
-- Þingbjôrn: 1 stone, 1 token
-- Þingfast: 2 stones, 2 tokens; forms Þingfast (1), Þingfastr (1)
-- Þirbijaz: 1 stone, 1 token
-- Þíri: 1 stone, 1 token
-- Þjalfa: 9 stones, 9 tokens; forms Þjalfa (8), Þjálfa (1)
-- Þjalfar: 1 stone, 1 token
-- Þjalfi: 10 stones, 11 tokens
-- Þjóð: 2 stones, 2 tokens
-- Þjóðarr: 2 stones, 2 tokens
-- Þjóðbjôrg: 2 stones, 3 tokens
-- Þjóðgeirr: 3 stones, 4 tokens
-- Þjóðheiðr: 1 stone, 1 token
-- Þjóði: 1 stone, 1 token
-- Þjóðkell: 3 stones, 3 tokens; forms Þjóðkell (2), Þjóðkel (1)
-- Þjóðmund: 4 stones, 5 tokens; forms Þjóðmund (4), Þjóðmundr (1)
-- Þjóðrekr: 1 stone, 1 token
-- Þjóðríkr: 2 stones, 2 tokens
-- Þjóðsteinn: 3 stones, 3 tokens; forms Þjóðsteinn (2), Þjóðstein (1)
-- Þjóðulf: 3 stones, 3 tokens; forms Þjóðulf (2), Þjóðulfr (1)
-- Þjóðulfs: 2 stones, 2 tokens
-- Þjóðvé: 2 stones, 2 tokens
-- Þjóðvér: 1 stone, 1 token
-- Þjokk: 1 stone, 1 token
-- Þjokki: 1 stone, 1 token
-- Þjór: 1 stone, 1 token
-- Þjóstulf: 1 stone, 1 token
-- Þjústi: 1 stone, 1 token
-- þku: 1 stone, 1 token
-- þofta: 1 stone, 1 token
-- Þólfr: 9 stones, 10 tokens; forms Þólfr (9), Þólf (1)
-- Þólfs: 2 stones, 2 tokens
-- Þor: 33 stones, 34 tokens; forms Þor (17), Þórr (15), Þór (2)
-- Þóra: 28 stones, 28 tokens; forms Þóra (27), Þora (1)
-- Þórald: 2 stones, 2 tokens; forms Þórald (1), Þóraldr (1)
-- Þoraldi: 2 stones, 2 tokens; forms Þoraldi (1), Þóraldi (1)
-- Þorbergr: 3 stones, 3 tokens
-- Þorbirni: 1 stone, 1 token
-- Þorbjarnar: 3 stones, 3 tokens
-- Þorbjôrg: 1 stone, 1 token
-- Þorbjôrn: 69 stones, 70 tokens
-- Þordís: 1 stone, 1 token
-- Þordjarf: 1 stone, 1 token
-- Þórðar: 2 stones, 2 tokens
-- Þórðarsonr: 1 stone, 1 token
-- Þórðr: 49 stones, 51 tokens; forms Þórðr (39), Þórð (12)
-- Þorfastr: 19 stones, 19 tokens; forms Þorfastr (13), Þorfast (6)
-- Þórfinna: 1 stone, 1 token
-- Þorfinnr: 3 stones, 3 tokens; forms Þorfinnr (2), Þorfinn (1)
-- Þorfinns: 1 stone, 1 token
-- Þorfreðr: 2 stones, 2 tokens
-- Þorfríða: 1 stone, 1 token
-- Þorfríði: 1 stone, 1 token
-- Þorfríðr: 3 stones, 4 tokens; forms Þorfríðr (3), Þorfriðr (1)
-- Þorfrøð: 2 stones, 2 tokens
-- Þorgarðr: 4 stones, 4 tokens
-- Þorgautr: 32 stones, 33 tokens; forms Þorgautr (22), Þorgaut (10), Þórgaut (1)
-- Þorgauts: 1 stone, 2 tokens
-- Þorgeirr: 29 stones, 31 tokens; forms Þorgeirr (22), Þorgeir (9)
-- Þorgeirs: 1 stone, 1 token
-- Þorgeirssonr: 1 stone, 1 token
-- Þorgerðar: 3 stones, 3 tokens
-- Þorgerði: 1 stone, 1 token
-- Þorgerð(r: 1 stone, 1 token
-- Þorgerðr: 10 stones, 10 tokens
-- Þorgerðu: 1 stone, 1 token
-- Þorgísl: 32 stones, 33 tokens
-- Þorgíslar: 1 stone, 1 token
-- Þorgísls: 5 stones, 5 tokens
-- Þorgnýr: 1 stone, 1 token
-- Þorgnýs: 1 stone, 1 token
-- Þorgrímr: 8 stones, 8 tokens; forms Þorgrímr (7), Þorgrím (1)
-- Þorgunna: 1 stone, 1 token
-- Þorgunni: 1 stone, 1 token
-- Þorgunnr: 11 stones, 11 tokens; forms Þorgunnr (10), Þórgunnr (1)
-- Þórhallr: 1 stone, 1 token
-- Þórheiðr: 1 stone, 1 token
-- Þorhildr: 3 stones, 3 tokens; forms Þorhildr (2), Þórhildr (1)
-- Þóri: 21 stones, 21 tokens
-- Þóríðr: 1 stone, 1 token
-- Þórir: 56 stones, 57 tokens; forms Þórir (56), Þorir (1)
-- Þóris: 4 stones, 4 tokens
-- Þórissyni: 1 stone, 1 token
-- Þorkell: 49 stones, 50 tokens; forms Þorkell (38), Þorkel (12)
-- Þorkell'k: 1 stone, 1 token
-- Þorkels: 1 stone, 1 token
-- Þorketil: 4 stones, 4 tokens; forms Þorketil (2), Þorketill (2)
-- Þorketils: 1 stone, 1 token
-- Þorla: 1 stone, 1 token
-- Þorlaf: 2 stones, 2 tokens; forms Þorlaf (1), Þorlafr (1)
-- Þorlak: 11 stones, 11 tokens; forms Þorlak (8), Þorlakr (3)
-- Þorlaks: 1 stone, 1 token
-- Þórlaug: 1 stone, 2 tokens; forms Þórlaug (1), Þórlaugr (1)
-- Þorleifr: 6 stones, 6 tokens; forms Þorleifr (5), Þórleifr (1)
-- Þorleifs: 2 stones, 2 tokens
-- Þorleik: 2 stones, 2 tokens; forms Þorleik (1), Þorleikr (1)
-- Þorli: 1 stone, 1 token
-- Þorlôf: 1 stone, 1 token
-- Þormar: 3 stones, 3 tokens; forms Þormar (2), Þormarr (1)
-- Þormóðr: 9 stones, 10 tokens; forms Þormóðr (9), Þormóð (1)
-- Þormundr: 7 stones, 7 tokens
-- Þorn: 2 stones, 2 tokens
-- Þornjótr: 1 stone, 1 token
-- Þorný: 2 stones, 2 tokens
-- Þóroddr: 1 stone, 1 token
-- Þórolfr: 1 stone, 1 token
-- Þorpum: 1 stone, 1 token
-- Þorríði: 1 stone, 1 token
-- Þorrøðr: 1 stone, 1 token
-- Þorsholmi: 1 stone, 1 token
-- Þorsteini: 1 stone, 1 token
-- Þorsteinn: 111 stones, 117 tokens; forms Þorsteinn (77), Þorstein (40)
-- Þorsteins: 6 stones, 6 tokens
-- Þorsteinssonr: 3 stones, 3 tokens
-- Þóru: 9 stones, 10 tokens
-- Þórulfr: 9 stones, 10 tokens
-- Þórulfs: 1 stone, 1 token
-- Þórunnar: 1 stone, 1 token
-- Þórunnr: 12 stones, 12 tokens
-- Þorvaldr: 2 stones, 3 tokens
-- Þorvarðr: 1 stone, 1 token
-- Þorvið: 1 stone, 1 token
-- Þorvôr: 1 stone, 1 token
-- þotr: 1 stone, 1 token
-- Þrasi: 1 stone, 1 token
-- Þrawijan: 1 stone, 1 token
-- Þrining: 1 stone, 1 token
-- Þrjózkr: 1 stone, 1 token
-- Þró: 1 stone, 1 token
-- Þróndr: 11 stones, 12 tokens; forms Þróndr (7), Þrónd (5)
-- Þrós: 1 stone, 1 token
-- Þrótti: 5 stones, 5 tokens
-- Þrúðar: 1 stone, 1 token
-- Þrúðrún: 1 stone, 1 token
-- Þrýðríkr: 2 stones, 2 tokens
-- Þrýðríks: 1 stone, 1 token
-- þuatr: 1 stone, 1 token
-- Þúfa: 1 stone, 1 token
-- Þuli: 1 stone, 1 token
-- Þulir: 2 stones, 2 tokens
-- Þulr: 1 stone, 1 token
-- Þundar: 1 stone, 1 token
-- Þunn-Áki: 1 stone, 1 token
-- Þunn-Hnakki: 1 stone, 1 token
-- Þunni: 1 stone, 1 token
-- Þúríð: 1 stone, 1 token
-- Þursheiminum: 1 stone, 1 token
-- þuæþ: 1 stone, 1 token
-- Þyrgeir: 1 stone, 1 token
-- Þyrgísl: 1 stone, 1 token
-- Þyrna: 1 stone, 1 token
-- Þyrvé: 13 stones, 13 tokens
-- Þyrvéar: 2 stones, 2 tokens
-- Þœfr: 2 stones, 2 tokens
-- æfsa: 1 stone, 1 token
-- Æsi: 3 stones, 3 tokens
-- Ôgmundar: 1 stone, 1 token
-- Ôgmundarsonr: 1 stone, 1 token
-- Ôgmundr: 8 stones, 8 tokens; forms Ôgmundr (6), Ôgmund (2)
-- Ôgurstôðum: 1 stone, 1 token
-- Öja: 2 stones, 2 tokens
-- Ôlfun: 2 stones, 2 tokens
-- Ôlrekr: 1 stone, 1 token
-- Ôlvé: 1 stone, 1 token
-- Ôlvi: 4 stones, 4 tokens
-- Ôlvir: 8 stones, 8 tokens
-- Ôlvis: 1 stone, 1 token
-- Ômmu: 1 stone, 1 token
-- Ôndóttr: 1 stone, 1 token
-- Ôngla: 1 stone, 1 token
-- Ôngum: 1 stone, 1 token
-- Ônunda: 2 stones, 2 tokens
-- Ônundar: 5 stones, 5 tokens
-- Ônundr: 64 stones, 67 tokens; forms Ônundr (49), Ônund (18)
-- Œpi: 6 stones, 8 tokens
-- Œpir: 49 stones, 52 tokens
-- Œpis: 1 stone, 1 token
-- Øra: 1 stone, 1 token
-- Œringr: 3 stones, 3 tokens; forms Œringr (2), Œring (1)
-- Ôrn: 4 stones, 7 tokens; forms Ôrn (5), ôrn (2)
-- Ôsl: 4 stones, 4 tokens
-- Ôssur: 1 stone, 1 token
-- Österby: 1 stone, 1 token
-- Ôzurar: 1 stone, 1 token
-- Ôzurr: 48 stones, 51 tokens; forms Ôzurr (32), Ôzur (19)
+| Name | Individual occurrences | Duplicates | Forms |
+|------|-------:|-------:|-------|
+| A | 1 | 0 |  |
+| Aachen | 1 | 0 |  |
+| Aaron | 2 | 0 |  |
+| Abdenago | 2 | 0 |  |
+| Ábjôrn | 8 | 0 |  |
+| Abraham | 1 | 0 |  |
+| Absalon | 1 | 0 |  |
+| Ábý | 1 | 0 |  |
+| Adam | 1 | 1 |  |
+| Adami | 1 | 0 |  |
+| Adamnán | 1 | 0 |  |
+| Ádís | 1 | 0 |  |
+| Ádísa | 1 | 0 |  |
+| Ádjarf | 4 | 2 | Ádjarf (4), Ádjarfr (2) |
+| Adonai | 3 | 1 |  |
+| Aðakáns | 1 | 0 |  |
+| Aðalmarr | 6 | 0 |  |
+| Aðalmerki | 1 | 0 |  |
+| Aðalmæki | 1 | 0 |  |
+| Aðísl | 3 | 0 |  |
+| Áðísla | 1 | 0 |  |
+| Áfast | 1 | 0 |  |
+| Affoca | 1 | 0 |  |
+| Affricala | 1 | 0 |  |
+| Affricca | 1 | 0 |  |
+| Afkar | 1 | 0 |  |
+| Áfríði | 1 | 0 |  |
+| Áfríðr | 7 | 0 |  |
+| Ágautr | 2 | 0 | Ágautr (1), Ágaut (1) |
+| Ágeirr | 2 | 0 |  |
+| Ágerðr | 1 | 0 |  |
+| Agilamundon | 1 | 0 |  |
+| Agios | 1 | 0 |  |
+| Agmundr | 8 | 0 | Agmundr (5), Agmund (3) |
+| Agna | 1 | 0 |  |
+| Agnabó | 2 | 0 |  |
+| Agneta | 1 | 1 |  |
+| Agni | 2 | 0 |  |
+| Agnmundr | 1 | 0 |  |
+| Ágota | 2 | 0 |  |
+| Ágoti | 7 | 0 |  |
+| Agviðr | 2 | 0 |  |
+| aikiR | 1 | 0 |  |
+| Ailmar | 1 | 0 |  |
+| Aiþalataz | 1 | 0 |  |
+| Áka | 2 | 0 |  |
+| Akaz | 1 | 0 |  |
+| Áki | 9 | 2 |  |
+| Akli | 1 | 0 |  |
+| akoft | 1 | 0 |  |
+| akopk | 1 | 0 |  |
+| Ál | 2 | 0 | Ál (1), al (1) |
+| Ála | 6 | 1 |  |
+| Alaifu | 1 | 0 |  |
+| Alawin | 1 | 2 |  |
+| Albóð | 1 | 0 |  |
+| Aldi | 1 | 0 |  |
+| Aldrífar | 1 | 0 |  |
+| Aldulfs | 1 | 0 |  |
+| Aldvið | 2 | 0 | Aldvið (1), Aldviðr (1) |
+| Áleif | 3 | 0 | Áleif (2), Áleifr (1) |
+| Alfar | 1 | 0 |  |
+| Alfdís | 1 | 0 |  |
+| Alfgautr | 2 | 0 |  |
+| Alfgeirr | 3 | 0 | Alfgeirr (2), Alfgeir (1) |
+| Alfhildar | 1 | 0 |  |
+| alf---ir | 1 | 0 |  |
+| Alfkell | 2 | 0 |  |
+| Alfketil | 1 | 0 |  |
+| Alflak | 1 | 0 |  |
+| Alfr | 1 | 0 |  |
+| Alfríkr | 4 | 0 |  |
+| Álfrúnar | 1 | 0 |  |
+| Alfvin | 3 | 0 |  |
+| Algautr | 1 | 0 |  |
+| Algísl | 1 | 0 |  |
+| Áli | 11 | 0 |  |
+| Aljamarkiz | 1 | 0 |  |
+| alkm | 1 | 0 |  |
+| Alla | 8 | 3 |  |
+| Alli | 11 | 0 |  |
+| Almgaut | 2 | 0 | Almgaut (1), Almgautr (1) |
+| Almgeir | 1 | 0 |  |
+| al-naet | 1 | 0 |  |
+| Alríkr | 4 | 2 |  |
+| Alríks | 1 | 0 |  |
+| Alskóg | 1 | 0 |  |
+| Alugodo | 1 | 0 |  |
+| Aluko | 1 | 0 |  |
+| Alvaldr | 1 | 0 |  |
+| Alvina | 1 | 0 |  |
+| Alvne | 1 | 0 |  |
+| Alþrúði | 1 | 0 |  |
+| Alþrúðr | 1 | 1 |  |
+| Ám | 1 | 0 |  |
+| Ambrosii | 1 | 0 |  |
+| Amdis | 1 | 0 |  |
+| Ámóða | 2 | 0 |  |
+| Ámunda | 3 | 0 | Ámunda (2), Amunda (1) |
+| Amundasonr | 1 | 0 |  |
+| Ámundi | 10 | 0 |  |
+| Ámundr | 1 | 0 |  |
+| Anastasius | 1 | 0 |  |
+| anasuiþr | 1 | 0 |  |
+| Anderius | 1 | 1 |  |
+| Andórr | 1 | 0 |  |
+| Andreas | 8 | 1 |  |
+| Andrés | 8 | 1 | Andrés (6), Andres (3) |
+| Andresar | 1 | 0 |  |
+| Andréssonr | 1 | 0 |  |
+| Andsvarr | 7 | 1 | Andsvarr (6), Andsvar (2) |
+| Andsvars | 1 | 0 |  |
+| Andvéttar | 1 | 0 |  |
+| Andvéttr | 18 | 0 | Andvéttr (11), Andvétt (7) |
+| Anga | 1 | 0 |  |
+| Anga-smiðs | 1 | 0 |  |
+| Angelbos | 2 | 0 |  |
+| Áni | 3 | 0 |  |
+| Ánn | 3 | 0 |  |
+| Anna | 2 | 0 |  |
+| Anno | 1 | 0 |  |
+| annuhanenkium | 1 | 0 |  |
+| Ansugastiz | 1 | 0 |  |
+| Anula | 1 | 0 |  |
+| Apa | 3 | 0 |  |
+| Api | 1 | 0 |  |
+| Ara | 3 | 0 |  |
+| Arang | 2 | 0 |  |
+| Árbý | 1 | 0 |  |
+| Arfastr | 1 | 0 |  |
+| Arges | 1 | 0 |  |
+| Ari | 7 | 0 |  |
+| Arinbárðr | 1 | 0 |  |
+| Arinbjarnar | 1 | 0 |  |
+| Arinbjôrgu | 1 | 0 |  |
+| Arinbjôrn | 2 | 0 |  |
+| Arinmundr | 1 | 0 |  |
+| Arn | 2 | 0 |  |
+| Árna | 5 | 0 |  |
+| Arnar | 1 | 0 |  |
+| Árnasonr | 1 | 0 |  |
+| Arnbjarnar | 2 | 0 |  |
+| Arnbjôrg | 1 | 0 |  |
+| Arnbjôrn | 4 | 0 |  |
+| Arnfast | 7 | 0 | Arnfast (5), Arnfastr (2) |
+| Arnfasta | 1 | 0 |  |
+| Arnfinnr | 7 | 0 |  |
+| Arnfríðr | 1 | 0 |  |
+| Arngeirr | 4 | 0 |  |
+| Arngeirs | 2 | 0 |  |
+| Arngerðr | 3 | 0 |  |
+| Arngísl | 4 | 0 |  |
+| Arngunnr | 1 | 0 |  |
+| Arnhvatr | 2 | 0 |  |
+| Árni | 21 | 0 |  |
+| Arnkell | 5 | 0 | Arnkell (4), Arnkel (1) |
+| Arnketill | 1 | 0 |  |
+| Arnlaug | 1 | 0 |  |
+| Arnmundr | 3 | 0 |  |
+| Arnnjótr | 1 | 0 |  |
+| Arnstein | 2 | 0 | Arnstein (1), Arnsteinn (1) |
+| Arnulfr | 2 | 0 | Arnulfr (1), Arnulf (1) |
+| Arnvé | 2 | 1 |  |
+| Arnviðr | 2 | 0 |  |
+| Arnþórs | 2 | 0 |  |
+| Arta | 1 | 0 |  |
+| Ás | 7 | 0 |  |
+| Ása | 30 | 4 | Ása (31), ása (3) |
+| Ásbjarnar | 6 | 1 |  |
+| Ásbjôrg | 1 | 0 |  |
+| Ásbjôrn | 50 | 1 |  |
+| Ásboð | 2 | 1 | Ásboð (2), Ásbôð (1) |
+| Ásdjarfr | 1 | 0 |  |
+| Áselfi | 1 | 0 |  |
+| Ásfast | 1 | 0 |  |
+| Ásfríðr | 4 | 0 |  |
+| Ásfrøðr | 2 | 0 |  |
+| Ásgauta | 1 | 0 |  |
+| Ásgautr | 33 | 3 | Ásgautr (23), Ásgaut (13) |
+| Ásgauts | 1 | 0 |  |
+| Ásgeirr | 21 | 4 | Ásgeirr (14), Ásgeir (11) |
+| Ásgeirs | 3 | 0 |  |
+| Ásgerðar | 1 | 0 |  |
+| Ásgerði | 2 | 0 |  |
+| Ásgerðr | 4 | 0 |  |
+| Ásgísl | 1 | 0 |  |
+| Ásgrímr | 5 | 0 |  |
+| Ásgunnr | 2 | 0 |  |
+| Ásheiði | 1 | 0 |  |
+| Ási | 7 | 0 |  |
+| Ásjó | 1 | 0 |  |
+| Áskatla | 4 | 0 |  |
+| Áskelheim | 1 | 0 |  |
+| Áskell | 31 | 1 | Áskell (18), Áskel (14) |
+| Ásl | 4 | 0 |  |
+| Áslabúðum | 1 | 0 |  |
+| Áslakr | 11 | 1 | Áslakr (10), Áslak (2) |
+| Áslakr's | 1 | 0 |  |
+| Ásleif | 1 | 0 |  |
+| Ásleikr | 5 | 0 | Ásleikr (3), Ásleik (2) |
+| Ásleiks | 1 | 0 |  |
+| Ásmarr | 2 | 1 | Ásmarr (2), Ásmar (1) |
+| Ásmóð | 3 | 0 | Ásmóð (2), Ásmóðr (1) |
+| Ásmundar | 1 | 0 |  |
+| Ásmundarsonr | 3 | 0 |  |
+| Ásmundr | 43 | 8 | Ásmundr (45), Ásmund (6) |
+| Áspakr | 1 | 0 |  |
+| Ásrøðr | 2 | 0 |  |
+| Ásta | 1 | 0 |  |
+| Ásti | 1 | 0 |  |
+| Ástráðr | 4 | 0 | Ástráðr (3), Ástráð (1) |
+| Ástríðar | 1 | 0 |  |
+| Ástríði | 4 | 0 |  |
+| Ástríðr | 14 | 1 | Ástríðr (14), Ástrið (1) |
+| Ásu | 11 | 0 |  |
+| Asugislas | 1 | 0 |  |
+| Ásulfr | 6 | 1 | Ásulfr (4), Ásulf (3) |
+| Ásulfs | 2 | 0 |  |
+| Ásvald | 1 | 0 |  |
+| Ásvaldi | 2 | 0 |  |
+| Ásvarð | 2 | 0 | Ásvarð (1), Ásvarðr (1) |
+| Ásvé | 1 | 0 |  |
+| Ásviðar | 1 | 0 |  |
+| Ásviðr | 2 | 0 | Ásviðr (1), Ásvið (1) |
+| Ásvôr | 2 | 0 |  |
+| asþrn | 1 | 0 |  |
+| Atfari | 1 | 0 |  |
+| Atla | 5 | 0 |  |
+| Atlasonr | 1 | 0 |  |
+| Atli | 1 | 0 |  |
+| Atlingabó | 1 | 0 |  |
+| Atlingbo | 1 | 0 |  |
+| Atlings | 1 | 0 |  |
+| Átryggr | 1 | 0 |  |
+| Atta | 1 | 0 |  |
+| Atti | 1 | 0 |  |
+| Auð | 6 | 0 | Auð (4), Auðr (2) |
+| Auða | 6 | 0 |  |
+| Auðbjarnar | 2 | 1 |  |
+| Auðbjôrn | 14 | 0 |  |
+| Auðelfi | 1 | 0 |  |
+| Auðfríðar | 1 | 0 |  |
+| Auðfríðr | 1 | 0 |  |
+| Auðga | 1 | 0 |  |
+| Auðgautr | 3 | 0 | Auðgautr (2), Auðgaut (1) |
+| Auðgeirr | 5 | 0 | Auðgeirr (3), Auðgeir (2) |
+| Auðgeirsarfa | 1 | 2 |  |
+| Auðgerði | 1 | 0 |  |
+| Auðgerðr | 3 | 0 |  |
+| Auðgísl | 1 | 0 |  |
+| Auðgrímr | 1 | 0 |  |
+| Auðgunnr | 1 | 0 |  |
+| Auðhvatr | 4 | 0 |  |
+| Auði | 3 | 0 |  |
+| Auðin | 3 | 0 |  |
+| Auðkell | 4 | 0 | Auðkell (2), Auðkel (2) |
+| Auðketil | 1 | 0 |  |
+| Auðleif | 1 | 0 |  |
+| Auðmarr | 1 | 0 |  |
+| Auðmundr | 5 | 0 | Auðmundr (4), Auðmund (1) |
+| Auðreifr | 1 | 0 |  |
+| Auðreifs | 1 | 0 |  |
+| Auðríki | 1 | 1 |  |
+| Auðríkr | 4 | 2 | Auðríkr (5), Auðrík (1) |
+| Auðsteinn | 1 | 0 |  |
+| Auðu | 2 | 0 |  |
+| Auðulfr | 5 | 0 |  |
+| Auðun | 4 | 0 |  |
+| Auðunar | 1 | 0 |  |
+| Auðvaldr | 6 | 0 | Auðvaldr (4), Auðvald (2) |
+| Auðvalds | 1 | 0 |  |
+| Auðviðr | 1 | 0 |  |
+| aufa | 1 | 1 |  |
+| aufu>heiði | 1 | 0 |  |
+| Auga | 1 | 0 |  |
+| Augmundr | 1 | 0 |  |
+| au-ka | 1 | 0 |  |
+| Auki | 1 | 0 |  |
+| Aun | 1 | 0 |  |
+| Auna | 1 | 0 |  |
+| Aunar | 1 | 0 |  |
+| aurir | 1 | 0 |  |
+| Austbjôrn | 1 | 0 |  |
+| Austmaðr | 1 | 0 |  |
+| Austr | 1 | 0 |  |
+| Austrbý | 1 | 0 |  |
+| ausut | 1 | 0 |  |
+| Autir | 2 | 0 |  |
+| auþikR | 1 | 0 |  |
+| Ávarr | 4 | 1 |  |
+| Ávi | 1 | 0 |  |
+| Áviðr | 2 | 0 |  |
+| Awings | 1 | 0 |  |
+| ayt--u | 1 | 0 |  |
+| Aþmiul | 1 | 0 |  |
+| Bagga | 2 | 1 |  |
+| Baggi | 1 | 0 |  |
+| Bági | 1 | 0 |  |
+| Balastein | 1 | 0 |  |
+| Baldrs | 1 | 0 |  |
+| Balli | 26 | 5 |  |
+| Bällings | 1 | 1 |  |
+| Balsi | 1 | 0 |  |
+| Banka | 2 | 1 |  |
+| Banki | 1 | 0 |  |
+| Baptistam | 1 | 0 |  |
+| Bárðr | 12 | 0 |  |
+| bariRþ | 1 | 0 |  |
+| Báristôðum | 2 | 0 |  |
+| Barkviðr | 3 | 0 | Barkviðr (2), Barkvið (1) |
+| Barnabe | 1 | 0 |  |
+| Barni | 2 | 0 |  |
+| Bartholomei | 1 | 0 |  |
+| Bartholomeusmessu | 1 | 0 |  |
+| Bartolomeus | 1 | 0 |  |
+| Bassi | 2 | 0 |  |
+| Báulf | 1 | 0 |  |
+| Bausa | 2 | 0 |  |
+| Begli | 1 | 0 |  |
+| Beilir | 1 | 0 |  |
+| Beini | 1 | 0 |  |
+| Beinviðr | 1 | 0 |  |
+| bel | 1 | 0 |  |
+| Bellingabó | 1 | 1 | Bellingabó (1), Bellingabo (1) |
+| Bendikt | 1 | 0 |  |
+| Benedicta | 1 | 0 |  |
+| Benedicti | 2 | 0 |  |
+| benedictis | 1 | 0 |  |
+| Benedictus | 1 | 0 |  |
+| Benedikt | 2 | 0 |  |
+| Benedikta | 1 | 0 |  |
+| Benedikter | 1 | 0 |  |
+| Benediktus | 1 | 0 |  |
+| Benediktusmessu | 1 | 0 |  |
+| Benedit | 1 | 0 |  |
+| Bengeirr | 1 | 0 |  |
+| Bera | 1 | 0 |  |
+| Berdor | 1 | 0 |  |
+| Bergi | 1 | 0 |  |
+| Bergleif | 1 | 0 |  |
+| Berglôf | 1 | 0 |  |
+| Bergr | 1 | 0 |  |
+| Bergsvein | 4 | 0 | Bergsvein (2), Bergsveinn (2) |
+| Bergviðr | 4 | 0 | Bergviðr (2), Bergvið (2) |
+| Bergþórr | 4 | 0 |  |
+| Berno | 1 | 0 |  |
+| Bero | 1 | 0 |  |
+| Bersa | 1 | 0 |  |
+| Bersasonr | 1 | 0 |  |
+| Bersu | 2 | 1 |  |
+| Bessi | 1 | 0 |  |
+| Biarni | 2 | 0 |  |
+| bibrau | 1 | 0 |  |
+| Bidawarijaz | 1 | 0 |  |
+| bi--li | 1 | 0 |  |
+| Billingr | 2 | 0 |  |
+| Bindawarijaz | 1 | 0 |  |
+| Bingil | 1 | 0 |  |
+| Bínu | 1 | 0 |  |
+| Birgir | 2 | 0 |  |
+| Birgisonr | 1 | 0 |  |
+| Birita | 1 | 0 |  |
+| Birla | 1 | 0 |  |
+| Birsa | 1 | 0 |  |
+| Birsu | 2 | 1 |  |
+| Birti | 1 | 0 |  |
+| Bisi | 1 | 0 |  |
+| bitu | 1 | 0 |  |
+| biu | 1 | 0 |  |
+| Bjalfa | 1 | 0 |  |
+| Bjarnar | 9 | 0 |  |
+| Bjarnarsonr | 1 | 0 |  |
+| Bjarngeir | 1 | 0 |  |
+| Bjarnhôfða | 1 | 0 |  |
+| Bjarnhôfði | 2 | 0 |  |
+| Bjarni | 5 | 0 |  |
+| Bjarnlaugr | 1 | 0 |  |
+| Bjarnulfr | 3 | 0 |  |
+| Bjärs | 2 | 0 |  |
+| Bjartr | 2 | 0 |  |
+| Bjerge | 1 | 0 |  |
+| Bjergi | 1 | 0 |  |
+| Bjergum | 1 | 0 |  |
+| Bjór | 3 | 0 | Bjór (2), Bjórr (1) |
+| Bjórstein | 2 | 0 |  |
+| Bjôrg | 2 | 0 |  |
+| Bjôrgvin | 1 | 0 |  |
+| Bjôrgvini | 1 | 0 |  |
+| Bjôrn | 128 | 2 |  |
+| Bjôrngeirr | 1 | 0 |  |
+| Bjôrnssonr | 1 | 0 |  |
+| Bjôrnulfr | 1 | 0 |  |
+| Blákára | 1 | 0 |  |
+| Blákári | 1 | 0 |  |
+| Bláni | 1 | 0 |  |
+| Blánum | 1 | 0 |  |
+| Bleikr | 3 | 0 | Bleikr (2), Bleik (1) |
+| Blesa | 1 | 0 |  |
+| Blesi | 2 | 0 |  |
+| Blómi | 1 | 0 |  |
+| Boði | 1 | 0 |  |
+| Bófa | 9 | 2 |  |
+| Bófi | 10 | 1 |  |
+| Bófríðr | 1 | 0 |  |
+| Bógi | 1 | 0 |  |
+| boin | 1 | 0 |  |
+| Bóla | 1 | 0 |  |
+| Boldi | 1 | 0 |  |
+| Bóli | 1 | 0 |  |
+| Bolla | 1 | 0 |  |
+| Bolli | 1 | 0 |  |
+| Bollu | 2 | 0 |  |
+| Bólnauts | 1 | 0 |  |
+| Bólu | 1 | 0 |  |
+| Bóndi | 3 | 0 |  |
+| Bóndo | 1 | 0 |  |
+| Borga | 1 | 0 |  |
+| Borgbý | 1 | 0 |  |
+| Borgeirr | 1 | 0 |  |
+| Borgfastr | 3 | 0 | Borgfastr (2), Borgfast (1) |
+| Borggeir | 4 | 0 |  |
+| Borgulf | 3 | 0 | Borgulf (2), Borgulfr (1) |
+| Borgunna | 1 | 0 |  |
+| boriaukr | 1 | 0 |  |
+| Boro | 1 | 0 |  |
+| Bósa | 3 | 0 |  |
+| Bósi | 2 | 1 |  |
+| Bót | 4 | 0 |  |
+| Bótbjôrn | 1 | 0 |  |
+| Bótfosar | 1 | 0 |  |
+| Bótfreðr | 3 | 0 | Bótfreðr (2), Bótfreð (1) |
+| Bótfríðr | 1 | 0 |  |
+| Bótfúsar | 1 | 0 |  |
+| Bótfúss | 1 | 0 |  |
+| Bótgeirr | 8 | 1 | Bótgeirr (5), Bótgeir (4) |
+| Bótgeirs | 3 | 0 |  |
+| Bótheiðar | 1 | 0 |  |
+| Bótheiði | 1 | 0 |  |
+| Bótheiðr | 5 | 0 |  |
+| Bótheiðu | 6 | 0 |  |
+| Bóthildr | 2 | 0 |  |
+| Bóthvatr | 1 | 0 |  |
+| Bótleifr | 1 | 0 |  |
+| Bótlíkn | 1 | 0 |  |
+| Bótliknar | 2 | 0 |  |
+| Bótlíkni | 1 | 0 |  |
+| Bótmundar | 1 | 0 |  |
+| Bótmundr | 4 | 0 |  |
+| Botna | 1 | 0 |  |
+| Botni | 1 | 0 |  |
+| Bótný | 1 | 0 |  |
+| Bótolfar | 1 | 0 |  |
+| Bótolfr | 1 | 0 |  |
+| Bótreifr | 3 | 0 | Bótreifr (2), Bótreif (1) |
+| Bótríðu | 1 | 0 |  |
+| Bótstein | 1 | 0 |  |
+| Botti | 1 | 0 |  |
+| Bótulfr | 18 | 0 | Bótulfr (14), Bótulf (4) |
+| Bótulfs | 5 | 0 |  |
+| Bótulfsmessu | 2 | 0 |  |
+| Bótulfsvôku | 1 | 0 |  |
+| Bótvalda | 1 | 0 |  |
+| Bótvé | 2 | 0 |  |
+| Bótvéar | 1 | 0 |  |
+| Bótvéu | 2 | 0 |  |
+| Bótviða | 2 | 0 |  |
+| Bótviðar | 4 | 0 |  |
+| Bótviði | 1 | 0 |  |
+| Bótviðr | 16 | 0 | Bótviðr (14), Bótvið (1), Bótvíðr (1) |
+| Bótþjóð | 1 | 0 |  |
+| Bótþjóðar | 1 | 0 |  |
+| Bótþjóðu | 2 | 0 |  |
+| Bour(r | 1 | 0 |  |
+| Braido | 1 | 0 |  |
+| Brakil | 1 | 0 |  |
+| Bram | 1 | 0 |  |
+| Brandi | 1 | 0 |  |
+| Brandr | 11 | 1 |  |
+| Bratti | 1 | 0 |  |
+| Brattr | 1 | 0 |  |
+| Brattssonr | 1 | 0 |  |
+| Bredkvie | 1 | 0 |  |
+| Breiðarjóðr | 1 | 0 |  |
+| Breíðukvíum | 1 | 0 |  |
+| Brettifa | 1 | 0 |  |
+| Brigit | 1 | 1 |  |
+| Brísa | 2 | 0 |  |
+| Brísi | 1 | 0 |  |
+| Broddi | 1 | 0 |  |
+| Broddr | 2 | 0 | Broddr (1), Brodd (1) |
+| Bróðir | 8 | 0 |  |
+| Bróður | 3 | 1 | Bróður (3), bróður (1) |
+| Bróðurs | 1 | 0 |  |
+| Brún | 1 | 0 |  |
+| Brúna | 7 | 0 |  |
+| Brúni | 10 | 0 |  |
+| Brúnkell | 1 | 0 |  |
+| Brúnketill | 1 | 0 |  |
+| Brúnmaðr | 2 | 0 |  |
+| Brunnum | 1 | 0 |  |
+| Brúsa | 2 | 0 |  |
+| Brúsaeiki | 1 | 0 |  |
+| Brúsi | 5 | 4 |  |
+| Brynjulfr | 7 | 0 | Brynjulfr (5), Brynjulf (2) |
+| Brynjulfs | 1 | 0 |  |
+| Bryti | 2 | 0 |  |
+| bræ | 1 | 0 |  |
+| Búa | 3 | 1 |  |
+| Buddo | 1 | 0 |  |
+| Búdo | 1 | 0 |  |
+| Bugga | 2 | 0 |  |
+| Búi | 13 | 2 |  |
+| Bunt | 1 | 0 |  |
+| Búr-Almarr | 1 | 0 |  |
+| Burg | 2 | 1 |  |
+| Burge | 2 | 1 |  |
+| Búri | 2 | 0 | Búri (1), buri (1) |
+| buþu | 1 | 0 |  |
+| Bygglandi | 1 | 0 |  |
+| Býri | 1 | 0 |  |
+| Býrir | 1 | 0 |  |
+| Byrr | 1 | 0 |  |
+| Býsir | 1 | 0 |  |
+| Bysju | 1 | 0 |  |
+| Bænkfríðar | 1 | 0 |  |
+| Bænkfríðr | 1 | 0 |  |
+| Bøðnýar | 1 | 0 |  |
+| Bôðum | 1 | 0 |  |
+| Bôðvar | 1 | 0 |  |
+| Bôðvé | 1 | 0 |  |
+| Bôllungs | 1 | 0 |  |
+| Bôrkr | 1 | 0 |  |
+| Bœsir | 1 | 0 |  |
+| Catarina | 1 | 0 |  |
+| Chorezm | 1 | 0 |  |
+| Christe | 2 | 0 |  |
+| Christi | 6 | 5 |  |
+| Christo | 1 | 0 |  |
+| Christum | 1 | 0 |  |
+| Christus | 16 | 13 |  |
+| Constantinus | 2 | 0 |  |
+| Daglangs | 1 | 0 |  |
+| Dagr | 3 | 0 | Dagr (2), Dag (1) |
+| Dálkr | 1 | 0 |  |
+| Danmarkar | 1 | 0 |  |
+| Danr | 14 | 0 | Danr (9), Dan (5) |
+| Dans | 1 | 0 |  |
+| Danska | 1 | 0 |  |
+| Dási | 1 | 0 |  |
+| David | 5 | 0 | David (3), Dáviðr (1), Dávið (1) |
+| Dei | 1 | 0 |  |
+| Deus | 2 | 3 |  |
+| Diakonus | 1 | 0 |  |
+| Diarf | 1 | 0 |  |
+| Diðrik | 2 | 0 | Diðrik (1), Didrik (1) |
+| Dionysius | 4 | 1 |  |
+| Dísa | 1 | 1 |  |
+| Díselfr | 2 | 0 |  |
+| Dísvi | 1 | 1 |  |
+| Djákn | 1 | 0 |  |
+| Djarfr | 15 | 0 | Djarfr (13), Djarf (2) |
+| Djarfs | 1 | 0 |  |
+| Djúra | 3 | 1 |  |
+| Djúrgeir | 1 | 1 |  |
+| Djúri | 2 | 1 |  |
+| Dolga | 1 | 0 |  |
+| Dólgfinnr | 1 | 0 |  |
+| Dóma | 1 | 0 |  |
+| Dómara | 1 | 1 | Dómara (1), dómara (1) |
+| Domi | 2 | 1 | Domi (2), Dómi (1) |
+| Domini | 1 | 1 |  |
+| Dominus | 1 | 0 |  |
+| Dómisnes | 1 | 0 |  |
+| Domnall | 1 | 0 |  |
+| Dóta | 2 | 0 |  |
+| Dotbert | 1 | 0 |  |
+| Dóttir | 3 | 0 |  |
+| Dóttur | 1 | 0 |  |
+| Dragmál | 1 | 0 |  |
+| Dreng | 1 | 0 |  |
+| Drengi | 1 | 0 |  |
+| Drósbúi | 2 | 0 |  |
+| Drótni | 1 | 0 |  |
+| Druian | 1 | 0 |  |
+| Drums | 1 | 0 |  |
+| Dryllr | 1 | 0 |  |
+| Dufgals | 2 | 0 |  |
+| Dverg | 1 | 0 |  |
+| Dverg-Ketill | 1 | 0 |  |
+| Dyntr | 2 | 0 |  |
+| Dýra | 1 | 0 |  |
+| Dýrabergi | 1 | 0 |  |
+| Dýrbjôrn | 1 | 0 |  |
+| Dýri | 1 | 0 |  |
+| Dýrmóðsson | 1 | 0 |  |
+| Dýrvés | 1 | 0 |  |
+| Eadric | 1 | 0 |  |
+| Ebba | 4 | 0 |  |
+| Ebbi | 1 | 0 |  |
+| Ebbis | 1 | 0 |  |
+| Eðvin | 1 | 0 |  |
+| Efa | 1 | 0 |  |
+| Efesiorum | 1 | 0 |  |
+| Efi | 2 | 0 |  |
+| Efkar | 1 | 0 |  |
+| Efli | 1 | 0 |  |
+| Egidii | 1 | 0 |  |
+| Egil | 2 | 1 |  |
+| Egla | 2 | 0 |  |
+| Egvið | 1 | 0 |  |
+| Ei | 4 | 0 |  |
+| Eibjôrn | 6 | 1 |  |
+| Eiði | 1 | 0 |  |
+| Eifor | 1 | 0 |  |
+| Eihvatr | 1 | 0 |  |
+| Eikey | 1 | 0 |  |
+| Eikibý | 1 | 0 |  |
+| Eikinefs | 1 | 0 |  |
+| Eikru | 1 | 0 |  |
+| Eiksta | 1 | 0 |  |
+| Eilafr | 1 | 0 |  |
+| Eileifr | 6 | 0 | Eileifr (3), Eileif (3) |
+| Eilífr | 9 | 0 | Eilífr (7), Eilíf (2) |
+| Eilíkni | 1 | 0 |  |
+| Eimundar | 1 | 0 |  |
+| Eimundr | 5 | 1 |  |
+| Einarr | 11 | 1 | Einarr (11), Einar (1) |
+| Einars | 1 | 0 |  |
+| Einarssonr | 1 | 0 |  |
+| Eindriði | 9 | 2 |  |
+| Eingeirr | 1 | 0 |  |
+| Einjótr | 1 | 0 |  |
+| Einráða | 1 | 0 |  |
+| Einriði | 2 | 0 |  |
+| e-iR | 1 | 0 |  |
+| Eir-Bjôrn | 1 | 0 |  |
+| Eiríki | 1 | 0 |  |
+| Eiríkr | 26 | 0 | Eiríkr (22), Eirík (4) |
+| Eiríks | 4 | 1 | Eiríks (4), Eiriks (1) |
+| Eiríksdóttur | 1 | 0 |  |
+| Eiríkur | 1 | 0 |  |
+| Eiríkus | 1 | 0 |  |
+| Eist | 13 | 0 | Eist (11), Eistr (2) |
+| Eista | 1 | 0 |  |
+| Eistaland | 1 | 0 |  |
+| Eistfari | 1 | 0 |  |
+| Eistlôndum | 1 | 0 |  |
+| Eistmann | 1 | 0 |  |
+| Eistulf | 2 | 0 |  |
+| Eivísl | 1 | 2 |  |
+| Eivísli | 1 | 0 |  |
+| Eiþorn | 1 | 0 |  |
+| Ekebys | 1 | 0 |  |
+| Eksta | 1 | 0 |  |
+| Elda | 1 | 0 |  |
+| Eldjarn | 2 | 0 |  |
+| Eldríðr | 2 | 0 |  |
+| Elffrica | 1 | 0 |  |
+| Elgjaholts | 1 | 0 |  |
+| Elgjastôðum | 1 | 0 |  |
+| Elgr | 1 | 0 |  |
+| Elín | 2 | 0 |  |
+| Elion | 1 | 1 |  |
+| Elisabet | 2 | 0 |  |
+| Eloi | 1 | 0 |  |
+| Eloihim | 1 | 0 |  |
+| Elon | 1 | 5 |  |
+| Emanuel | 2 | 0 |  |
+| Endils | 1 | 0 |  |
+| Engibriktssonar | 1 | 0 |  |
+| Engla | 3 | 0 |  |
+| Englands | 6 | 0 |  |
+| Englandsfari | 2 | 0 |  |
+| Engli | 1 | 0 |  |
+| Enni | 1 | 0 |  |
+| Ennibrattar | 1 | 0 |  |
+| Ennibrattr | 1 | 0 |  |
+| Erfaz | 1 | 0 |  |
+| Ericus | 2 | 0 |  |
+| Erinbjôrn | 1 | 0 |  |
+| Erindís | 1 | 0 |  |
+| Erinfastr | 1 | 0 |  |
+| Eringeirr | 1 | 0 |  |
+| Eringerðr | 1 | 0 |  |
+| Eringunni | 1 | 0 |  |
+| Erinmundr | 5 | 0 | Erinmundr (3), Erinmund (2) |
+| Erinvarðr | 1 | 0 |  |
+| Erinvé | 3 | 0 |  |
+| Erlendr | 8 | 1 |  |
+| Erlendsson | 2 | 0 | Erlendsson (1), Erlendssonr (1) |
+| Erlingr | 12 | 1 | Erlingr (12), Erling (1) |
+| Erlings | 1 | 1 |  |
+| Ermundi | 1 | 0 |  |
+| Ern | 1 | 0 |  |
+| Ernbiôrn | 1 | 0 |  |
+| Ernbjôrn | 4 | 0 |  |
+| Erndís | 1 | 0 |  |
+| Ernfastr | 10 | 0 | Ernfastr (8), Ernfast (2) |
+| Ernfríðar | 1 | 0 |  |
+| Ernfríði | 1 | 0 |  |
+| Ernfríðr | 1 | 0 |  |
+| Erngautr | 1 | 0 |  |
+| Erngeirr | 1 | 0 |  |
+| Erngísl | 2 | 0 |  |
+| Ernlaug | 2 | 0 |  |
+| Ernleifr | 1 | 0 |  |
+| Ernmund | 8 | 1 | Ernmund (6), Ernmundr (3) |
+| Ernsteinn | 1 | 0 |  |
+| Ernvarðs | 1 | 0 |  |
+| Ernvars | 1 | 0 |  |
+| Ernviðr | 1 | 0 |  |
+| Erra | 1 | 0 |  |
+| Erri | 1 | 0 |  |
+| Erru | 1 | 0 |  |
+| esi | 1 | 0 |  |
+| Eskilhem | 1 | 0 |  |
+| Etil | 1 | 0 |  |
+| Etta | 1 | 0 |  |
+| Etti | 1 | 0 |  |
+| Ettu | 1 | 0 |  |
+| Eva | 1 | 1 |  |
+| Ey | 1 | 0 |  |
+| Eybjarnar | 1 | 0 |  |
+| Eybjôrg | 1 | 0 |  |
+| Eybjôrn | 5 | 0 |  |
+| Eydísi | 2 | 0 |  |
+| Eyðr | 1 | 0 |  |
+| Eygautr | 2 | 0 |  |
+| Eygeirr | 4 | 0 |  |
+| Eygeirs | 1 | 0 |  |
+| Eygota | 1 | 0 |  |
+| Eygrím | 1 | 0 |  |
+| Eyindr | 2 | 0 | Eyindr (1), Eyind (1) |
+| Eyja | 1 | 0 |  |
+| Eyjabó | 1 | 0 |  |
+| Eyjarr | 3 | 0 | Eyjarr (2), Eyjar (1) |
+| Eyjars | 1 | 0 |  |
+| Eyju | 1 | 0 |  |
+| Eyjulfr | 6 | 3 | Eyjulfr (7), Eyjulf (2) |
+| Eyjulfs | 1 | 0 |  |
+| Eykel | 2 | 0 |  |
+| Eylakr | 1 | 0 |  |
+| Eyleif | 1 | 0 |  |
+| Eymund | 2 | 0 |  |
+| Eymunda | 1 | 0 |  |
+| Eyndar | 1 | 0 |  |
+| Eyndr | 17 | 1 | Eyndr (13), Eynd (5) |
+| Eynjótr | 2 | 0 |  |
+| Eyrasundi | 1 | 0 |  |
+| Eyravaði | 1 | 0 |  |
+| Eyrhvatr | 1 | 0 |  |
+| Eyríki | 1 | 0 |  |
+| Eyríkr | 3 | 1 |  |
+| Eysteinn | 61 | 2 | Eysteinn (41), Eystein (22) |
+| Eysteins | 3 | 0 |  |
+| Eyvindar | 2 | 0 |  |
+| Eyvindr | 15 | 0 | Eyvindr (8), Eyvind (7) |
+| Faði | 1 | 0 |  |
+| Faðir | 2 | 0 |  |
+| Fagr | 1 | 0 |  |
+| Fáinn | 1 | 0 |  |
+| Fakaz | 2 | 0 |  |
+| Fara | 3 | 0 |  |
+| Farbjôrn | 3 | 0 |  |
+| Farbjôrnssonr | 1 | 0 |  |
+| Fargeirr | 2 | 0 |  |
+| Farmaðr | 2 | 0 |  |
+| Farulfr | 7 | 0 | Farulfr (5), Farulf (2) |
+| Farulfs | 2 | 0 |  |
+| Farþegn | 3 | 0 |  |
+| Fast | 2 | 0 | Fast (1), Fastr (1) |
+| Fasta | 10 | 0 |  |
+| Fastaðr | 1 | 0 |  |
+| Fastarr | 2 | 0 | Fastarr (1), Fastar (1) |
+| Fastbjôrn | 9 | 0 |  |
+| Fastgeirr | 6 | 0 |  |
+| Fastgerðr | 2 | 0 |  |
+| Fastheiði | 1 | 0 |  |
+| Fastheiðr | 1 | 0 |  |
+| Fasti | 10 | 0 |  |
+| Fastlaug | 11 | 0 |  |
+| Fastlaugu | 1 | 0 |  |
+| Fastmund | 1 | 0 |  |
+| Fastný | 1 | 0 |  |
+| Fastríð | 1 | 0 |  |
+| Fastulfr | 17 | 0 | Fastulfr (12), Fastulf (5) |
+| Fastulfs | 1 | 0 |  |
+| Fastvé | 3 | 0 |  |
+| Fastvéu | 1 | 0 |  |
+| Fastþegn | 1 | 1 |  |
+| Fati | 3 | 0 |  |
+| fauka | 1 | 0 |  |
+| Faus | 1 | 0 |  |
+| Fauskr | 1 | 0 |  |
+| Fáva | 1 | 0 |  |
+| Faxi | 1 | 1 | Faxi (1), faxi (1) |
+| Féar-Un | 1 | 1 |  |
+| Feðrasjó | 1 | 0 |  |
+| Feitr | 1 | 0 |  |
+| Ferð-Kári | 1 | 0 |  |
+| Fetr | 1 | 0 |  |
+| Fiak | 1 | 0 |  |
+| fiauar | 1 | 0 |  |
+| Fífill | 1 | 0 |  |
+| fila | 1 | 0 |  |
+| File | 1 | 0 |  |
+| Fíli | 1 | 0 |  |
+| Fílum | 1 | 0 |  |
+| Fingr | 1 | 0 |  |
+| Finnheiði | 3 | 0 |  |
+| Finno | 1 | 0 |  |
+| Finnr | 14 | 0 | Finnr (11), Finn (3) |
+| Finnulfs | 2 | 0 |  |
+| Finnviðar | 3 | 1 |  |
+| Finnviðr | 11 | 0 | Finnviðr (9), Finnvið (2) |
+| Firi | 1 | 0 |  |
+| fir--riui | 1 | 0 |  |
+| Fjôlmóð | 1 | 0 |  |
+| Fjôlvarr | 1 | 0 |  |
+| Fjôlvars | 1 | 0 |  |
+| Flenavík | 2 | 0 |  |
+| Flenvike | 2 | 0 |  |
+| Flír | 1 | 0 |  |
+| Folbóa | 1 | 0 |  |
+| Foldars | 1 | 0 |  |
+| Folkaðr | 1 | 0 |  |
+| Folkarr | 1 | 0 |  |
+| Folkbjôrn | 3 | 0 |  |
+| Folkgeirr | 1 | 2 |  |
+| Folkgerðr | 1 | 2 |  |
+| Folki | 3 | 0 |  |
+| Folkmarr | 1 | 0 |  |
+| Folksteinn | 1 | 0 |  |
+| Folku | 1 | 0 |  |
+| Folkvarðr | 1 | 0 |  |
+| Folkvé | 2 | 0 |  |
+| Folkviðr | 2 | 0 |  |
+| Fómir | 1 | 0 |  |
+| Forkunnr | 10 | 0 | Forkunnr (7), Forkunn (3) |
+| Forsjáll | 1 | 0 |  |
+| Fóthraðr | 1 | 0 |  |
+| Fótr | 8 | 0 | Fótr (7), Fót (1) |
+| Fóts | 1 | 0 |  |
+| Fox | 1 | 0 |  |
+| fr | 1 | 0 |  |
+| Fraða | 1 | 0 |  |
+| Fraði | 1 | 0 |  |
+| Fraðulf | 1 | 0 |  |
+| Frakka | 1 | 0 |  |
+| Frans | 1 | 0 |  |
+| Frawaradaz | 1 | 0 |  |
+| Freða | 1 | 0 |  |
+| Freði | 1 | 0 |  |
+| Frey | 2 | 0 |  |
+| Freybjôrn | 11 | 0 |  |
+| Freydís | 1 | 0 |  |
+| Freygeiri | 1 | 1 |  |
+| Freygeirr | 9 | 0 | Freygeirr (5), Freygeir (4) |
+| Freygeirs | 3 | 1 |  |
+| Freygerðar | 1 | 0 |  |
+| Freygerðr | 1 | 0 |  |
+| Freygunnr | 2 | 0 |  |
+| Freyjil | 1 | 0 |  |
+| Freylaug | 1 | 0 |  |
+| Freyríkr | 1 | 0 |  |
+| Freyslundum | 1 | 0 |  |
+| Freysteinn | 28 | 3 | Freysteinn (18), Freystein (13) |
+| Freysteins | 1 | 0 |  |
+| Frið | 1 | 0 |  |
+| Fríða | 1 | 0 |  |
+| Friðbjôrn | 1 | 0 |  |
+| Friðelfi | 1 | 0 |  |
+| Friðelfr | 1 | 0 |  |
+| Friðgeirr | 2 | 0 |  |
+| Friði | 2 | 0 |  |
+| Friðleifs | 1 | 0 |  |
+| Friðmundr | 1 | 0 |  |
+| Fríðu | 1 | 0 |  |
+| Friðulf | 1 | 0 |  |
+| Friggis | 1 | 0 |  |
+| Frii | 1 | 0 |  |
+| Fríslands | 1 | 0 |  |
+| Fríss | 1 | 0 |  |
+| Fróa | 1 | 0 |  |
+| Fróða | 1 | 0 |  |
+| Fróði | 1 | 0 |  |
+| Froila | 1 | 0 |  |
+| Frosta | 4 | 0 |  |
+| Frosti | 2 | 0 |  |
+| Frøðar | 1 | 0 |  |
+| Fröjel | 1 | 0 |  |
+| Frœkn | 1 | 0 |  |
+| Frœknar | 1 | 0 |  |
+| Fuðkula | 1 | 0 |  |
+| Fuðsleikir | 1 | 0 |  |
+| Fugl | 1 | 0 |  |
+| Fugla | 1 | 0 |  |
+| Fúl | 1 | 1 | Fúl (1), Full (1) |
+| Fulluga | 4 | 0 |  |
+| Fullugi | 19 | 1 |  |
+| Fúlni | 1 | 0 |  |
+| Fumma | 1 | 0 |  |
+| Fundinn | 6 | 0 | Fundinn (5), Fundin (1) |
+| Funi | 1 | 0 |  |
+| Funiz | 1 | 0 |  |
+| Funnum | 1 | 0 |  |
+| Fúnum | 1 | 0 |  |
+| Fyl | 1 | 0 |  |
+| Fylkir | 1 | 2 |  |
+| Fôður | 2 | 1 |  |
+| Fœri | 1 | 0 |  |
+| G | 1 | 0 |  |
+| Gabriel | 5 | 1 |  |
+| Gadda | 1 | 0 |  |
+| Gag | 7 | 1 | Gag (5), Gagr (3) |
+| Gaga | 1 | 0 |  |
+| Gagar | 1 | 0 |  |
+| Gagnvið | 2 | 0 | Gagnvið (1), Gagnviðr (1) |
+| Gagnviðararfa | 1 | 0 |  |
+| Galinn | 1 | 0 |  |
+| Galla | 1 | 0 |  |
+| Galmi | 1 | 0 |  |
+| Gamalíel | 1 | 0 |  |
+| Gamall | 13 | 2 | Gamall (12), Gamal (3) |
+| Gamals | 1 | 0 |  |
+| Gamla | 1 | 0 |  |
+| Gamli | 1 | 0 |  |
+| Gangulfr | 1 | 0 |  |
+| Ganna | 1 | 0 |  |
+| Gannarve | 1 | 0 |  |
+| Gansa | 2 | 0 |  |
+| Gapi | 1 | 0 |  |
+| Gapr | 1 | 0 |  |
+| Garde | 2 | 0 |  |
+| Garðr | 1 | 0 |  |
+| Garðstôngum | 1 | 0 |  |
+| Garmr | 1 | 0 |  |
+| Garna | 1 | 0 |  |
+| Gás | 3 | 0 |  |
+| Gása | 1 | 0 |  |
+| Gási | 5 | 0 |  |
+| Gaukr | 1 | 0 |  |
+| Gauss | 3 | 0 |  |
+| Gauta | 2 | 0 |  |
+| Gautarr | 1 | 0 |  |
+| Gautasonr | 1 | 0 |  |
+| Gautdjarfr | 1 | 0 |  |
+| Gauti | 5 | 0 |  |
+| Gautr | 11 | 0 | Gautr (8), Gaut (3) |
+| Gautráðr | 1 | 0 |  |
+| Gauts | 3 | 0 |  |
+| Gautulfr | 1 | 0 |  |
+| Gautviðr | 1 | 0 |  |
+| Gauþz | 1 | 0 |  |
+| Gedda | 1 | 0 |  |
+| Geddu | 1 | 0 |  |
+| Geira | 8 | 0 |  |
+| Geiralf | 1 | 0 |  |
+| Geirarðr | 1 | 0 |  |
+| Geirbjarnar | 2 | 0 |  |
+| Geirbjôrn | 16 | 1 |  |
+| Geirdjarfr | 1 | 0 |  |
+| Geirfast | 8 | 0 | Geirfast (5), Geirfastr (3) |
+| Geirfríðr | 1 | 0 |  |
+| Geirhildr | 1 | 0 |  |
+| Geirhjalmr | 3 | 0 | Geirhjalmr (2), Geirhjalm (1) |
+| Geirhvatar | 1 | 0 |  |
+| Geirhvatr | 7 | 1 |  |
+| Geiri | 7 | 0 |  |
+| Geirlakr | 2 | 1 |  |
+| Geirlaug | 1 | 1 |  |
+| Geirlaugar | 1 | 0 |  |
+| Geirleifr | 2 | 0 |  |
+| Geirma | 1 | 0 |  |
+| Geirmarr | 3 | 0 | Geirmarr (2), Geirmar (1) |
+| Geirmóð | 1 | 0 |  |
+| Geirmunda | 1 | 0 |  |
+| Geirmundar | 2 | 0 |  |
+| Geirmundr | 16 | 1 | Geirmundr (9), Geirmund (8) |
+| Geirna | 1 | 0 |  |
+| Geirnjótr | 1 | 0 |  |
+| Geirr | 13 | 2 | Geirr (9), Geir (6) |
+| Geirrøð | 1 | 0 |  |
+| Geirsteinn | 1 | 0 |  |
+| Geirulf | 2 | 0 |  |
+| Geirunni | 1 | 0 |  |
+| Geirvaldr | 4 | 1 | Geirvaldr (4), Geirvald (1) |
+| Geirvarar | 1 | 0 |  |
+| Geirvarr | 1 | 0 |  |
+| Geirvé | 3 | 1 |  |
+| Geirvéar | 1 | 0 |  |
+| Geirviðr | 1 | 0 |  |
+| Geirvôr | 2 | 0 |  |
+| Geit | 1 | 0 |  |
+| Geiti | 1 | 0 |  |
+| Geitingr | 1 | 0 |  |
+| Gelf | 2 | 0 |  |
+| Gelfs | 1 | 0 |  |
+| Gerðarr | 15 | 0 | Gerðarr (9), Gerðar (6) |
+| Gerðars | 1 | 0 |  |
+| Gertruð | 1 | 0 |  |
+| Gestr | 1 | 0 |  |
+| Gilda | 2 | 0 |  |
+| Gilla | 1 | 0 |  |
+| Gillaug | 18 | 1 |  |
+| Gillaugar | 2 | 0 |  |
+| Gillingr | 1 | 0 |  |
+| Gína | 3 | 0 |  |
+| Ginna | 3 | 0 |  |
+| Ginnfastr | 1 | 0 |  |
+| Ginnlaug | 3 | 0 |  |
+| Ginnlaugar | 2 | 0 |  |
+| Ginnlaugu | 1 | 0 |  |
+| Gínu | 1 | 0 |  |
+| giokuifr | 1 | 0 |  |
+| Gísa | 1 | 0 |  |
+| Gisico | 1 | 0 |  |
+| Gísl | 23 | 0 |  |
+| Gísla | 3 | 0 |  |
+| Gíslarsonr | 1 | 0 |  |
+| Gíslaug | 6 | 2 |  |
+| Gísli | 1 | 0 |  |
+| Gísls | 1 | 0 |  |
+| Gísmundar | 1 | 0 |  |
+| Gísmundr | 2 | 0 |  |
+| Gíssteinn | 1 | 0 |  |
+| Gjafaldr | 1 | 0 |  |
+| Gjaflaug | 2 | 0 | Gjaflaug (1), Gjaflaugr (1) |
+| Gjafulfr | 1 | 0 |  |
+| Gjalli | 2 | 1 |  |
+| Glaði | 2 | 0 |  |
+| Glegga | 1 | 0 |  |
+| Gleggi | 1 | 0 |  |
+| Glippir | 1 | 0 |  |
+| Glóa | 1 | 0 |  |
+| Glóða | 1 | 0 |  |
+| Gloppa | 1 | 0 |  |
+| Glúmr | 1 | 0 |  |
+| Glôggr | 1 | 0 |  |
+| Gnauðimaðr | 1 | 0 |  |
+| Gneggis | 1 | 0 |  |
+| gnumante | 1 | 0 |  |
+| Gnúpa | 1 | 0 |  |
+| Gnúpr | 2 | 0 |  |
+| Gnúpu | 2 | 0 |  |
+| Gnýpli | 1 | 0 |  |
+| Gnýs | 1 | 0 |  |
+| Godagas | 1 | 0 |  |
+| Godagastiz | 1 | 0 |  |
+| Godefridus | 1 | 0 |  |
+| Góða | 4 | 1 | Góða (4), Goða (1) |
+| góðan | 4 | 0 |  |
+| Góðr | 1 | 0 |  |
+| Gorm | 4 | 0 | Gorm (2), Gormr (2) |
+| Gorms | 2 | 1 |  |
+| Gota | 5 | 0 |  |
+| Goti | 4 | 0 |  |
+| Gotis | 1 | 0 |  |
+| Granar | 1 | 0 |  |
+| Granbý | 1 | 0 |  |
+| Gräne | 1 | 0 |  |
+| Grani | 1 | 0 |  |
+| Gregores | 1 | 0 |  |
+| Gregorius | 2 | 0 |  |
+| Grein | 2 | 0 |  |
+| Greip | 1 | 0 |  |
+| Grenjum | 1 | 0 |  |
+| Grenski | 1 | 0 |  |
+| Grettis | 1 | 0 |  |
+| Grikkfara | 2 | 0 |  |
+| Grikkhafnir | 1 | 0 |  |
+| Grikki | 1 | 0 |  |
+| Grikkjar | 1 | 0 |  |
+| Grímarr | 3 | 0 | Grímarr (2), Grímar (1) |
+| Grímkell | 2 | 0 |  |
+| Grímketill | 1 | 0 |  |
+| Grímmund | 1 | 0 |  |
+| Grímnis | 1 | 0 |  |
+| Grímr | 15 | 2 | Grímr (15), Grím (2) |
+| Gríms | 3 | 0 |  |
+| Grímu | 1 | 0 |  |
+| Grímulfr | 6 | 0 | Grímulfr (3), Grímulf (3) |
+| Grípis | 1 | 0 |  |
+| Grípr | 1 | 0 |  |
+| Grjótgarðr | 2 | 0 |  |
+| Grjótum | 1 | 0 |  |
+| Gróa | 2 | 0 |  |
+| Grœnalands | 1 | 0 |  |
+| Gubba | 2 | 1 |  |
+| Guða | 2 | 2 |  |
+| Guðbjarnar | 3 | 0 |  |
+| Guðbjôrn | 9 | 1 |  |
+| Guðbrandr | 2 | 0 |  |
+| Guðelfar | 1 | 0 |  |
+| Guðelfi | 1 | 0 |  |
+| Guðfastar | 1 | 0 |  |
+| Guðfastr | 18 | 0 | Guðfastr (13), Guðfast (5) |
+| Guðfinns | 1 | 0 |  |
+| Guðfreðr | 1 | 0 |  |
+| Guðfríði | 1 | 0 |  |
+| Guðfríðr | 5 | 0 |  |
+| Guðis | 1 | 0 |  |
+| Guðissnapa | 1 | 0 |  |
+| Guðki | 1 | 0 |  |
+| Guðlaf | 1 | 1 |  |
+| Guðlaug | 18 | 4 |  |
+| Guðlaugar | 2 | 0 |  |
+| Guðlaugu | 1 | 0 |  |
+| Guðleifar | 1 | 0 |  |
+| Guðleifr | 4 | 1 | Guðleifr (4), Guðleif (1) |
+| Guðleifs | 1 | 0 |  |
+| Guðmann | 1 | 0 |  |
+| Guðmar | 5 | 1 |  |
+| Guðmóðr | 2 | 0 | Guðmóðr (1), Guðmóð (1) |
+| Guðmundar | 3 | 1 |  |
+| Guðmundr | 32 | 1 | Guðmundr (24), Guðmund (9) |
+| Guðmunds | 1 | 0 |  |
+| Guðnjótr | 1 | 1 |  |
+| Guðný | 1 | 0 |  |
+| Guðormr | 1 | 0 |  |
+| Guðríðr | 1 | 0 |  |
+| Guðrík | 8 | 0 | Guðrík (5), Guðríkr (3) |
+| Guðríks | 1 | 0 |  |
+| Guðrún | 6 | 1 |  |
+| Guðstein | 2 | 0 | Guðstein (1), Guðsteinn (1) |
+| Guðulfr | 1 | 0 |  |
+| Guðulfsdóttur | 1 | 0 |  |
+| Guðvarðr | 2 | 0 | Guðvarðr (1), Guðvarð (1) |
+| Guðvarr | 3 | 0 | Guðvarr (2), Guðvar (1) |
+| Guðvé | 2 | 0 |  |
+| Guðveig | 1 | 0 |  |
+| Guðvér | 3 | 0 |  |
+| Guðvés | 1 | 0 |  |
+| Guðvin | 1 | 0 |  |
+| Guðvini | 4 | 0 |  |
+| Guðvôr | 2 | 0 |  |
+| Guðvôru | 1 | 0 |  |
+| Guðþormr | 2 | 0 |  |
+| Guðþorn | 1 | 0 |  |
+| Gufa | 1 | 0 |  |
+| Gufi | 4 | 0 |  |
+| Gulbrandr | 1 | 0 |  |
+| Gulla | 5 | 1 |  |
+| Gullaug | 5 | 1 |  |
+| Gullaugar | 1 | 0 |  |
+| Gulleifr | 8 | 0 | Gulleifr (6), Gulleif (2) |
+| Gulleifs | 1 | 0 |  |
+| Gulley | 1 | 0 |  |
+| Gullfinnr | 1 | 0 |  |
+| Gulli | 3 | 0 |  |
+| Gumma | 1 | 0 |  |
+| Gummi | 2 | 0 |  |
+| Gunn | 6 | 1 | Gunn (6), Gunnr (1) |
+| Gunna | 26 | 1 |  |
+| Gunnari | 1 | 0 |  |
+| Gunnarr | 87 | 8 | Gunnarr (73), Gunnar (22) |
+| Gunnars | 6 | 0 |  |
+| Gunn-Bjúr | 1 | 0 |  |
+| Gunnbjôrn | 12 | 1 |  |
+| Gunnborga | 1 | 0 |  |
+| Gunndjarfr | 2 | 0 | Gunndjarfr (1), Gunndjarf (1) |
+| Gunnelfr | 2 | 0 |  |
+| Gunnfastr | 1 | 0 |  |
+| Gunnfús | 1 | 0 |  |
+| Gunnheiði | 1 | 0 |  |
+| Gunnheiðr | 1 | 0 |  |
+| Gunnhildar | 1 | 0 |  |
+| Gunnhildarsonr | 1 | 0 |  |
+| Gunnhildi | 2 | 0 |  |
+| Gunnhildr | 13 | 1 | Gunnhildr (13), Gunnhild (1) |
+| Gunnhvatar | 1 | 0 |  |
+| Gunnhvatr | 6 | 0 | Gunnhvatr (3), Gunnhvat (3) |
+| Gunni | 14 | 1 |  |
+| Gunnkell | 1 | 0 |  |
+| Gunnlaug | 1 | 0 |  |
+| Gunnleifr | 4 | 0 | Gunnleifr (2), Gunnleif (2) |
+| Gunnmarr | 1 | 2 |  |
+| Gunnmundar | 2 | 0 |  |
+| Gunnreifr | 1 | 0 |  |
+| Gunnríðr | 1 | 0 |  |
+| Gunnsitr | 1 | 0 |  |
+| Gunnsteinn | 2 | 0 |  |
+| Gunnu | 7 | 0 |  |
+| Gunnuðr | 1 | 0 |  |
+| Gunnulfr | 6 | 0 | Gunnulfr (3), Gunnulf (3) |
+| Gunnulfs | 2 | 0 |  |
+| Gunnvaldr | 4 | 0 | Gunnvaldr (3), Gunnvald (1) |
+| Gunnvalds | 1 | 0 |  |
+| Gunnvar | 1 | 1 |  |
+| Gunnvarar | 1 | 0 |  |
+| Gunnviðr | 4 | 0 | Gunnviðr (3), Gunnvið (1) |
+| Gunnvôr | 9 | 0 |  |
+| Gunnvôru | 1 | 0 |  |
+| Gunnþrúðr | 1 | 0 |  |
+| Gusi | 1 | 0 |  |
+| Gusir | 1 | 0 |  |
+| Guss | 3 | 0 | Guss (2), Gus (1) |
+| Gussi | 1 | 0 |  |
+| Gutis | 1 | 0 |  |
+| Gyða | 9 | 1 |  |
+| Gyðings | 1 | 0 |  |
+| Gyðu | 1 | 0 |  |
+| Gýi | 8 | 0 |  |
+| Gylfir | 1 | 0 |  |
+| Gylla | 7 | 0 |  |
+| Gylli | 1 | 0 |  |
+| Gyllir | 1 | 0 |  |
+| Gyllu | 1 | 0 |  |
+| Gynna | 2 | 0 |  |
+| Gyra | 1 | 0 |  |
+| Gyrð | 3 | 0 | Gyrð (2), Gyrðr (1) |
+| Gyrðar | 1 | 0 |  |
+| Gyrðir | 1 | 0 |  |
+| Gyríðar | 3 | 0 |  |
+| Gyríði | 1 | 0 |  |
+| Gyríðr | 17 | 0 | Gyríðr (15), Gýríðr (1), Gyrið (1) |
+| Gyrill | 1 | 1 |  |
+| Gæfr | 1 | 0 |  |
+| Gæsling | 1 | 0 |  |
+| Gôrðum | 7 | 1 |  |
+| Habukoþuz | 1 | 0 |  |
+| Haddr | 1 | 0 |  |
+| Hadulaikaz | 1 | 0 |  |
+| Haðalandi | 1 | 0 |  |
+| Haðistôðum | 1 | 0 |  |
+| Háðska | 1 | 0 |  |
+| Hafdjarfr | 1 | 1 | Hafdjarfr (1), hafdjarfr (1) |
+| Hafgrími | 1 | 0 |  |
+| Hafrs | 1 | 0 |  |
+| Hagbarðr | 1 | 1 |  |
+| Hagebý | 1 | 0 |  |
+| Hagiradaz | 1 | 0 |  |
+| Hagnastôðum | 1 | 0 |  |
+| Hagnestäde | 1 | 0 |  |
+| Hagni | 1 | 0 |  |
+| Hagnviðr | 1 | 0 |  |
+| Hagormr | 1 | 0 |  |
+| Hagrjóð | 1 | 0 |  |
+| Hagstein | 1 | 0 |  |
+| Hagusta(l)daz | 1 | 0 |  |
+| Hagustaldaz | 1 | 0 |  |
+| Háislar | 1 | 0 |  |
+| Haki | 3 | 0 |  |
+| Haklang | 1 | 0 |  |
+| Haklangs | 1 | 0 |  |
+| Hákon | 24 | 0 |  |
+| Hákonar | 6 | 0 |  |
+| Hakoþuz | 1 | 0 |  |
+| Hála | 1 | 0 |  |
+| Háleikr | 1 | 0 |  |
+| Halfborinn | 1 | 0 |  |
+| Halfburinn | 1 | 0 |  |
+| Halfdan | 48 | 0 |  |
+| Halfdanar | 4 | 0 |  |
+| Halla | 1 | 0 |  |
+| Hallasonr | 1 | 0 |  |
+| Hallbjôrg | 3 | 0 |  |
+| Hallbjôrn | 2 | 0 |  |
+| Halldóra | 1 | 0 |  |
+| Halldórr | 2 | 0 |  |
+| Halldórs | 2 | 0 |  |
+| Hallfreðar | 1 | 0 |  |
+| Hallfreðr | 1 | 0 |  |
+| Hallfríðar | 1 | 0 |  |
+| Hallfríðr | 1 | 0 |  |
+| Hallgeirr | 2 | 0 |  |
+| Hallgísl | 1 | 0 |  |
+| Hallgrímssonr | 1 | 0 |  |
+| Hallhvatr | 1 | 0 |  |
+| Hallhvats | 1 | 0 |  |
+| Halli | 2 | 0 |  |
+| Hallkatla | 1 | 0 |  |
+| Hallkell | 1 | 0 |  |
+| Hallr | 4 | 0 | Hallr (3), Hall (1) |
+| Hallssonr | 1 | 0 |  |
+| Hallsteinn | 5 | 0 | Hallsteinn (4), Hallstein (1) |
+| Hallvarði | 1 | 0 |  |
+| Hallvarðr | 8 | 0 | Hallvarðr (7), Hallvarð (1) |
+| Hallvarðs | 2 | 0 |  |
+| Hallvarðsmessu | 1 | 0 |  |
+| Hallvarðssonr | 1 | 0 |  |
+| Hallvéar | 1 | 1 |  |
+| Hallvéu | 1 | 0 |  |
+| Hallþjóð | 1 | 0 |  |
+| Hallþjóðu | 1 | 0 |  |
+| Hals | 2 | 0 |  |
+| Hamarbý | 1 | 0 |  |
+| Hambri | 2 | 0 |  |
+| Hammars | 2 | 0 |  |
+| Hámunda | 1 | 0 |  |
+| Hámundr | 1 | 0 |  |
+| Hana | 1 | 0 |  |
+| Handar | 2 | 0 |  |
+| Hani | 2 | 0 |  |
+| Hans | 1 | 0 |  |
+| Hanssen | 1 | 0 |  |
+| Harald(r | 1 | 0 |  |
+| Haraldr | 13 | 1 | Haraldr (9), Harald (5) |
+| Haralds | 4 | 0 |  |
+| Harðar | 1 | 0 |  |
+| Harðarsonr | 1 | 0 |  |
+| Harð<eksi | 1 | 0 |  |
+| Harðenna | 1 | 0 |  |
+| Harðgeirr | 1 | 0 |  |
+| Harði | 1 | 0 |  |
+| Harðina | 1 | 0 |  |
+| Harðsteinn | 2 | 1 |  |
+| Harðsteins | 1 | 0 |  |
+| Hariso | 1 | 0 |  |
+| Hari<uha | 1 | 0 |  |
+| Hariwulfa | 1 | 1 |  |
+| Hariwulfz | 1 | 1 |  |
+| Harja | 2 | 0 |  |
+| Harkilaz | 1 | 0 |  |
+| Harmsorga | 1 | 0 |  |
+| Harpara | 1 | 1 |  |
+| Háruk | 1 | 0 |  |
+| Háruks | 1 | 0 |  |
+| Harvistôðum | 1 | 0 |  |
+| Hástein | 4 | 0 | Hástein (3), Hásteinn (1) |
+| Há<tiuR | 1 | 0 |  |
+| Haugbý | 2 | 0 |  |
+| Haugum | 1 | 0 |  |
+| Haukoþuz | 1 | 0 |  |
+| Haukr | 5 | 0 |  |
+| Háulf | 1 | 0 |  |
+| Haurlaug | 1 | 0 |  |
+| Haurr | 2 | 0 | Haurr (1), Haur (1) |
+| Haursa | 4 | 0 |  |
+| Haursi | 3 | 0 |  |
+| Hávarðr | 5 | 1 |  |
+| Hávarðssonr | 1 | 0 |  |
+| Hávarr | 1 | 0 |  |
+| Haþuwolfa | 1 | 0 |  |
+| HaþuwulfaR | 1 | 0 |  |
+| HaþuwulfR | 1 | 0 |  |
+| Haþuwulfz | 2 | 2 |  |
+| Heðinbjôrn | 2 | 0 |  |
+| Heðindís | 3 | 0 |  |
+| Heðinfast | 4 | 1 |  |
+| Heðinfríða | 1 | 0 |  |
+| Heðingeirr | 2 | 0 |  |
+| Heðingunnr | 1 | 0 |  |
+| Heðinn | 12 | 1 | Heðinn (7), Heðin (6) |
+| Heðinvé | 2 | 0 |  |
+| Hefni | 1 | 0 |  |
+| Hefnir | 1 | 0 |  |
+| Heg | 1 | 0 |  |
+| Hegbjôrn | 1 | 0 |  |
+| Hegga | 1 | 0 |  |
+| Heghvat | 1 | 0 |  |
+| Heghvatar | 1 | 0 |  |
+| Hegleikr | 1 | 0 |  |
+| Hegmundr | 1 | 0 |  |
+| Hegulfr | 2 | 0 |  |
+| Hegvaldi | 1 | 0 |  |
+| Hegvaldr | 2 | 0 |  |
+| Hegvarðs | 1 | 0 |  |
+| Hegvé | 1 | 0 |  |
+| Hegvér | 1 | 0 |  |
+| Hegviða | 1 | 0 |  |
+| Hegviðar | 1 | 0 |  |
+| Hegviðr | 5 | 0 | Hegviðr (3), Hegvið (2) |
+| Hegvin | 1 | 0 |  |
+| Hé-Gylfa | 2 | 2 |  |
+| Hé-Gylfis | 2 | 0 |  |
+| Heiðabý | 5 | 0 |  |
+| Heiðr | 1 | 0 |  |
+| Heil | 1 | 0 |  |
+| Heilfús | 1 | 0 |  |
+| Heilgeirr | 3 | 0 | Heilgeirr (2), Heilgeir (1) |
+| Heilvé | 2 | 0 |  |
+| Heimaldr | 1 | 4 |  |
+| Heimdallr | 1 | 0 |  |
+| Heimkel | 3 | 0 | Heimkel (2), Heimkell (1) |
+| Heimkels | 1 | 0 |  |
+| Heimlaug | 1 | 0 |  |
+| Hein | 1 | 0 |  |
+| Heinrekr | 3 | 0 | Heinrekr (2), Heinrek (1) |
+| Heins | 1 | 0 |  |
+| Heldaz | 1 | 0 |  |
+| Helfr | 1 | 0 |  |
+| Helga | 27 | 2 | Helga (28), helga (1) |
+| Helgalandi | 1 | 0 |  |
+| Helgasonr | 2 | 0 |  |
+| Helgi | 16 | 1 |  |
+| Helgramessu | 1 | 0 |  |
+| Helgu | 2 | 0 |  |
+| Helgulfr | 4 | 0 |  |
+| Helgunnr | 1 | 0 |  |
+| Hella | 1 | 0 |  |
+| Hellvisbóar | 1 | 0 |  |
+| Hely | 1 | 0 |  |
+| Hemingr | 19 | 0 | Hemingr (15), Heming (4) |
+| Hemkell | 2 | 0 | Hemkell (1), Hemkel (1) |
+| Hemkels | 1 | 0 |  |
+| Henricus | 1 | 0 |  |
+| Henrik | 1 | 0 |  |
+| Hera | 2 | 0 |  |
+| Herbjôrn | 2 | 0 |  |
+| Herfreðr | 1 | 0 |  |
+| Herfríðr | 1 | 0 |  |
+| Herjarr | 2 | 0 |  |
+| Herjulfr | 5 | 0 | Herjulfr (3), Herjulf (2) |
+| Herjulfs | 1 | 0 |  |
+| Herlaugs | 1 | 0 |  |
+| Herleif | 1 | 0 |  |
+| Hermóðr | 3 | 0 | Hermóðr (2), Hermóð (1) |
+| Hermundr | 1 | 0 |  |
+| Herrøðr | 1 | 0 |  |
+| Hersir | 1 | 0 |  |
+| Herulfr | 1 | 0 |  |
+| Heruwulfiz | 1 | 1 |  |
+| Hervarðr | 1 | 0 |  |
+| Hervistôðum | 1 | 0 |  |
+| Herþrúðr | 1 | 1 |  |
+| Hettingr | 1 | 0 |  |
+| Hettusveins | 1 | 0 |  |
+| Hildulfr | 2 | 0 |  |
+| Hildungr | 1 | 0 |  |
+| Hildvígr | 1 | 0 |  |
+| Himinríkis | 1 | 0 |  |
+| himunafi | 1 | 0 |  |
+| Hinsarfa | 1 | 0 |  |
+| Hinsarve | 1 | 0 |  |
+| hinuntr | 1 | 0 |  |
+| hi--o | 1 | 0 |  |
+| Hiwigaz | 1 | 0 |  |
+| Hjalli | 1 | 0 |  |
+| Hjalmdís | 1 | 0 |  |
+| Hjalmfastr | 5 | 0 | Hjalmfastr (4), Hjalmfast (1) |
+| Hjalmgeirr | 2 | 0 | Hjalmgeirr (1), Hjalmgeir (1) |
+| Hjalmlaug | 2 | 0 |  |
+| Hjalmr | 2 | 0 | Hjalmr (1), Hjalm (1) |
+| Hjalms | 1 | 0 |  |
+| Hjalmviðr | 3 | 0 | Hjalmviðr (2), Hjalmvið (1) |
+| Hjalti | 1 | 0 |  |
+| Hjärne | 1 | 0 |  |
+| Hjarnum | 1 | 0 |  |
+| Hjôrtstôðum | 1 | 1 |  |
+| Hjôrulf | 1 | 0 |  |
+| Hjôrvarðr | 2 | 0 |  |
+| Hlaðgerðr | 1 | 0 |  |
+| Hlahahaukz | 1 | 0 |  |
+| Hlewagastiz | 1 | 0 |  |
+| Hlíf | 1 | 0 |  |
+| Hlífhildi | 1 | 1 |  |
+| Hlífsteinn | 12 | 0 | Hlífsteinn (11), Hlífstein (1) |
+| Hlífsteins | 1 | 0 |  |
+| Hlífundr | 1 | 0 |  |
+| hlu | 1 | 0 |  |
+| Hnabudas | 1 | 0 |  |
+| Hnakka | 1 | 0 |  |
+| Hnakki | 2 | 0 |  |
+| hnuþa | 1 | 0 |  |
+| Hofa | 1 | 0 |  |
+| Hofi | 4 | 1 | Hofi (4), Høfi (1) |
+| Holfi | 1 | 0 |  |
+| Holi | 1 | 0 |  |
+| Holma | 10 | 1 |  |
+| Holmbjôrn | 7 | 0 |  |
+| Holmdís | 4 | 0 |  |
+| Holmdísar | 1 | 0 |  |
+| Holmdísi | 1 | 0 |  |
+| Holmdjarf | 1 | 0 |  |
+| Holmdórr | 1 | 0 |  |
+| Holmf | 1 | 0 |  |
+| Holmfastar | 1 | 0 |  |
+| Holmfastr | 27 | 0 | Holmfastr (19), Holmfast (8) |
+| Holmfasts | 1 | 0 |  |
+| Holmfríðar | 2 | 0 |  |
+| Holmfríði | 2 | 0 |  |
+| Holmfríðr | 20 | 2 |  |
+| Holmgarði | 4 | 0 |  |
+| Holmgaut | 2 | 0 | Holmgaut (1), Holmgautr (1) |
+| Holmgeirr | 24 | 0 | Holmgeirr (15), Holmgeir (9) |
+| Holmgeirs | 3 | 0 |  |
+| Holmgerðr | 3 | 0 |  |
+| Holmi | 8 | 0 |  |
+| Holmlaug | 6 | 2 | Holmlaug (5), Holmlaugr (3) |
+| Holmlaugar | 1 | 0 |  |
+| Holmr | 3 | 0 | Holmr (2), Holm (1) |
+| Holms | 1 | 0 |  |
+| Holmsteinn | 26 | 0 | Holmsteinn (18), Holmstein (8) |
+| Holmsteins | 4 | 0 |  |
+| Holmu | 1 | 0 |  |
+| Holmvé | 1 | 0 |  |
+| Holmviðr | 4 | 1 | Holmviðr (3), Holmvið (2) |
+| Holta | 2 | 0 |  |
+| Holti | 1 | 0 |  |
+| Holtijaz | 1 | 0 |  |
+| Hónefr | 3 | 0 | Hónefr (2), Hónef (1) |
+| Hornbora | 1 | 0 |  |
+| Hornum | 1 | 0 |  |
+| Horsefni | 1 | 0 |  |
+| Houaz | 2 | 0 |  |
+| Houhaz | 1 | 0 |  |
+| houtian | 1 | 0 |  |
+| Hoz | 1 | 0 |  |
+| Hrabnaz | 1 | 0 |  |
+| Hraða | 1 | 0 |  |
+| Hraði | 1 | 1 |  |
+| Hrafn | 5 | 0 |  |
+| Hrafni | 1 | 0 |  |
+| Hrafns | 1 | 0 |  |
+| hragli | 1 | 0 |  |
+| Hrammstarka | 1 | 0 |  |
+| Hrana | 2 | 0 |  |
+| Hrani | 4 | 0 |  |
+| Hrazaz | 2 | 0 |  |
+| Hraþaz | 1 | 0 |  |
+| Hrefna | 1 | 1 |  |
+| Hrefningr | 2 | 0 |  |
+| Hreiðar | 2 | 0 | Hreiðar (1), Hreiðarr (1) |
+| Hreiðars | 1 | 0 |  |
+| Hreiðgotum | 1 | 0 |  |
+| Hreiði | 1 | 0 |  |
+| Hreiðmarar | 1 | 0 |  |
+| Hreiðulfar | 1 | 0 |  |
+| Hreiðulfr | 1 | 0 |  |
+| Hreiðulfs | 2 | 0 |  |
+| Hreppisson | 1 | 0 |  |
+| Hríði | 1 | 0 |  |
+| Hrifla | 2 | 0 |  |
+| Hring | 2 | 0 | Hring (1), Hringr (1) |
+| Hringaríki | 1 | 0 |  |
+| Hringja | 1 | 0 |  |
+| Hringstôðum | 1 | 0 |  |
+| Hrísney | 1 | 0 |  |
+| Hróalda | 1 | 0 |  |
+| Hróaldr | 3 | 0 | Hróaldr (2), Hróald (1) |
+| Hróalds | 1 | 0 |  |
+| Hroaldz | 1 | 0 |  |
+| Hróarr | 8 | 0 | Hróarr (7), Hróar (1) |
+| Hróð | 1 | 0 |  |
+| Hróða | 2 | 0 |  |
+| Hróðarr | 1 | 0 |  |
+| Hróðbjarnarfa | 1 | 0 |  |
+| Hróðbjôrn | 2 | 0 |  |
+| Hróðelfar | 1 | 0 |  |
+| Hróðelfr | 5 | 0 |  |
+| Hróðfinn | 1 | 0 |  |
+| Hróðfús | 1 | 0 |  |
+| Hróðfúsar | 1 | 0 |  |
+| Hróðgautr | 1 | 0 |  |
+| Hróðgeir | 3 | 0 |  |
+| Hróðgeirs | 2 | 0 |  |
+| Hróðgerða | 1 | 0 |  |
+| Hróðgísl | 1 | 0 |  |
+| Hróðheiðr | 1 | 0 |  |
+| Hróðheiðu | 1 | 0 |  |
+| Hróðhvat | 1 | 0 |  |
+| Hróðlaug | 1 | 0 |  |
+| Hróðlaugar | 1 | 0 |  |
+| Hróðleifr | 6 | 0 | Hróðleifr (5), Hróðleif (1) |
+| Hróðleikr | 3 | 0 | Hróðleikr (2), Hróðleik (1) |
+| Hróðlíkn | 2 | 0 |  |
+| Hróðmar | 3 | 1 |  |
+| Hróðmarsarfi | 1 | 0 |  |
+| Hróðmundr | 6 | 3 | Hróðmundr (5), Hróðmund (4) |
+| Hróðorm | 1 | 0 |  |
+| Hróðorms | 1 | 0 |  |
+| Hróðsteinn | 2 | 0 |  |
+| Hróðulfr | 4 | 0 | Hróðulfr (3), Hróðulf (1) |
+| Hróðvaldr | 3 | 0 |  |
+| Hróðvé | 4 | 0 |  |
+| Hróðvéar | 1 | 0 |  |
+| Hróðvéu | 1 | 0 |  |
+| Hróðviðar | 1 | 0 |  |
+| Hróðviðr | 2 | 0 | Hróðviðr (1), Hróðvið (1) |
+| Hróðvilaarfi | 1 | 0 |  |
+| Hróðvísl | 4 | 0 |  |
+| Hróðþjóð | 3 | 0 |  |
+| Hróðþjóðar | 2 | 0 |  |
+| Hróðþrúðr | 1 | 0 |  |
+| Hrói | 1 | 0 |  |
+| Hrók | 2 | 0 |  |
+| Hrólfr | 15 | 1 | Hrólfr (11), Hrólf (5) |
+| Hrólfsstôðum | 1 | 0 |  |
+| Hrossketill | 1 | 0 |  |
+| Hrozaz | 1 | 0 |  |
+| Hrúts | 1 | 0 |  |
+| Hrœðingr | 1 | 0 |  |
+| Hrœming | 1 | 0 |  |
+| Hrœríkr | 5 | 0 |  |
+| Hrœríks | 1 | 0 |  |
+| hua | 1 | 0 |  |
+| huas | 1 | 0 |  |
+| Hubert | 1 | 0 |  |
+| Huga | 1 | 0 |  |
+| Hugaldr | 1 | 0 |  |
+| Hugalds | 1 | 0 |  |
+| Hugals | 1 | 0 |  |
+| Hugbjôrn | 1 | 0 |  |
+| Hugi | 1 | 0 |  |
+| Hugulu | 1 | 0 |  |
+| Húkr | 1 | 0 |  |
+| huli | 1 | 0 |  |
+| Hultríkr | 1 | 0 |  |
+| hu-msr | 1 | 0 |  |
+| Hundengja | 1 | 0 |  |
+| Hundingjum | 1 | 0 |  |
+| Hunninge | 2 | 0 |  |
+| Húnvið | 1 | 0 |  |
+| Húsabý | 1 | 0 |  |
+| Húsbjôrn | 1 | 0 |  |
+| Húskarl | 5 | 1 |  |
+| Húskarls | 1 | 1 |  |
+| Húsríkr | 1 | 0 |  |
+| Húsum | 2 | 0 | Húsum (1), husum (1) |
+| huþska | 1 | 0 |  |
+| Hváli | 1 | 0 |  |
+| Hváli's | 1 | 0 |  |
+| Hvatarr | 1 | 0 |  |
+| Hvatr | 3 | 2 |  |
+| Hveimi | 1 | 0 |  |
+| Hvít | 4 | 0 | Hvít (3), Hvítr (1) |
+| Hvíthôfða | 2 | 0 |  |
+| Hvítkárs | 1 | 0 |  |
+| Hyfi | 1 | 0 |  |
+| Hylia | 1 | 0 |  |
+| Hylti | 1 | 0 |  |
+| Hýnifrár | 1 | 0 |  |
+| Hæli | 1 | 0 |  |
+| Hæni | 1 | 0 |  |
+| Hæra | 1 | 0 |  |
+| Hæru | 3 | 1 |  |
+| Hônd | 1 | 1 |  |
+| Hôr | 1 | 0 |  |
+| Hôrð | 2 | 0 | Hôrð (1), Hôrðr (1) |
+| Hôrðs | 1 | 0 |  |
+| Hôskuldr | 2 | 0 |  |
+| Hôsumýra | 1 | 0 |  |
+| Hôsva | 1 | 0 |  |
+| Hôsvi | 2 | 0 |  |
+| Iacobus | 5 | 0 |  |
+| i-al | 1 | 0 |  |
+| iarlR | 1 | 0 |  |
+| Íðaldr | 1 | 0 |  |
+| iel | 1 | 0 |  |
+| Iesu | 1 | 0 |  |
+| Iesus | 1 | 0 |  |
+| if--r | 1 | 0 |  |
+| Ígulbjôrn | 14 | 2 |  |
+| Ígulfastr | 15 | 0 | Ígulfastr (11), Ígulfast (4) |
+| Ígulfríðr | 3 | 0 |  |
+| Ígulgeir | 2 | 0 |  |
+| Ígull | 21 | 1 | Ígull (11), Ígul (11) |
+| ihu | 1 | 0 |  |
+| ikkrei | 1 | 0 |  |
+| ilin--r | 1 | 0 |  |
+| iliuri | 1 | 0 |  |
+| Illfúss | 1 | 0 |  |
+| Illuga | 4 | 0 |  |
+| Illugi | 13 | 1 |  |
+| ilturi | 1 | 0 |  |
+| Imi | 1 | 0 |  |
+| Immi | 1 | 0 |  |
+| Ing | 1 | 0 |  |
+| Inga | 23 | 0 |  |
+| Ingaduz | 1 | 0 |  |
+| Ingeborg | 1 | 0 |  |
+| Ingemarus | 1 | 0 |  |
+| Ingi | 9 | 1 |  |
+| Ingibjargar | 3 | 0 |  |
+| Ingibjærg | 1 | 0 |  |
+| Ingibjôrg | 9 | 0 |  |
+| Ingibjôrn | 6 | 0 |  |
+| Ingiey | 1 | 0 |  |
+| Ingifast | 35 | 1 | Ingifast (18), Ingifastr (18) |
+| Ingifastar | 3 | 0 |  |
+| Ingifríðar | 2 | 0 |  |
+| Ingifríði | 1 | 0 |  |
+| Ingifríðr | 3 | 1 |  |
+| Ingigeirr | 3 | 0 |  |
+| Ingigerði | 3 | 0 |  |
+| Ingigerðr | 15 | 0 |  |
+| Ingigunni | 1 | 0 |  |
+| Ingihvatr | 1 | 0 |  |
+| Ingijon | 1 | 0 |  |
+| Ingikárr | 1 | 0 |  |
+| Ingilaug | 3 | 0 |  |
+| Ingileif | 3 | 0 |  |
+| Ingimarar | 1 | 0 |  |
+| Ingimarr | 8 | 1 | Ingimarr (7), Ingimar (2) |
+| Ingimóð | 1 | 0 |  |
+| Ingimundr | 12 | 1 | Ingimundr (8), Ingimund (5) |
+| Ingiríði | 1 | 0 |  |
+| Ingiríðr | 2 | 0 |  |
+| Ingirún | 3 | 0 |  |
+| Ingirúnar | 1 | 0 |  |
+| Ingivaldr | 9 | 0 | Ingivaldr (7), Ingivald (2) |
+| Ingiþóra | 5 | 0 |  |
+| Ingiþóru | 5 | 0 |  |
+| Ingjaldr | 28 | 1 | Ingjaldr (17), Ingjald (12) |
+| Ingoldinga | 1 | 0 |  |
+| Ingríðr | 8 | 1 |  |
+| Ingu | 5 | 0 |  |
+| Ingulfr | 12 | 0 | Ingulfr (8), Ingulf (4) |
+| Ingvar | 21 | 1 | Ingvar (13), Ingvarr (9) |
+| Ingvari | 18 | 1 |  |
+| Ingvars | 7 | 0 |  |
+| iokis | 1 | 0 |  |
+| iolatr | 1 | 0 |  |
+| Ióna | 1 | 1 |  |
+| irfR | 1 | 0 |  |
+| i-rkiorþ | 1 | 0 |  |
+| isa | 1 | 0 |  |
+| Ísakr | 2 | 1 |  |
+| Isem | 1 | 1 |  |
+| isifara | 1 | 0 |  |
+| Ísjôkul | 1 | 0 |  |
+| Ísli | 2 | 0 |  |
+| Isome | 1 | 0 |  |
+| Isomi | 1 | 0 |  |
+| Ísulfr | 1 | 0 |  |
+| Isums | 1 | 1 |  |
+| iualfir | 1 | 0 |  |
+| i-ui | 1 | 0 |  |
+| iutis | 1 | 0 |  |
+| Iuþingaz | 1 | 0 |  |
+| Ívarðr | 1 | 0 |  |
+| Ívarr | 19 | 1 | Ívarr (17), Ívar (3) |
+| Ívars | 2 | 0 |  |
+| iþal-ra | 1 | 0 |  |
+| iþia-m | 1 | 0 |  |
+| Jacob | 1 | 0 |  |
+| Jacobi | 2 | 0 |  |
+| Jacobus | 4 | 0 |  |
+| Jacop | 1 | 0 |  |
+| Jaðri | 1 | 0 |  |
+| Jafna | 1 | 0 |  |
+| Jafra | 1 | 0 |  |
+| Jakobr | 27 | 1 | Jakobr (18), Jakob (10) |
+| Jakobs | 9 | 0 |  |
+| Jamtaland | 1 | 0 |  |
+| Jamts | 1 | 0 |  |
+| Jap | 1 | 0 |  |
+| Jargeir | 3 | 0 | Jargeir (2), Jargeirr (1) |
+| Jarl | 16 | 2 |  |
+| Jarla | 1 | 0 |  |
+| Jarlabanka | 1 | 0 |  |
+| Jarlabanki | 11 | 1 |  |
+| Jarls | 1 | 0 |  |
+| Jarlssonr | 1 | 0 |  |
+| Jarna | 1 | 0 |  |
+| Jarnstorp | 1 | 0 |  |
+| Jarpi | 1 | 0 |  |
+| Jarpr | 2 | 0 | Jarpr (1), Jarp (1) |
+| Jarpulf | 1 | 0 |  |
+| Jatvarðssonr | 1 | 0 |  |
+| Jerusalem | 1 | 0 |  |
+| Jésú | 2 | 0 | Jésú (1), Jésu (1) |
+| Jesum | 2 | 0 |  |
+| Jóan | 5 | 0 |  |
+| Jóarr | 6 | 1 | Jóarr (4), Jóar (3) |
+| Jóbjôrn | 6 | 0 |  |
+| Jófast | 1 | 0 |  |
+| Jófastu | 1 | 0 |  |
+| Jófríðr | 1 | 0 |  |
+| Jógeirr | 9 | 0 | Jógeirr (7), Jógeir (2) |
+| Jógerðr | 1 | 0 |  |
+| Joha | 1 | 0 |  |
+| Jóhan | 33 | 0 |  |
+| Jóhani | 1 | 0 |  |
+| Jóhanna | 1 | 0 |  |
+| Johannem | 1 | 0 |  |
+| Johannes | 31 | 1 | Johannes (23), Jóhannes (9) |
+| Jóhans | 3 | 0 |  |
+| Jólgeir | 1 | 0 |  |
+| Jón | 26 | 5 | Jón (30), Jónn (1) |
+| Jóns | 2 | 1 |  |
+| Jónsmessudagr | 1 | 0 |  |
+| Jónssonr | 1 | 0 |  |
+| Jór | 1 | 0 |  |
+| Jórdan | 1 | 0 |  |
+| Jórhildi | 1 | 0 |  |
+| Jórils | 1 | 0 |  |
+| Jórkell | 1 | 0 |  |
+| Jórulfr | 2 | 0 | Jórulfr (1), Jórulf (1) |
+| Jórunnar | 1 | 0 |  |
+| Jórunni | 2 | 0 |  |
+| Jórunnr | 8 | 0 | Jórunnr (5), Jórunn (3) |
+| Jósep | 2 | 0 |  |
+| Jóstein | 5 | 0 | Jóstein (3), Jósteinn (2) |
+| Juda | 4 | 0 |  |
+| Judas | 2 | 0 |  |
+| Jude | 1 | 0 |  |
+| Jula | 1 | 0 |  |
+| Juli | 1 | 0 |  |
+| Júta | 3 | 0 |  |
+| Jútlandi | 1 | 0 |  |
+| Júzki | 1 | 0 |  |
+| Jôfurbjôrn | 1 | 0 |  |
+| Jôfurfast | 8 | 0 |  |
+| Jôfurfastar | 1 | 0 |  |
+| Jôfurfríðr | 2 | 0 |  |
+| Jôfurr | 11 | 0 | Jôfurr (7), Jôfur (4) |
+| Jôfursteinn | 1 | 0 |  |
+| Jôrunda | 2 | 0 |  |
+| Jôrundar | 2 | 0 |  |
+| Jôrundr | 26 | 0 | Jôrundr (16), Jôrund (10) |
+| Jôtunstôðum | 2 | 0 |  |
+| K | 1 | 0 |  |
+| Kabbi | 1 | 0 |  |
+| Kafi | 1 | 0 |  |
+| Kafli | 1 | 0 |  |
+| Kag | 7 | 1 | Kag (5), Kagr (3) |
+| Kain | 1 | 1 |  |
+| Kál | 4 | 0 | Kál (3), Káll (1) |
+| Kala | 4 | 0 |  |
+| Kalf | 7 | 0 | Kalf (5), Kalfr (2) |
+| Kalfs | 1 | 0 |  |
+| Kali | 8 | 1 |  |
+| Kalla | 3 | 0 |  |
+| Kalli | 1 | 0 |  |
+| kallo | 1 | 0 |  |
+| Kalmarna | 1 | 0 |  |
+| Kalt | 1 | 0 |  |
+| kalukR | 1 | 0 |  |
+| Kambs | 1 | 0 |  |
+| Kampi | 1 | 0 |  |
+| Kana | 2 | 0 |  |
+| kan-it | 1 | 0 |  |
+| Kanp | 2 | 0 | Kanp (1), Kanpr (1) |
+| Kapalein | 1 | 0 |  |
+| Kappa | 1 | 0 |  |
+| Kappi | 1 | 0 |  |
+| Kára | 8 | 1 |  |
+| Káradóttur | 1 | 0 |  |
+| Kári | 12 | 1 |  |
+| Karin | 1 | 0 |  |
+| Karl | 39 | 2 |  |
+| Karla | 1 | 0 |  |
+| Karli | 3 | 0 |  |
+| Karlsefni | 1 | 0 |  |
+| Karna | 1 | 0 |  |
+| Kárr | 9 | 1 |  |
+| Kárs | 1 | 0 |  |
+| Karsi | 2 | 0 |  |
+| Kártóki | 1 | 0 |  |
+| Kasi | 1 | 0 |  |
+| kasl | 1 | 0 |  |
+| Kassi | 1 | 0 |  |
+| Kassla | 1 | 0 |  |
+| Kassle | 1 | 0 |  |
+| kasu | 1 | 0 |  |
+| Káta | 5 | 1 |  |
+| Katerina | 1 | 0 |  |
+| Káti | 4 | 0 |  |
+| Kátr | 1 | 0 |  |
+| Katrín | 5 | 0 |  |
+| Katrína | 1 | 1 |  |
+| Katrínu | 1 | 0 |  |
+| Katrínumessu | 1 | 0 |  |
+| Kattr | 1 | 0 |  |
+| Kátu | 1 | 0 |  |
+| Káulfr | 1 | 0 |  |
+| Kauparfa | 2 | 0 |  |
+| Kauparve | 2 | 0 |  |
+| Kaupi | 3 | 0 |  |
+| Kaupmann | 1 | 0 |  |
+| kaur | 1 | 0 |  |
+| kautaun | 2 | 0 |  |
+| Kefas | 1 | 0 |  |
+| Kelbaþewas | 1 | 0 |  |
+| Kelsstôðum | 1 | 0 |  |
+| Ketilas | 1 | 0 |  |
+| Ketilbjôrn | 15 | 1 |  |
+| Ketilelfr | 1 | 0 |  |
+| Ketiley | 6 | 0 |  |
+| Ketileyjar | 1 | 0 |  |
+| Ketilfastr | 10 | 1 | Ketilfastr (6), Ketilfast (5) |
+| Ketilfríðr | 2 | 0 |  |
+| Ketilgerðr | 1 | 0 |  |
+| Ketilhôfða | 2 | 0 |  |
+| Ketilhôfði | 1 | 0 |  |
+| Ketilhôss | 1 | 0 |  |
+| Ketill | 51 | 2 | Ketill (37), Ketil (16) |
+| Ketillaug | 2 | 0 |  |
+| Ketillauga | 1 | 0 |  |
+| Ketilmund | 11 | 0 | Ketilmund (6), Ketilmundr (5) |
+| Ketilmundar | 2 | 0 |  |
+| Ketils | 3 | 0 |  |
+| Ketilssonar | 1 | 0 |  |
+| Ketilvé | 7 | 0 |  |
+| Ketta | 1 | 0 |  |
+| Keþan | 1 | 0 |  |
+| ki | 1 | 0 |  |
+| kigumantr | 1 | 0 |  |
+| Kík | 1 | 0 |  |
+| Kilfir | 1 | 0 |  |
+| Kíli | 1 | 0 |  |
+| Kinn | 1 | 0 |  |
+| Kirkjuvelli | 1 | 0 |  |
+| kiti | 2 | 0 |  |
+| Kjallakr | 4 | 0 | Kjallakr (3), Kjallak (1) |
+| Kjós | 1 | 0 |  |
+| Kjúla | 1 | 0 |  |
+| Kjúli | 4 | 0 |  |
+| Kjullakr | 4 | 0 | Kjullakr (3), Kjullak (1) |
+| Kjôtvi | 1 | 0 |  |
+| Klakka | 2 | 0 |  |
+| Klakkr | 2 | 0 | Klakkr (1), Klakk (1) |
+| Klas | 1 | 0 |  |
+| Klefa | 1 | 0 |  |
+| Klementsmessuaptan | 1 | 0 |  |
+| Klemet | 5 | 1 | Klemet (3), Klemetr (3) |
+| Kleppi | 1 | 0 |  |
+| Kleppir | 1 | 0 |  |
+| Klett | 2 | 0 | Klett (1), Klettr (1) |
+| Klinti | 1 | 0 |  |
+| Klints | 1 | 0 |  |
+| Kloppa | 1 | 0 |  |
+| Knakr | 1 | 0 |  |
+| Knasa | 2 | 0 |  |
+| Kneikis | 1 | 0 |  |
+| Knúti | 3 | 0 |  |
+| Knútr | 13 | 1 | Knútr (12), Knút (2) |
+| Knúts | 2 | 0 |  |
+| Knútsmessudagr | 1 | 0 |  |
+| Kofri | 1 | 0 |  |
+| ko-l | 1 | 0 |  |
+| Kolbeini | 1 | 0 |  |
+| Kolbeinn | 5 | 1 | Kolbeinn (4), Kolbein (2) |
+| Kolbeins | 2 | 0 |  |
+| Kolbjôrn | 5 | 0 |  |
+| Kolfinnr | 1 | 0 |  |
+| Kolhaug | 1 | 0 |  |
+| Kolki | 1 | 0 |  |
+| Kolla | 1 | 0 |  |
+| Kolli | 2 | 0 |  |
+| Kolr | 3 | 1 | Kolr (3), Kol (1) |
+| Kolsveins | 1 | 0 |  |
+| Kornadal | 1 | 0 |  |
+| Korpr | 1 | 0 |  |
+| koþbein | 1 | 0 |  |
+| Krák | 1 | 0 |  |
+| Krákuarfi | 1 | 0 |  |
+| Krassa | 1 | 0 |  |
+| Krasse | 1 | 0 |  |
+| krifi | 1 | 0 |  |
+| Krínáns | 1 | 0 |  |
+| Kristin | 2 | 0 |  |
+| Kristína | 2 | 0 | Kristína (1), Kristina (1) |
+| Kristus | 9 | 3 |  |
+| Krók | 10 | 0 | Krók (6), Krókr (4) |
+| Króki | 1 | 0 |  |
+| Krosskirkju | 1 | 0 |  |
+| kru | 1 | 0 |  |
+| Krums | 1 | 0 |  |
+| Krúsa | 1 | 0 |  |
+| ku | 1 | 0 |  |
+| kuan | 1 | 0 |  |
+| kufri | 1 | 0 |  |
+| ku-k-R | 1 | 0 |  |
+| Kullands | 1 | 0 |  |
+| Kumble | 1 | 0 |  |
+| Kumbli | 1 | 0 |  |
+| kumli | 1 | 0 |  |
+| Kunimundiu | 1 | 0 |  |
+| kuntru | 1 | 0 |  |
+| kura-a | 1 | 0 |  |
+| Kúrr | 1 | 0 |  |
+| kuru | 1 | 0 |  |
+| kurþi | 1 | 0 |  |
+| Kúsi | 1 | 0 |  |
+| Kúss | 3 | 0 | Kúss (2), Kús (1) |
+| kusta | 1 | 0 |  |
+| kuta | 1 | 0 |  |
+| Kvíg | 2 | 0 |  |
+| Kvígbjôrn | 2 | 0 |  |
+| Kvígulfr | 2 | 0 |  |
+| Kvikr | 4 | 0 | Kvikr (3), Kvik (1) |
+| Kviks | 1 | 0 |  |
+| Kylfa | 1 | 0 |  |
+| Kylfingr | 4 | 0 |  |
+| Kynmundar | 1 | 0 |  |
+| Kôðu | 1 | 1 |  |
+| Køgis | 1 | 0 |  |
+| Kœlingi | 1 | 0 |  |
+| Kôrlung | 3 | 0 | Kôrlung (2), Kôrlungr (1) |
+| Kôrlungs | 1 | 0 |  |
+| Kôrungs | 1 | 0 |  |
+| Kôttr | 1 | 0 |  |
+| labus | 1 | 0 |  |
+| Lafranz | 9 | 0 |  |
+| Lafranzar | 1 | 0 |  |
+| lafri | 1 | 0 |  |
+| Lafsa | 2 | 0 |  |
+| Lafsi | 2 | 0 |  |
+| Lagi | 2 | 0 | Lagi (1), Lági (1) |
+| Laguþewa | 1 | 0 |  |
+| Laguþewaz | 1 | 0 |  |
+| Laiþigaz | 1 | 0 |  |
+| Lambi | 1 | 0 |  |
+| Lamo | 1 | 0 |  |
+| Landawarijaz | 1 | 0 |  |
+| Lang | 1 | 0 |  |
+| Langaforsinn | 1 | 0 |  |
+| Langgarni | 1 | 0 |  |
+| Langsum | 1 | 0 |  |
+| Laughamri | 1 | 0 |  |
+| Laurencius | 1 | 0 |  |
+| Laurentius | 1 | 0 |  |
+| laurfian | 1 | 0 |  |
+| Lávarðr | 1 | 1 |  |
+| Lax | 1 | 0 |  |
+| Lefsi | 3 | 0 |  |
+| Leifa | 1 | 1 |  |
+| Leifr | 1 | 0 |  |
+| Leik | 1 | 0 |  |
+| Leikfrøð | 1 | 0 |  |
+| Leiknarr | 2 | 0 |  |
+| Leiku | 1 | 0 |  |
+| Lengju | 1 | 0 |  |
+| Lengjum | 1 | 0 |  |
+| Lerdal | 1 | 0 |  |
+| Léttu | 1 | 0 |  |
+| Leubaz | 1 | 0 |  |
+| Leugaz | 1 | 0 |  |
+| Leþro | 2 | 0 |  |
+| Libbi | 1 | 0 |  |
+| Lið-Bófa | 1 | 0 |  |
+| Liðsmaðr | 2 | 0 |  |
+| Liðsvaldr | 1 | 0 |  |
+| Liðvandr | 1 | 0 |  |
+| Liðvarðr | 1 | 0 |  |
+| Lífeyjar | 1 | 0 |  |
+| Lífland | 1 | 0 |  |
+| Líflandi | 2 | 0 |  |
+| Líkbjôrn | 3 | 0 |  |
+| Likko | 1 | 0 |  |
+| Líknhvat | 2 | 0 |  |
+| Líknhvatar | 2 | 0 |  |
+| Líknmundar | 2 | 0 |  |
+| Líknreifr | 1 | 0 |  |
+| Líknvéar | 1 | 0 |  |
+| Líknviðar | 1 | 0 |  |
+| Líknviðr | 4 | 1 | Líknviðr (4), Líknvið (1) |
+| Liko | 1 | 0 |  |
+| Líkviðr | 2 | 0 |  |
+| Lillrone | 1 | 0 |  |
+| lin | 1 | 0 |  |
+| Lina | 2 | 1 |  |
+| Lindey | 1 | 0 |  |
+| Lingorm | 1 | 0 |  |
+| Lini | 1 | 0 |  |
+| Linko | 1 | 0 |  |
+| Lippa | 1 | 0 |  |
+| Lippi | 1 | 0 |  |
+| Litlaronum | 1 | 0 |  |
+| Litli | 4 | 0 |  |
+| Ljótgeirr | 1 | 0 |  |
+| Ljótr | 5 | 1 |  |
+| Ljótulfs | 1 | 0 |  |
+| Ljúfr | 1 | 0 |  |
+| Ljúfvini | 2 | 0 |  |
+| l-khas | 1 | 0 |  |
+| Ló | 1 | 0 |  |
+| Loðbrókar | 1 | 0 |  |
+| Loðinn | 10 | 2 | Loðinn (7), Loðin (5) |
+| Loðins | 1 | 0 |  |
+| Loðni | 1 | 0 |  |
+| Lóðurr | 1 | 0 |  |
+| Lófa | 1 | 0 |  |
+| Lófi | 1 | 0 |  |
+| Lofríkr | 1 | 0 |  |
+| Lokarr | 1 | 0 |  |
+| Lokki | 2 | 0 |  |
+| Lokkr | 1 | 0 |  |
+| Lopts | 1 | 0 |  |
+| Loptssonr | 1 | 0 |  |
+| lubu | 1 | 0 |  |
+| Lucas | 20 | 1 |  |
+| Lucia | 1 | 0 |  |
+| Lúciu | 1 | 0 |  |
+| Lúkas | 1 | 0 |  |
+| Lúkasmessu | 1 | 0 |  |
+| Lunaneyju | 1 | 0 |  |
+| Lunde | 1 | 0 |  |
+| Lundunum | 1 | 0 |  |
+| lu--R | 1 | 0 |  |
+| lutaris | 1 | 0 |  |
+| luþar | 1 | 0 |  |
+| Lýðbjôrn | 2 | 1 |  |
+| Lye | 1 | 1 |  |
+| Lyum | 1 | 1 |  |
+| Lønangri | 1 | 0 |  |
+| ma | 1 | 0 |  |
+| Maelmuire | 1 | 0 |  |
+| Magdalena | 2 | 0 |  |
+| Magnhildar | 1 | 0 |  |
+| Magni | 1 | 0 |  |
+| Magno | 1 | 0 |  |
+| Magnús | 12 | 0 |  |
+| Magnúsar | 1 | 0 |  |
+| mailb---ak | 1 | 0 |  |
+| Malaki | 1 | 0 |  |
+| Malchus | 3 | 0 |  |
+| Malgeirs | 1 | 0 |  |
+| mallymkun | 1 | 0 |  |
+| malmury | 1 | 0 |  |
+| Mána | 3 | 1 |  |
+| Managôrðum | 2 | 0 |  |
+| Máni | 6 | 0 |  |
+| Manna | 5 | 1 |  |
+| Mannegårde | 2 | 0 |  |
+| Manni | 7 | 0 |  |
+| Mannsengi | 1 | 1 |  |
+| Marce | 1 | 0 |  |
+| Marci | 1 | 0 |  |
+| Marcus | 20 | 0 |  |
+| Margareta | 3 | 0 | Margareta (2), Margaréta (1) |
+| Margarétar | 1 | 0 |  |
+| Margaréti | 1 | 0 |  |
+| Margarétu | 1 | 0 |  |
+| Margét | 1 | 0 |  |
+| Margétu | 1 | 0 |  |
+| Margit | 1 | 0 |  |
+| Margítu | 1 | 0 |  |
+| Margotarfa | 1 | 0 |  |
+| Margrét | 4 | 0 | Margrét (3), Margret (1) |
+| Margréta | 4 | 0 |  |
+| Margrétu | 1 | 0 |  |
+| Mari | 1 | 0 |  |
+| Mariksen | 1 | 1 |  |
+| Marilingu | 1 | 0 |  |
+| Marinus | 1 | 0 |  |
+| Maríumessu | 2 | 0 |  |
+| Maríumessudag | 1 | 0 |  |
+| Mariz | 1 | 0 |  |
+| Mariþeubaz | 1 | 0 |  |
+| Markús | 1 | 0 |  |
+| Marteinn | 8 | 0 | Marteinn (7), Martein (1) |
+| Martinianus | 2 | 0 |  |
+| marþa | 1 | 0 |  |
+| Mássonr | 1 | 0 |  |
+| Mathei | 1 | 0 |  |
+| Matheus | 1 | 0 |  |
+| Mathie | 1 | 0 |  |
+| Matr | 1 | 0 |  |
+| Matthias | 1 | 0 |  |
+| Matthæus | 16 | 2 |  |
+| Mattias | 1 | 0 |  |
+| Mattiasar | 1 | 0 |  |
+| Mattis | 1 | 0 |  |
+| Maurins | 1 | 0 |  |
+| Maximianus | 3 | 0 |  |
+| maþur | 1 | 0 |  |
+| Medebys | 1 | 0 |  |
+| Mediator | 1 | 0 |  |
+| Megensarve | 1 | 0 |  |
+| Meginbjôrn | 1 | 0 |  |
+| Meginsarfa | 1 | 0 |  |
+| Meinulfr | 1 | 0 |  |
+| Mekthildr | 1 | 0 |  |
+| Melbrigða | 1 | 0 |  |
+| Melbrigði | 1 | 0 |  |
+| menk | 1 | 1 |  |
+| mer | 1 | 0 |  |
+| Meretu | 1 | 0 |  |
+| Merila | 1 | 0 |  |
+| Messias | 2 | 0 |  |
+| Mey | 2 | 0 |  |
+| Michael | 2 | 0 |  |
+| Miðgarði | 1 | 0 |  |
+| Mikjáll | 19 | 2 |  |
+| mink | 1 | 0 |  |
+| Misak | 2 | 0 |  |
+| miskik | 1 | 1 |  |
+| Mistivis | 1 | 0 |  |
+| Mjáfingr | 1 | 0 |  |
+| Mjúka | 1 | 0 |  |
+| Móða | 1 | 0 |  |
+| Monacus | 1 | 0 |  |
+| Morða | 1 | 0 |  |
+| Mosel | 1 | 0 |  |
+| m-r--ns | 1 | 0 |  |
+| muaR | 1 | 0 |  |
+| muha | 1 | 0 |  |
+| Muhumaa | 1 | 0 |  |
+| Múla | 2 | 3 |  |
+| Múli | 3 | 1 |  |
+| Munán | 1 | 0 |  |
+| Munda | 1 | 0 |  |
+| Mundi | 1 | 0 |  |
+| Mundvalds | 1 | 0 |  |
+| Mungeirr | 3 | 0 |  |
+| Mungerðr | 1 | 0 |  |
+| Munulfr | 1 | 0 |  |
+| Munulfs | 1 | 0 |  |
+| mutifu | 1 | 0 |  |
+| Mylnu | 1 | 0 |  |
+| Myndil | 3 | 0 | Myndil (2), Myndill (1) |
+| Myntari | 1 | 0 |  |
+| Mýr | 1 | 0 |  |
+| Myrgjôl | 1 | 0 |  |
+| Mýribý | 1 | 0 |  |
+| Myskja | 2 | 0 |  |
+| Myskju | 2 | 0 |  |
+| Myttar | 1 | 0 |  |
+| Mæringa | 1 | 0 |  |
+| Mölner | 1 | 0 |  |
+| Môn | 1 | 0 |  |
+| n | 1 | 0 |  |
+| Nafarr | 1 | 0 |  |
+| Nafni | 1 | 0 |  |
+| naft | 1 | 0 |  |
+| nafuam | 1 | 0 |  |
+| Nag | 1 | 0 |  |
+| nahhar | 1 | 0 |  |
+| Naktergal | 1 | 0 |  |
+| Nann | 2 | 0 |  |
+| Narfasonr | 1 | 0 |  |
+| Nasi | 6 | 0 |  |
+| Náttfari | 1 | 0 |  |
+| Naudigastiz | 1 | 0 |  |
+| naus | 1 | 0 |  |
+| Nazarenus | 3 | 1 |  |
+| Nefa | 2 | 0 |  |
+| Nefbjôrn | 1 | 0 |  |
+| Nefgeir | 4 | 0 | Nefgeir (3), Nefgeirr (1) |
+| Nefr | 3 | 0 | Nefr (2), Nef (1) |
+| Nefs | 1 | 0 |  |
+| Nennir | 2 | 0 |  |
+| Nerfis | 1 | 0 |  |
+| Neriðs | 1 | 0 |  |
+| Neriðsdóttir | 1 | 0 |  |
+| Neriðssonr | 1 | 0 |  |
+| Nesbjôrn | 9 | 1 |  |
+| Nesbý | 1 | 0 |  |
+| Nesi | 6 | 0 |  |
+| Neskonungr | 1 | 0 |  |
+| Nes-Végeirr | 1 | 0 |  |
+| netil | 1 | 0 |  |
+| nibiaR | 1 | 0 |  |
+| Nicholaus | 2 | 0 |  |
+| Nickarve | 1 | 0 |  |
+| Nicomedes | 1 | 0 |  |
+| Niðarósi | 1 | 0 |  |
+| Nikkarfa | 1 | 0 |  |
+| niklif | 1 | 0 |  |
+| Nikolai | 1 | 0 |  |
+| Nikolaus | 2 | 0 |  |
+| Nikulás | 24 | 0 |  |
+| Nikulásar | 7 | 0 |  |
+| Niujila | 2 | 0 |  |
+| Niþijo | 1 | 0 |  |
+| Njósi | 1 | 0 |  |
+| Nokka | 2 | 0 |  |
+| Nora | 1 | 0 |  |
+| Norðmaðr | 2 | 0 |  |
+| Norðrbý | 2 | 0 |  |
+| Norðrgarðum | 1 | 0 |  |
+| Nore | 1 | 0 |  |
+| Nóregi | 1 | 0 |  |
+| Noregs | 1 | 0 |  |
+| Norrbys | 2 | 0 |  |
+| Norrgarde | 1 | 0 |  |
+| Norveg | 1 | 0 |  |
+| Nykr | 1 | 0 |  |
+| Næmr | 1 | 1 | Næmr (1), næmr (1) |
+| Næstr | 1 | 0 |  |
+| Óbeinn | 1 | 0 |  |
+| Óblauðr | 1 | 0 |  |
+| Ocksarve | 1 | 2 |  |
+| Odda | 3 | 0 |  |
+| Oddgeir | 2 | 0 |  |
+| Oddi | 3 | 1 |  |
+| Oddlaug | 1 | 0 |  |
+| Oddr | 12 | 0 | Oddr (10), Odd (2) |
+| Odds | 2 | 0 |  |
+| Oddulf | 3 | 1 | Oddulf (2), Oddulfr (2) |
+| Oddulfi | 1 | 0 |  |
+| Oddvarr | 1 | 0 |  |
+| Óðalfreðr | 1 | 0 |  |
+| Óðalfríðr | 1 | 0 |  |
+| Óðindísa | 1 | 0 |  |
+| Óðindísu | 1 | 0 |  |
+| Óðinkár | 4 | 0 | Óðinkár (2), Óðinkárr (2) |
+| Óðinkárs | 1 | 0 |  |
+| Óðinn | 4 | 1 |  |
+| Ófeigr | 33 | 1 | Ófeigr (21), Ófeig (13) |
+| Ófeigs | 1 | 0 |  |
+| Óflá | 1 | 0 |  |
+| Ofláti | 1 | 0 |  |
+| Ofráðr | 2 | 0 |  |
+| Óframr | 1 | 0 |  |
+| Ófriðr | 2 | 0 | Ófriðr (1), Ófrið (1) |
+| Ofæta | 1 | 0 |  |
+| Óhneigr | 1 | 0 |  |
+| oifuþ | 1 | 0 |  |
+| oka | 1 | 0 |  |
+| Ól | 1 | 0 |  |
+| Óla | 2 | 0 |  |
+| Ólafi | 1 | 0 |  |
+| Ólafr | 73 | 12 | Ólafr (67), Ólaf (15), Olafr (2), Óláfr (1) |
+| Ólafs | 13 | 1 |  |
+| Ólafsvôku | 2 | 0 |  |
+| Ólafsvôkunótt | 1 | 0 |  |
+| Olai | 1 | 0 |  |
+| Ólaug | 2 | 0 |  |
+| Ólausmessaptan | 1 | 0 |  |
+| Olavi | 1 | 0 |  |
+| Olavus | 3 | 0 |  |
+| olbusi | 1 | 0 |  |
+| Óleifr | 33 | 1 | Óleifr (17), Óleif (16), Oleifr (1) |
+| Óli | 3 | 0 |  |
+| Olla | 2 | 0 |  |
+| Olli | 4 | 0 |  |
+| Ólôf | 7 | 0 |  |
+| Ólôfar | 2 | 0 |  |
+| Ólôfu | 1 | 0 |  |
+| Ómun | 1 | 0 |  |
+| Óneisi | 1 | 0 |  |
+| Óníðing | 2 | 0 |  |
+| Ónn | 4 | 0 |  |
+| Ónæm | 5 | 0 | Ónæm (3), Ónæmr (2) |
+| Ónæms | 1 | 0 |  |
+| Orka | 1 | 0 |  |
+| Orkhaug | 1 | 0 |  |
+| Orma | 2 | 0 |  |
+| Ormarr | 5 | 1 | Ormarr (4), Ormar (2) |
+| Ormgeirr | 2 | 0 | Ormgeirr (1), Ormgeir (1) |
+| Ormhildr | 1 | 0 |  |
+| Ormi | 1 | 0 |  |
+| Ormika | 1 | 0 |  |
+| Ormr | 12 | 0 | Ormr (8), Orm (4) |
+| Ormríkr | 1 | 0 |  |
+| Orms | 2 | 0 |  |
+| Ormsteinssonr | 1 | 0 |  |
+| Ormulf | 1 | 0 |  |
+| Órnesi | 1 | 0 |  |
+| Orra | 1 | 0 |  |
+| Orri | 1 | 0 |  |
+| Orrosta | 1 | 0 |  |
+| Orrostr | 1 | 0 |  |
+| Órœkja | 9 | 0 |  |
+| Órœkju | 3 | 1 |  |
+| osaoiar | 1 | 0 |  |
+| osi | 1 | 0 |  |
+| Ósníkinn | 6 | 0 | Ósníkinn (4), Ósníkin (2) |
+| Óspaka | 1 | 0 |  |
+| Óspaki | 1 | 0 |  |
+| Óspakr | 3 | 0 | Óspakr (2), Óspak (1) |
+| Ósríkr | 1 | 0 |  |
+| Óstarki | 1 | 0 |  |
+| Ósyrg | 2 | 0 |  |
+| Ótama | 1 | 0 |  |
+| Ótamr | 1 | 0 |  |
+| Otheim | 1 | 0 |  |
+| Othem | 1 | 0 |  |
+| Otr | 2 | 0 |  |
+| Ótryggr | 11 | 2 | Ótryggr (8), Ótrygg (5) |
+| Ótryggs | 1 | 0 |  |
+| Ótryggva | 1 | 0 |  |
+| Óttarr | 11 | 2 | Óttarr (11), Óttar (2) |
+| Óttars | 1 | 0 |  |
+| Óttu | 1 | 0 |  |
+| Oxi | 1 | 0 |  |
+| Óþvegin | 3 | 0 | Óþvegin (2), Óþveginn (1) |
+| Óþvegins | 1 | 0 |  |
+| Pái | 5 | 1 |  |
+| Pálín | 1 | 0 |  |
+| Páll | 7 | 0 |  |
+| Palni | 1 | 0 |  |
+| Paraclitus | 1 | 0 |  |
+| Parvel | 1 | 0 |  |
+| Patrik | 1 | 0 |  |
+| Pauli | 1 | 0 |  |
+| Paulus | 3 | 0 |  |
+| Pétar | 10 | 0 |  |
+| Pétars | 2 | 0 |  |
+| Péto | 1 | 1 |  |
+| Pétr | 19 | 1 |  |
+| Pétri | 1 | 0 |  |
+| Petronilla | 1 | 0 |  |
+| Petrus | 7 | 0 |  |
+| Philippus | 1 | 0 |  |
+| Philomena | 1 | 0 |  |
+| Pípari | 1 | 1 |  |
+| Prestr | 1 | 0 |  |
+| Primi | 1 | 0 |  |
+| Processi | 1 | 0 |  |
+| Pæsel | 1 | 0 |  |
+| Raðars | 1 | 0 |  |
+| Ráðborgar | 1 | 0 |  |
+| Ráðspaka | 1 | 0 |  |
+| Ráðulfr | 1 | 0 |  |
+| Ráðulfs | 1 | 0 |  |
+| Ráðþjalfr | 1 | 0 |  |
+| Rafael | 3 | 1 |  |
+| Raggi | 1 | 0 |  |
+| Ragn | 2 | 0 |  |
+| Ragna | 8 | 0 |  |
+| Ragnarr | 7 | 0 | Ragnarr (4), Ragnar (3) |
+| Ragnarssonar | 1 | 0 |  |
+| Ragnbjôrg | 1 | 0 |  |
+| Ragnbjôrn | 1 | 0 |  |
+| Ragnelfi | 1 | 0 |  |
+| Ragnelfr | 1 | 0 |  |
+| Ragnfastr | 12 | 0 | Ragnfastr (8), Ragnfast (4) |
+| Ragnfríðar | 2 | 0 |  |
+| Ragnfríði | 1 | 0 |  |
+| Ragnfríðr | 6 | 0 |  |
+| Ragnhildar | 1 | 0 |  |
+| Ragnhildi | 2 | 0 |  |
+| Ragnhildr | 8 | 1 |  |
+| Ragnhildu | 1 | 0 |  |
+| Ragni | 3 | 0 |  |
+| Ragnvaldr | 8 | 1 | Ragnvaldr (5), Ragnvald (4) |
+| Ragnvalds | 1 | 0 |  |
+| Ragnvaldsarfa | 1 | 0 |  |
+| Ragnvé | 2 | 1 |  |
+| Ragnviðr | 2 | 0 |  |
+| Ragnvôr | 1 | 0 |  |
+| Ragnþrúðr | 1 | 0 |  |
+| Raguel | 1 | 0 |  |
+| Rambi | 1 | 0 |  |
+| Ránar | 1 | 0 |  |
+| Randr | 2 | 0 |  |
+| Randulfr | 1 | 0 |  |
+| Randvé | 3 | 0 |  |
+| Randviðs | 1 | 0 |  |
+| Rang | 1 | 0 |  |
+| Ranga | 2 | 0 |  |
+| Rangsarve | 1 | 0 |  |
+| Rann | 1 | 0 |  |
+| Rannveig | 10 | 0 |  |
+| ranuiþi | 1 | 0 |  |
+| Raphael | 2 | 0 |  |
+| Rasi | 1 | 0 |  |
+| Rasmus | 1 | 0 |  |
+| Rauða | 3 | 0 |  |
+| Rauð-Ballir | 1 | 0 |  |
+| Rauði | 2 | 0 |  |
+| Rauðingr | 1 | 0 |  |
+| Rauðkár | 1 | 0 |  |
+| Rauðlitr | 1 | 0 |  |
+| Rauðr | 8 | 0 |  |
+| Rauðu | 1 | 0 |  |
+| Rauðumskjalda | 1 | 0 |  |
+| Rauðusjó | 1 | 0 |  |
+| Raumr | 1 | 0 |  |
+| Raunijaz | 1 | 0 |  |
+| Rauningi | 1 | 0 |  |
+| Rawsijo | 1 | 0 |  |
+| Refr | 2 | 0 | Refr (1), Ref (1) |
+| Reginmóð | 2 | 0 |  |
+| Reginmund | 1 | 0 |  |
+| Reginn | 1 | 0 |  |
+| Regis | 1 | 0 |  |
+| Reiðubúin | 1 | 0 |  |
+| Reið-Viðurr | 1 | 0 |  |
+| Reif | 2 | 0 |  |
+| Rekkr | 3 | 0 |  |
+| Ribbi | 1 | 0 |  |
+| ribut | 1 | 0 |  |
+| Ricarþ | 1 | 0 |  |
+| Ridanäs | 1 | 0 |  |
+| Riðanes | 1 | 0 |  |
+| rifata | 1 | 0 |  |
+| Rikarðr | 1 | 0 |  |
+| Ríkhvatr | 1 | 0 |  |
+| Ríki | 3 | 0 |  |
+| Rikin | 1 | 0 |  |
+| Ríkr | 2 | 0 |  |
+| Ríkulfr | 1 | 0 |  |
+| Ríkvé | 1 | 0 |  |
+| Ríkviðr | 4 | 0 |  |
+| Ringheim | 1 | 0 |  |
+| Ringi | 1 | 0 |  |
+| Ringome | 1 | 0 |  |
+| Rings | 1 | 0 |  |
+| Risalandi | 1 | 0 |  |
+| risbiik | 1 | 0 |  |
+| riuiþr | 1 | 0 |  |
+| Rjóði | 1 | 0 |  |
+| r--nuktr | 1 | 0 |  |
+| Robbenarve | 1 | 0 |  |
+| Rodmarsarve | 1 | 0 |  |
+| Rofsteini | 1 | 0 |  |
+| Rogalandi | 1 | 0 |  |
+| Róghvat | 1 | 0 |  |
+| roini | 1 | 0 |  |
+| Roma | 1 | 0 |  |
+| Romfarari | 1 | 0 |  |
+| Rone | 1 | 0 |  |
+| Rónni | 1 | 0 |  |
+| Ronum | 1 | 0 |  |
+| Ronviðr | 1 | 0 |  |
+| Róta | 1 | 0 |  |
+| Rotarve | 1 | 0 |  |
+| ru | 1 | 0 |  |
+| Ruðsmôrkum | 1 | 1 |  |
+| Ruffus | 1 | 0 |  |
+| Rufus | 5 | 0 |  |
+| Rugga | 1 | 0 |  |
+| Ruggi | 2 | 0 |  |
+| Ruggu | 1 | 0 |  |
+| Rugulfs | 1 | 0 |  |
+| rulur | 1 | 0 |  |
+| Rúmfari | 2 | 0 |  |
+| Rún | 1 | 0 |  |
+| Rúna | 8 | 0 |  |
+| Rúnarr | 1 | 0 |  |
+| Rúnasteinn | 1 | 0 |  |
+| Runbý | 1 | 0 |  |
+| Rúnfastr | 4 | 0 | Rúnfastr (2), Rúnfast (2) |
+| Rúnfríðr | 3 | 0 |  |
+| Rúni | 3 | 0 |  |
+| Rúnu | 1 | 0 |  |
+| Rúnulf | 3 | 0 | Rúnulf (2), Rúnulfr (1) |
+| Rúnulfs | 1 | 0 |  |
+| Rúnviðr | 1 | 0 |  |
+| Rute | 1 | 0 |  |
+| Ruti | 1 | 0 |  |
+| ruþur | 1 | 0 |  |
+| ry | 1 | 0 |  |
+| Ryðingr | 1 | 0 |  |
+| Ryggju | 1 | 0 |  |
+| Rysja | 1 | 0 |  |
+| Rysju | 1 | 0 |  |
+| Ryskr | 1 | 0 |  |
+| Ræfils | 1 | 0 |  |
+| Rôgnu | 1 | 0 |  |
+| Rôgnvaldr | 1 | 0 |  |
+| Rœkju | 1 | 0 |  |
+| Røkkva | 1 | 0 |  |
+| Rôskulf | 1 | 0 |  |
+| Rôskviðr | 1 | 0 |  |
+| S | 1 | 0 |  |
+| Sabaoth | 4 | 0 |  |
+| Sadai | 1 | 0 |  |
+| sairR | 1 | 0 |  |
+| Salgerðr | 1 | 0 |  |
+| Salhaugum | 1 | 0 |  |
+| Saligastiz | 1 | 0 |  |
+| Salmund | 2 | 0 | Salmund (1), Salmundr (1) |
+| Salome | 1 | 0 |  |
+| Salsa | 1 | 0 |  |
+| Sámr | 4 | 0 | Sámr (3), Sám (1) |
+| Samson | 3 | 0 |  |
+| Sancte | 1 | 0 |  |
+| Sancti | 1 | 0 |  |
+| Sanctus | 1 | 0 |  |
+| Sandarr | 4 | 1 |  |
+| Sandey | 1 | 0 |  |
+| Sandulfr | 1 | 0 |  |
+| Sankta | 6 | 1 |  |
+| Saralu | 1 | 0 |  |
+| Sasgerðr | 1 | 0 |  |
+| Sassurr | 8 | 0 | Sassurr (6), Sassur (2) |
+| Sassurs | 1 | 0 |  |
+| Sauðr | 1 | 0 |  |
+| Sawilagaz | 1 | 0 |  |
+| Saxa | 5 | 0 |  |
+| Saxi | 10 | 1 |  |
+| Saxlandi | 1 | 0 |  |
+| Sebaoth | 1 | 1 |  |
+| Sebba | 1 | 0 |  |
+| Sefa | 1 | 0 |  |
+| Seimgala | 1 | 0 |  |
+| Seinn | 11 | 1 | Seinn (11), Sein (1) |
+| Selanus | 1 | 0 |  |
+| Selion | 1 | 0 |  |
+| Selshôfuð | 1 | 0 |  |
+| semper | 1 | 0 |  |
+| Serapion | 3 | 0 |  |
+| Serða | 1 | 0 |  |
+| Serðu | 1 | 0 |  |
+| Sess | 1 | 0 |  |
+| Sessi | 1 | 0 |  |
+| Sétta | 1 | 0 |  |
+| Seybjôrn | 3 | 0 |  |
+| Seygeir | 1 | 0 |  |
+| Seyvarar | 1 | 1 |  |
+| siab | 1 | 0 |  |
+| Sibba | 15 | 1 |  |
+| Sibbi | 16 | 0 |  |
+| Sibbu | 1 | 0 |  |
+| Sidrak | 2 | 0 |  |
+| Síðu | 1 | 0 |  |
+| Sig | 5 | 1 |  |
+| Sigbaldr | 1 | 0 |  |
+| Sigbjôrg | 1 | 0 |  |
+| Sigbjôrn | 20 | 1 |  |
+| Sigborg | 1 | 0 |  |
+| Sigdali | 1 | 0 |  |
+| Sigdan | 1 | 0 |  |
+| Sigdjarf | 6 | 1 | Sigdjarf (4), Sigdjarfr (3) |
+| Sigfasta | 1 | 0 |  |
+| Sigfastr | 22 | 0 | Sigfastr (14), Sigfast (8) |
+| Sigfreð | 1 | 0 |  |
+| Sigfríðr | 2 | 0 |  |
+| Sigfrøðr | 1 | 0 |  |
+| Sigfúss | 4 | 0 | Sigfúss (3), Sigfús (1) |
+| Siggeirr | 2 | 0 | Siggeirr (1), Siggeir (1) |
+| Siggi | 2 | 0 |  |
+| Siggunnar | 1 | 0 |  |
+| Sighjalmr | 5 | 0 | Sighjalmr (4), Sighjalm (1) |
+| Sighvatr | 17 | 0 | Sighvatr (11), Sighvat (6) |
+| Sighvats | 1 | 0 |  |
+| Sigihaþuz | 1 | 0 |  |
+| Sigimarz | 1 | 0 |  |
+| Sigketil | 1 | 0 |  |
+| Siglaug | 2 | 0 |  |
+| Sigleifr | 2 | 0 |  |
+| Sigleikr | 1 | 0 |  |
+| Sigleiksarfa | 1 | 0 |  |
+| Sigmarar | 1 | 0 |  |
+| Sigmarr | 3 | 0 |  |
+| Sigmóðr | 1 | 0 |  |
+| Sigmundar | 2 | 0 |  |
+| Sigmundarsonr | 1 | 0 |  |
+| Sigmundr | 12 | 1 | Sigmundr (9), Sigmund (4) |
+| Signjóta | 1 | 0 |  |
+| Signjótr | 6 | 0 |  |
+| Signý | 1 | 0 |  |
+| Sigolfr | 1 | 0 |  |
+| Sigrdríf | 1 | 0 |  |
+| Sigreifr | 20 | 1 | Sigreifr (13), Sigreif (8) |
+| Sigríðar | 3 | 0 |  |
+| Sigríði | 2 | 0 |  |
+| Sigríðr | 30 | 0 | Sigríðr (29), Sigríð (1) |
+| Sigríðu | 1 | 0 |  |
+| Sigríkr | 1 | 0 |  |
+| Sigrún | 2 | 0 |  |
+| Sigrøð | 5 | 0 | Sigrøð (3), Sigrøðr (2) |
+| Sigrøðar | 3 | 0 |  |
+| Sigsarve | 1 | 0 |  |
+| Sigsteinn | 20 | 0 | Sigsteinn (11), Sigstein (9) |
+| Sigsteins | 1 | 0 |  |
+| Sigtrygg | 7 | 0 | Sigtrygg (4), Sigtryggr (3) |
+| Sigtryggs | 5 | 0 |  |
+| Sigtúnum | 1 | 0 |  |
+| Sigulf | 2 | 0 | Sigulf (1), Sigulfr (1) |
+| Sigunn | 1 | 0 |  |
+| Sigunnar | 1 | 0 |  |
+| Sigurðar | 1 | 0 |  |
+| Sigurðarsonr | 1 | 0 |  |
+| Sigurðr | 28 | 7 | Sigurðr (32), Sigurð (3) |
+| Sigvalda | 2 | 0 |  |
+| Sigvaldi | 4 | 0 |  |
+| Sigvaldr | 2 | 0 |  |
+| Sigvaldstôðum | 1 | 0 |  |
+| Sigvarar | 1 | 1 |  |
+| Sigvarðr | 4 | 0 |  |
+| Sigviðr | 21 | 0 | Sigviðr (18), Sigvið (3) |
+| Sigvôr | 2 | 0 |  |
+| Sigþjóð | 2 | 0 |  |
+| Sigþjóðar | 1 | 0 |  |
+| Sigþór | 1 | 0 |  |
+| Sigþorn | 3 | 0 |  |
+| Sigþrúðr | 5 | 0 | Sigþrúðr (4), Sigþrúð (1) |
+| si-igr | 1 | 0 |  |
+| sik | 2 | 0 | sik (1), Sík (1) |
+| sikasuaio | 1 | 0 |  |
+| Sikijaz | 1 | 0 |  |
+| Sikum | 1 | 0 |  |
+| Silfrsmiðs | 1 | 0 |  |
+| Silkifuð | 1 | 0 |  |
+| Silla | 1 | 1 |  |
+| Silu | 1 | 0 |  |
+| si--m | 1 | 0 |  |
+| Simeon | 1 | 0 |  |
+| Simi | 1 | 0 |  |
+| Símon | 8 | 0 | Símon (6), Simon (2) |
+| Simonis | 1 | 0 |  |
+| Simpa | 2 | 0 |  |
+| Símun | 2 | 0 |  |
+| Símunardóttir | 1 | 0 |  |
+| Sinarr | 2 | 0 | Sinarr (1), Sinar (1) |
+| Sindrasonar | 1 | 0 |  |
+| Sini | 1 | 0 |  |
+| Sínkr | 2 | 1 |  |
+| sinn | 1 | 0 |  |
+| Síra | 2 | 0 |  |
+| sirhun | 1 | 0 |  |
+| Sisiganduz | 1 | 0 |  |
+| Sjafi | 1 | 0 |  |
+| Sjalfa | 1 | 0 |  |
+| Sjalfi | 2 | 0 |  |
+| sjalfr | 1 | 0 |  |
+| Sjali | 1 | 0 |  |
+| Sjaundi | 1 | 0 |  |
+| Sjóli | 1 | 0 |  |
+| Sjólundi | 1 | 0 |  |
+| Sjónheim | 1 | 0 |  |
+| Sjonhem | 1 | 0 |  |
+| Skaga | 2 | 0 |  |
+| Skagi | 3 | 0 |  |
+| Skakka | 2 | 0 |  |
+| Skakki | 1 | 0 |  |
+| Skakli | 2 | 0 |  |
+| Skald | 6 | 1 |  |
+| Skaldi | 2 | 0 | Skaldi (1), Skáldi (1) |
+| Skalli | 2 | 0 |  |
+| Skalmi | 1 | 0 |  |
+| Skammhals | 3 | 0 |  |
+| Skáney | 2 | 0 |  |
+| Skara | 1 | 0 |  |
+| Skarða | 4 | 0 |  |
+| Skarði | 3 | 0 |  |
+| Skarf | 2 | 0 |  |
+| Skári | 1 | 0 |  |
+| Skarpa | 1 | 0 |  |
+| Skaufa | 1 | 0 |  |
+| Skáungr | 1 | 0 |  |
+| Skeggi | 2 | 1 |  |
+| Sker | 1 | 0 |  |
+| Skera | 1 | 0 |  |
+| Skerði | 2 | 0 |  |
+| Skerlaug | 1 | 0 |  |
+| Skinþa-Leubaz | 1 | 0 |  |
+| Skírlaug | 1 | 0 |  |
+| skiu | 2 | 0 | skiu (1), Skíu (1) |
+| Skjaldar | 1 | 0 |  |
+| Skjalgi | 1 | 0 |  |
+| Skjalm | 1 | 0 |  |
+| Skjôldulfr | 1 | 0 |  |
+| Skóga | 1 | 0 |  |
+| Skógi | 1 | 0 |  |
+| Skógr | 1 | 0 |  |
+| Skolhamri | 2 | 0 |  |
+| Skopti | 1 | 0 |  |
+| Skorpa | 2 | 0 |  |
+| Skotlakr | 1 | 0 |  |
+| Skraddari | 1 | 0 |  |
+| Skrauta | 1 | 0 |  |
+| Skrimi | 1 | 0 |  |
+| Skúla | 1 | 0 |  |
+| Skúli | 2 | 0 |  |
+| Skygna | 1 | 0 |  |
+| Skyttingi | 1 | 0 |  |
+| Slagva | 1 | 0 |  |
+| Slagvér | 2 | 0 |  |
+| Slagvi | 1 | 0 |  |
+| slaka | 1 | 0 |  |
+| Sleðabrú | 1 | 0 |  |
+| Sleikir | 1 | 0 |  |
+| Sleyr | 1 | 0 |  |
+| Slítagôrðum | 1 | 0 |  |
+| Slitegårds | 1 | 0 |  |
+| Sljór | 1 | 0 |  |
+| Slóða | 4 | 2 |  |
+| Slóði | 6 | 0 |  |
+| Slóru | 2 | 0 |  |
+| Slúta | 1 | 0 |  |
+| Slyðru | 2 | 0 |  |
+| Smiðr | 12 | 1 | Smiðr (10), Smið (3) |
+| Smiðs | 1 | 0 |  |
+| Snari | 3 | 0 |  |
+| snatuson | 1 | 0 |  |
+| Snerribjôrn | 1 | 0 |  |
+| Snerrir | 3 | 0 |  |
+| Snerris | 1 | 0 |  |
+| Snjólaug | 1 | 0 |  |
+| Snjóvalds | 1 | 0 |  |
+| Snoder | 3 | 0 |  |
+| Snoðu | 3 | 0 |  |
+| Snorrir | 1 | 0 |  |
+| Snotastôðum | 1 | 0 |  |
+| Snæbjôrn | 1 | 0 |  |
+| Snægrindum | 1 | 0 |  |
+| Snögrinde | 1 | 0 |  |
+| soi->þóri | 1 | 0 |  |
+| Solfa | 1 | 0 |  |
+| Solfu | 1 | 0 |  |
+| Sómu | 1 | 0 |  |
+| Sona | 3 | 0 |  |
+| Soni | 5 | 1 |  |
+| Soria | 1 | 0 |  |
+| Sót | 1 | 0 |  |
+| Sóta | 5 | 0 |  |
+| Soter | 2 | 0 |  |
+| Sóti | 4 | 0 |  |
+| Sótrangi | 1 | 0 |  |
+| Spaka | 1 | 0 |  |
+| Spakr | 2 | 0 |  |
+| Spalkleysu | 1 | 0 |  |
+| Spán | 1 | 0 |  |
+| Spars | 1 | 0 |  |
+| Sperlu | 1 | 0 |  |
+| Spinku | 1 | 0 |  |
+| Spjall | 1 | 0 |  |
+| Spjalla | 1 | 0 |  |
+| Spjallboða | 4 | 1 |  |
+| Spjallboði | 5 | 0 |  |
+| Spjót | 1 | 0 |  |
+| Spjóti | 3 | 0 |  |
+| Spraka | 2 | 0 |  |
+| Spraki | 1 | 0 |  |
+| Spôrr | 1 | 0 |  |
+| Spôrs | 1 | 0 |  |
+| St | 1 | 0 |  |
+| Stafangri | 1 | 0 |  |
+| Stafi | 1 | 0 |  |
+| Stainawarijaz | 1 | 0 |  |
+| Staki | 1 | 0 |  |
+| Stála | 1 | 0 |  |
+| Stari | 1 | 0 |  |
+| Starki | 1 | 0 |  |
+| Starr | 1 | 0 |  |
+| Starri | 1 | 0 |  |
+| Steinarr | 4 | 1 | Steinarr (3), Steinar (2) |
+| Steinars | 1 | 0 |  |
+| Steinbjôrg | 3 | 0 |  |
+| Steinbjôrn | 9 | 0 |  |
+| steinbrú | 1 | 0 |  |
+| Steinfastr | 3 | 0 |  |
+| Steinfríði | 1 | 0 |  |
+| Steinfríðr | 3 | 0 |  |
+| Steingísl | 1 | 0 |  |
+| Steingrímr | 1 | 0 |  |
+| Steinhildr | 3 | 0 |  |
+| Steinkel | 4 | 0 | Steinkel (3), Steinkell (1) |
+| Steinketill | 1 | 0 |  |
+| Steinlaug | 1 | 0 |  |
+| Steinn | 32 | 1 | Steinn (20), Stein (13) |
+| Steins | 4 | 0 |  |
+| Steinu | 2 | 0 |  |
+| Steinulfr | 4 | 0 | Steinulfr (3), Steinulf (1) |
+| Steinunn | 1 | 0 |  |
+| Steinþórir | 1 | 0 |  |
+| stibkarl | 1 | 0 |  |
+| Stigr | 1 | 0 |  |
+| stikit | 1 | 0 |  |
+| Stílingr | 1 | 1 |  |
+| Stillingr | 1 | 1 |  |
+| Stóðbjôrn | 3 | 1 | Stóðbjôrn (3), Stoðbjôrn (1) |
+| Stóði | 1 | 0 |  |
+| Stóðkell | 3 | 0 |  |
+| Stóra | 2 | 0 |  |
+| Stórulfssonr | 1 | 0 |  |
+| Streitinn | 1 | 0 |  |
+| Stúfs | 1 | 0 |  |
+| sturkr | 1 | 0 |  |
+| Stybbi | 1 | 0 |  |
+| Styðingr | 3 | 0 | Styðingr (2), Styðing (1) |
+| Styfjaldr | 5 | 0 | Styfjaldr (3), Styfjald (2) |
+| Styfjalds | 1 | 0 |  |
+| Styggr | 1 | 0 |  |
+| Stynbjôrn | 1 | 0 |  |
+| Stynfríðr | 1 | 0 |  |
+| Styr | 3 | 0 | Styr (2), Styrr (1) |
+| Styrbjôrn | 11 | 0 |  |
+| Styrfastr | 2 | 0 |  |
+| Stýrimann | 1 | 0 |  |
+| Styrkárr | 6 | 0 | Styrkárr (4), Styrkár (2) |
+| Styrlakr | 1 | 0 |  |
+| Styrlaugr | 3 | 0 |  |
+| Stœðingr | 3 | 0 | Stœðingr (2), Stœðing (1) |
+| Suders | 1 | 0 |  |
+| Suðr | 1 | 0 |  |
+| Suðrbý | 3 | 0 |  |
+| sufar | 1 | 1 |  |
+| suhikierf | 1 | 0 |  |
+| Súlka | 1 | 0 |  |
+| Sullr | 1 | 0 |  |
+| Sumarliði | 3 | 0 |  |
+| sumuR | 1 | 0 |  |
+| Sundrál | 1 | 0 |  |
+| Sundre | 1 | 0 |  |
+| Sundru | 1 | 0 |  |
+| Suni | 1 | 0 |  |
+| Sunnhvatr | 1 | 0 |  |
+| Sunnviðr | 1 | 0 |  |
+| Suno | 1 | 0 |  |
+| Súrbein | 1 | 0 |  |
+| Sútari | 1 | 0 |  |
+| sutlak | 1 | 0 |  |
+| Sváfi | 2 | 0 |  |
+| Svali | 1 | 0 |  |
+| Svanabý | 1 | 0 |  |
+| Svanr | 1 | 0 |  |
+| Svaraldr | 1 | 0 |  |
+| Svart | 4 | 0 | Svart (2), Svartr (2) |
+| Svarta | 2 | 0 |  |
+| Svartabrandr | 1 | 0 |  |
+| Svarthôfða | 11 | 1 |  |
+| Svarthôfði | 6 | 0 |  |
+| Svarti | 1 | 0 |  |
+| Svartung | 1 | 0 |  |
+| Sveina | 3 | 0 |  |
+| Sveinaldi | 1 | 0 |  |
+| Sveinaldr | 1 | 0 |  |
+| Sveingeirr | 1 | 0 |  |
+| Sveinheiðr | 1 | 0 |  |
+| Sveini | 5 | 0 |  |
+| Sveinki | 1 | 0 |  |
+| Sveinn | 182 | 7 | Sveinn (126), Svein (63) |
+| Sveins | 10 | 1 |  |
+| Sveinssonr | 1 | 0 |  |
+| Sveinu | 1 | 0 |  |
+| Sveinungr | 3 | 0 | Sveinungr (2), Sveinung (1) |
+| Svell | 1 | 0 |  |
+| Sven | 1 | 0 |  |
+| Sverðolfr | 1 | 0 |  |
+| Sverkir | 3 | 0 |  |
+| Sverra | 2 | 0 |  |
+| Sverri | 2 | 0 |  |
+| Svertingr | 3 | 0 | Svertingr (2), Sverting (1) |
+| Svíðanda | 1 | 1 | Svíðanda (1), Sviðanda (1) |
+| Sviðbalka | 1 | 0 |  |
+| Sviðbalki | 1 | 0 |  |
+| Sviðings | 1 | 0 |  |
+| Svineburg | 1 | 0 |  |
+| Svíu | 1 | 0 |  |
+| Svíþjóðu | 4 | 0 |  |
+| Svôlunesi | 1 | 0 |  |
+| Swabaharjaz | 1 | 0 |  |
+| Swarta | 1 | 0 |  |
+| Sylfa | 3 | 1 |  |
+| Sylfu | 2 | 0 |  |
+| Syrkell | 1 | 0 |  |
+| Systu | 1 | 0 |  |
+| Syvurr | 1 | 0 |  |
+| Sæbjôrn | 7 | 0 |  |
+| Sædjarf | 2 | 0 |  |
+| Sæ-Eyndr | 1 | 0 |  |
+| Sæfa | 3 | 0 |  |
+| Sæfari | 1 | 0 |  |
+| Sæfu | 1 | 0 |  |
+| Sæfús | 1 | 0 |  |
+| Sægeir | 2 | 1 | Sægeir (2), Sægeirr (1) |
+| Sægrímr | 3 | 0 |  |
+| Sægunni | 1 | 0 |  |
+| Sælafr | 1 | 0 |  |
+| Sæmundr | 3 | 0 | Sæmundr (2), Sæmund (1) |
+| Sæmunds | 1 | 0 |  |
+| Særða | 1 | 0 |  |
+| Særeif | 4 | 0 | Særeif (3), Særeifr (1) |
+| Særla | 1 | 0 |  |
+| Sæulfr | 2 | 0 |  |
+| Sævar | 1 | 0 |  |
+| Sævini | 2 | 0 |  |
+| Sæþórr | 1 | 0 |  |
+| Söderby | 1 | 0 |  |
+| Söderbys | 1 | 0 |  |
+| Sœgsa | 2 | 0 |  |
+| Sôlsi | 1 | 0 |  |
+| Sôlva | 4 | 0 |  |
+| Sôlveig | 1 | 0 |  |
+| Sôlvi | 1 | 0 |  |
+| Sôlvu | 1 | 0 |  |
+| Sôndum | 1 | 0 |  |
+| Sørkell | 1 | 0 |  |
+| Sørkviðr | 1 | 0 |  |
+| Sørkvir | 1 | 0 |  |
+| Sôssur | 1 | 0 |  |
+| Tábý | 5 | 0 |  |
+| Taf | 1 | 0 |  |
+| Tafeistalandi | 1 | 1 |  |
+| Tafeistr | 3 | 0 | Tafeistr (2), Tafeist (1) |
+| Tafsa | 1 | 0 |  |
+| taist | 1 | 0 |  |
+| Taitz | 1 | 0 |  |
+| Takn | 1 | 0 |  |
+| Talijo | 1 | 0 |  |
+| Tanulu | 1 | 0 |  |
+| Tárr | 1 | 2 | Tárr (1), Tár (1), Tarr (1) |
+| Társtôðum | 1 | 1 |  |
+| Tassi | 1 | 0 |  |
+| Tast | 1 | 0 |  |
+| Tata | 1 | 0 |  |
+| Tati | 1 | 0 |  |
+| tatr | 1 | 0 |  |
+| Tatta | 1 | 0 |  |
+| Tatti | 1 | 0 |  |
+| tayr | 1 | 0 |  |
+| Terea | 1 | 0 |  |
+| Thomás | 3 | 0 |  |
+| Thomásmessu | 1 | 0 |  |
+| Tíðfríðr | 2 | 0 | Tíðfríðr (1), Tíðfríð (1) |
+| Tíðkuma | 2 | 0 |  |
+| Tíðkumi | 11 | 0 |  |
+| Tíráðr | 1 | 0 |  |
+| Tjôrva | 1 | 0 |  |
+| Tjôrvi | 2 | 1 |  |
+| Tobba | 3 | 0 |  |
+| Tobbi | 4 | 1 |  |
+| Tobias | 1 | 0 |  |
+| Toco | 1 | 0 |  |
+| Toðrwite | 1 | 0 |  |
+| Tófa | 22 | 0 |  |
+| Tófi | 21 | 1 |  |
+| Tófu | 2 | 0 |  |
+| Tóka | 23 | 4 |  |
+| Tóki | 28 | 2 |  |
+| Tóku | 1 | 0 |  |
+| Tóla | 5 | 0 |  |
+| Tóli | 8 | 1 |  |
+| Tólir | 5 | 1 |  |
+| Tolkr | 1 | 0 |  |
+| Tomás | 1 | 0 |  |
+| Tonna | 4 | 0 |  |
+| Tonnu | 2 | 0 |  |
+| Tópi | 1 | 0 |  |
+| Tóra | 2 | 0 |  |
+| Torfi | 1 | 0 |  |
+| Tosta | 10 | 1 |  |
+| Tosti | 15 | 0 |  |
+| Tóta | 1 | 0 |  |
+| Toti | 1 | 0 |  |
+| Trandils | 1 | 0 |  |
+| Trani | 2 | 0 |  |
+| Trjónn | 1 | 0 |  |
+| Trúfastr | 1 | 0 |  |
+| Trygg | 1 | 0 |  |
+| Tryggulf | 1 | 0 |  |
+| Tryggvi | 1 | 0 |  |
+| Tubba | 2 | 0 |  |
+| Tubbi | 3 | 1 |  |
+| tuguta | 1 | 0 |  |
+| tuku | 1 | 0 |  |
+| Tuli | 1 | 0 |  |
+| Tulkr | 1 | 0 |  |
+| Tuma | 7 | 1 |  |
+| Tumi | 5 | 0 |  |
+| Tumma | 3 | 1 |  |
+| Tummi | 3 | 0 |  |
+| tuna | 1 | 0 |  |
+| Tunna | 2 | 0 |  |
+| Tunnu | 1 | 0 |  |
+| Tveggja | 2 | 0 |  |
+| Týr | 1 | 0 |  |
+| Tœk | 1 | 0 |  |
+| ualu | 1 | 0 |  |
+| Ubbi | 3 | 0 |  |
+| Uddr | 1 | 0 |  |
+| uefut | 1 | 0 |  |
+| uekaltr | 1 | 0 |  |
+| úfeigr | 1 | 0 |  |
+| Uffi | 1 | 1 |  |
+| Uggs | 1 | 0 |  |
+| uha | 1 | 0 |  |
+| ui | 1 | 0 |  |
+| uika | 1 | 0 |  |
+| uiki | 1 | 0 |  |
+| uilit | 1 | 0 |  |
+| ui--n | 1 | 0 |  |
+| uinþa | 1 | 0 |  |
+| uisþi | 1 | 0 |  |
+| uitan | 1 | 0 |  |
+| ukiþila | 1 | 0 |  |
+| uku | 1 | 0 |  |
+| ukuþi | 1 | 0 |  |
+| Ulfdôlum | 1 | 0 |  |
+| Ulfeyju | 1 | 0 |  |
+| Ulfgautr | 1 | 0 |  |
+| Ulfgauts | 1 | 0 |  |
+| Ulfgeirr | 2 | 0 |  |
+| Ulfgeirssonar | 1 | 0 |  |
+| Ulfheðinn | 2 | 0 | Ulfheðinn (1), Ulfheðin (1) |
+| Ulfhildr | 1 | 0 |  |
+| Ulfhvatr | 1 | 0 |  |
+| Ulfhôss | 1 | 0 |  |
+| Ulfi | 2 | 0 |  |
+| Ulfkell | 15 | 0 | Ulfkell (14), Ulfkel (1) |
+| Ulfketill | 2 | 0 | Ulfketill (1), Ulfketil (1) |
+| Ulfljót | 3 | 0 | Ulfljót (1), Ulfljótr (1), Úlfljót (1) |
+| Ulfnoð | 1 | 0 |  |
+| Ulfr | 83 | 4 | Ulfr (53), Ulf (34) |
+| Ulfríkr | 5 | 0 | Ulfríkr (3), Ulfrík (2) |
+| Ulfs | 7 | 0 |  |
+| Ulfshala | 1 | 0 |  |
+| Ulfsundi | 1 | 0 |  |
+| Ulfvið | 1 | 0 |  |
+| ul---li | 1 | 0 |  |
+| Ulvshale | 1 | 0 |  |
+| uma-ut | 1 | 0 |  |
+| umun | 1 | 0 |  |
+| Una | 3 | 1 |  |
+| Unar | 2 | 0 |  |
+| Únáss | 1 | 0 |  |
+| Undrlaug | 2 | 0 |  |
+| Undrlaugar | 1 | 0 |  |
+| Unga-Ganna | 1 | 0 |  |
+| Ungandiz | 1 | 0 |  |
+| Ungi | 1 | 0 |  |
+| Uni | 4 | 0 |  |
+| Unir | 1 | 0 |  |
+| Unn | 9 | 3 | Unn (6), Un (5), Unnr (1) |
+| Unna | 3 | 1 |  |
+| Unnar | 1 | 0 |  |
+| Unn-Bjúr | 1 | 0 |  |
+| Unnbjôrn | 1 | 0 |  |
+| Unni | 4 | 0 |  |
+| Unnu | 2 | 0 |  |
+| Unnulfr | 4 | 0 | Unnulfr (3), Unnulf (1) |
+| Unnviðr | 1 | 0 |  |
+| Unu | 2 | 0 |  |
+| Unvald | 1 | 0 |  |
+| Unwodz | 1 | 0 |  |
+| Upphlaupr | 1 | 0 |  |
+| Uppsôlum | 2 | 0 |  |
+| Upsal | 1 | 0 |  |
+| u-r>bergi | 1 | 0 |  |
+| Urgude | 1 | 0 |  |
+| Urni | 1 | 0 |  |
+| Ustaholms | 1 | 0 |  |
+| Úteyjum | 1 | 0 |  |
+| Úthlaupr | 1 | 0 |  |
+| Útlagi | 2 | 0 |  |
+| Útlengju | 1 | 0 |  |
+| Utoje | 1 | 0 |  |
+| Úþyrmis | 1 | 0 |  |
+| Vaði | 1 | 0 |  |
+| Vafra | 2 | 0 |  |
+| Vagn | 2 | 0 |  |
+| Vakra | 1 | 0 |  |
+| Vála | 1 | 0 |  |
+| vald | 1 | 0 |  |
+| Valdarr | 1 | 0 |  |
+| Valdinga | 1 | 0 |  |
+| Valdríkr | 1 | 0 |  |
+| Valgarðs | 2 | 0 |  |
+| Valgerðr | 1 | 0 |  |
+| Valkar | 1 | 0 |  |
+| Valr | 1 | 0 |  |
+| Valtóka | 1 | 1 |  |
+| Vámóð | 1 | 0 |  |
+| Vani | 2 | 1 |  |
+| Var | 2 | 0 | Var (1), Varr (1) |
+| Várfeitr | 1 | 0 |  |
+| Vargas | 2 | 0 |  |
+| Varghôss | 2 | 0 |  |
+| Varin | 3 | 0 | Varin (2), Varinn (1) |
+| Varr-Ási | 2 | 0 |  |
+| Vási | 1 | 0 |  |
+| Väskinde | 1 | 0 |  |
+| Västerbys | 1 | 0 |  |
+| Västergårde | 2 | 0 |  |
+| Västerväte | 1 | 0 |  |
+| Vätaburg | 1 | 0 |  |
+| Vatrungum | 1 | 0 |  |
+| Vé | 1 | 0 |  |
+| Vébjôrg | 4 | 2 |  |
+| Vébjôrn | 23 | 2 |  |
+| Véborgum | 1 | 0 |  |
+| Védjarf | 6 | 0 | Védjarf (4), Védjarfr (2) |
+| Veðr | 4 | 0 |  |
+| Veðraldi | 3 | 0 |  |
+| Véelfr | 1 | 0 |  |
+| Véfastr | 16 | 0 | Véfastr (9), Véfast (7) |
+| Véfinn | 1 | 1 |  |
+| Véfríðar | 1 | 0 |  |
+| Véfríðr | 5 | 0 | Véfríðr (4), Véfriðr (1) |
+| Véfrøðar | 1 | 0 |  |
+| Véfrøðr | 1 | 0 |  |
+| Véfúss | 1 | 0 |  |
+| Végautr | 6 | 0 | Végautr (5), Végaut (1) |
+| Végauts | 1 | 0 |  |
+| Végeir | 6 | 0 | Végeir (4), Végeirr (2) |
+| Végerðar | 1 | 0 |  |
+| Végerðr | 2 | 0 |  |
+| Végísl | 4 | 0 |  |
+| Végrím | 1 | 0 |  |
+| Végulla | 1 | 0 |  |
+| Végunnr | 3 | 0 |  |
+| Véhjalmr | 4 | 0 | Véhjalmr (3), Véhjalm (1) |
+| Vékell | 2 | 0 |  |
+| Véketill | 3 | 0 |  |
+| Véleif | 1 | 0 |  |
+| Vémundr | 5 | 0 |  |
+| Vénjót | 7 | 0 | Vénjót (4), Vénjótr (3) |
+| Vermundr | 1 | 0 |  |
+| Verskulf | 1 | 0 |  |
+| Vérún | 1 | 0 |  |
+| Véseta | 2 | 0 |  |
+| Véseti | 14 | 0 |  |
+| Vestbý | 1 | 0 |  |
+| Vésteinn | 12 | 0 | Vésteinn (9), Véstein (3) |
+| Vestkindi | 1 | 0 |  |
+| Vestmund | 1 | 0 |  |
+| Vestrbý | 1 | 0 |  |
+| Vestrgôrðum | 1 | 0 |  |
+| Vestrhvetjum | 1 | 0 |  |
+| Vetaborgum | 1 | 0 |  |
+| Vetr | 2 | 0 |  |
+| Vetrliða | 1 | 0 |  |
+| Véulf | 3 | 0 | Véulf (2), Véulfr (1) |
+| Véulfs | 1 | 0 |  |
+| Véurð | 1 | 0 |  |
+| Viða | 2 | 1 | Viða (2), Víða (1) |
+| Víðarr | 2 | 0 | Víðarr (1), Víðar (1) |
+| Viðbjôrn | 9 | 1 |  |
+| Víðfara | 2 | 0 |  |
+| Víðfari | 2 | 0 |  |
+| Viðfastar | 1 | 0 |  |
+| Víðhugsi | 1 | 0 |  |
+| Viði | 2 | 2 | Viði (2), Víði (2) |
+| Víðihol | 1 | 0 |  |
+| Víðkunnr | 1 | 0 |  |
+| Viðkunnsstôðum | 1 | 0 |  |
+| Viðulfr | 1 | 0 |  |
+| Vífa | 2 | 0 |  |
+| Vífill | 2 | 0 | Vífill (1), Vifill (1) |
+| Víg | 7 | 0 | Víg (4), Vígr (3) |
+| Víga | 3 | 0 |  |
+| Vígbjôrn | 6 | 1 |  |
+| Vígdís | 2 | 0 |  |
+| Vígdísi | 1 | 0 |  |
+| Vígdjarfr | 4 | 0 | Vígdjarfr (3), Vígdjarf (1) |
+| Vígfast | 1 | 0 |  |
+| Víghjalmr | 7 | 0 | Víghjalmr (5), Víghjalm (2) |
+| Vígi | 7 | 2 |  |
+| Vígleikr | 2 | 0 |  |
+| Vígmaðr | 1 | 0 |  |
+| Vígmarr | 5 | 0 | Vígmarr (3), Vígmar (2) |
+| Vígmundar | 1 | 0 |  |
+| Vígmundr | 3 | 1 | Vígmundr (3), Vígmund (1) |
+| Vígnjótr | 2 | 1 |  |
+| Vígsharðr | 1 | 0 |  |
+| Vígulf | 1 | 0 |  |
+| Vígulfi | 1 | 0 |  |
+| Vígulfs | 1 | 0 |  |
+| Vígþorn | 1 | 0 |  |
+| Vík | 2 | 1 | Vík (2), Vik (1) |
+| Víkar | 2 | 0 |  |
+| Vikare | 1 | 0 |  |
+| Víkbý | 2 | 2 |  |
+| Víkhúsum | 1 | 0 |  |
+| Víkingr | 19 | 0 | Víkingr (11), Víking (8) |
+| Víkings | 2 | 0 |  |
+| Víku | 1 | 0 |  |
+| Víkulfs | 1 | 0 |  |
+| Vilhelmus | 1 | 0 |  |
+| Vilhjalmr | 1 | 0 |  |
+| Vilinn | 1 | 1 |  |
+| Viljalms | 1 | 0 |  |
+| Villi | 1 | 0 |  |
+| Villiam | 1 | 0 |  |
+| Vinaman | 1 | 0 |  |
+| Vindey | 1 | 0 |  |
+| Vindr | 1 | 0 |  |
+| Vindö | 1 | 0 |  |
+| Víneyju | 1 | 0 |  |
+| Vinfríðr | 1 | 0 |  |
+| Virðivægr | 1 | 0 |  |
+| Virlandi | 3 | 0 |  |
+| Visborg | 1 | 0 |  |
+| Vitalis | 1 | 0 |  |
+| Vittkarls | 1 | 0 |  |
+| Vivi | 1 | 0 |  |
+| Vráa | 1 | 0 |  |
+| Vraga | 1 | 0 |  |
+| Vrái | 1 | 0 |  |
+| Vreiðr | 5 | 0 | Vreiðr (3), Vreið (2) |
+| Vreistr | 1 | 0 |  |
+| Væringr | 1 | 0 |  |
+| Værings | 1 | 0 |  |
+| Vôr | 1 | 0 |  |
+| Vôrr-Ási | 2 | 0 |  |
+| Vôrrfeitr | 1 | 0 |  |
+| Wagagastiz | 1 | 0 |  |
+| Wage | 1 | 0 |  |
+| Wagigaz | 1 | 0 |  |
+| Wagnijo | 3 | 0 |  |
+| Wajaradas | 1 | 0 |  |
+| Wajemariz | 1 | 0 |  |
+| Wakraz | 1 | 0 |  |
+| Warafnisa | 1 | 0 |  |
+| Weladauþs | 1 | 0 |  |
+| Widugastiz | 1 | 0 |  |
+| Widuhundaz | 1 | 1 |  |
+| Wigaz | 2 | 0 |  |
+| Wilagaz | 1 | 0 |  |
+| Wilhelmus | 1 | 0 |  |
+| Witro | 1 | 0 |  |
+| Wiwaz | 1 | 0 |  |
+| Wiwila | 1 | 0 |  |
+| Wiwjo | 1 | 0 |  |
+| Wiz | 1 | 0 |  |
+| Wodinz | 1 | 0 |  |
+| Woduride | 1 | 2 |  |
+| Wormalaiba | 1 | 0 |  |
+| Wulfric | 1 | 0 |  |
+| Wulþuþewaz | 1 | 1 |  |
+| Yfir-Guðarfa | 1 | 0 |  |
+| Ýfla | 1 | 0 |  |
+| Yggjar | 1 | 0 |  |
+| Ylfa | 1 | 0 |  |
+| Ysi | 1 | 0 |  |
+| Ýtlingi | 1 | 0 |  |
+| Ytlings | 1 | 0 |  |
+| Zion | 1 | 1 |  |
+| Þaliz | 1 | 0 |  |
+| þanfuþ | 1 | 0 |  |
+| þefa | 1 | 0 |  |
+| Þegn | 20 | 1 |  |
+| Þegns | 1 | 0 |  |
+| Þelli-Nefr | 1 | 0 |  |
+| Þellinefr | 1 | 0 |  |
+| Þerf | 1 | 0 |  |
+| Þexla | 1 | 0 |  |
+| Þili-Nefr | 1 | 0 |  |
+| Þilinefr | 1 | 0 |  |
+| Þingbjôrn | 1 | 0 |  |
+| Þingfast | 2 | 0 | Þingfast (1), Þingfastr (1) |
+| Þirbijaz | 1 | 0 |  |
+| Þíri | 1 | 0 |  |
+| Þjalfa | 9 | 0 | Þjalfa (8), Þjálfa (1) |
+| Þjalfar | 1 | 0 |  |
+| Þjalfi | 10 | 1 |  |
+| Þjóð | 2 | 0 |  |
+| Þjóðarr | 2 | 0 |  |
+| Þjóðbjôrg | 2 | 1 |  |
+| Þjóðgeirr | 3 | 1 |  |
+| Þjóðheiðr | 1 | 0 |  |
+| Þjóði | 1 | 0 |  |
+| Þjóðkell | 3 | 0 | Þjóðkell (2), Þjóðkel (1) |
+| Þjóðmund | 4 | 1 | Þjóðmund (4), Þjóðmundr (1) |
+| Þjóðrekr | 1 | 0 |  |
+| Þjóðríkr | 2 | 0 |  |
+| Þjóðsteinn | 3 | 0 | Þjóðsteinn (2), Þjóðstein (1) |
+| Þjóðulf | 3 | 0 | Þjóðulf (2), Þjóðulfr (1) |
+| Þjóðulfs | 2 | 0 |  |
+| Þjóðvé | 2 | 0 |  |
+| Þjóðvér | 1 | 0 |  |
+| Þjokk | 1 | 0 |  |
+| Þjokki | 1 | 0 |  |
+| Þjór | 1 | 0 |  |
+| Þjóstulf | 1 | 0 |  |
+| Þjústi | 1 | 0 |  |
+| þku | 1 | 0 |  |
+| þofta | 1 | 0 |  |
+| Þólfr | 9 | 1 | Þólfr (9), Þólf (1) |
+| Þólfs | 2 | 0 |  |
+| Þor | 33 | 1 | Þor (17), Þórr (15), Þór (2) |
+| Þóra | 28 | 0 | Þóra (27), Þora (1) |
+| Þórald | 2 | 0 | Þórald (1), Þóraldr (1) |
+| Þoraldi | 2 | 0 | Þoraldi (1), Þóraldi (1) |
+| Þorbergr | 3 | 0 |  |
+| Þorbirni | 1 | 0 |  |
+| Þorbjarnar | 3 | 0 |  |
+| Þorbjôrg | 1 | 0 |  |
+| Þorbjôrn | 69 | 1 |  |
+| Þordís | 1 | 0 |  |
+| Þordjarf | 1 | 0 |  |
+| Þórðar | 2 | 0 |  |
+| Þórðarsonr | 1 | 0 |  |
+| Þórðr | 49 | 2 | Þórðr (39), Þórð (12) |
+| Þorfastr | 19 | 0 | Þorfastr (13), Þorfast (6) |
+| Þórfinna | 1 | 0 |  |
+| Þorfinnr | 3 | 0 | Þorfinnr (2), Þorfinn (1) |
+| Þorfinns | 1 | 0 |  |
+| Þorfreðr | 2 | 0 |  |
+| Þorfríða | 1 | 0 |  |
+| Þorfríði | 1 | 0 |  |
+| Þorfríðr | 3 | 1 | Þorfríðr (3), Þorfriðr (1) |
+| Þorfrøð | 2 | 0 |  |
+| Þorgarðr | 4 | 0 |  |
+| Þorgautr | 32 | 1 | Þorgautr (22), Þorgaut (10), Þórgaut (1) |
+| Þorgauts | 1 | 1 |  |
+| Þorgeirr | 29 | 2 | Þorgeirr (22), Þorgeir (9) |
+| Þorgeirs | 1 | 0 |  |
+| Þorgeirssonr | 1 | 0 |  |
+| Þorgerðar | 3 | 0 |  |
+| Þorgerði | 1 | 0 |  |
+| Þorgerð(r | 1 | 0 |  |
+| Þorgerðr | 10 | 0 |  |
+| Þorgerðu | 1 | 0 |  |
+| Þorgísl | 32 | 1 |  |
+| Þorgíslar | 1 | 0 |  |
+| Þorgísls | 5 | 0 |  |
+| Þorgnýr | 1 | 0 |  |
+| Þorgnýs | 1 | 0 |  |
+| Þorgrímr | 8 | 0 | Þorgrímr (7), Þorgrím (1) |
+| Þorgunna | 1 | 0 |  |
+| Þorgunni | 1 | 0 |  |
+| Þorgunnr | 11 | 0 | Þorgunnr (10), Þórgunnr (1) |
+| Þórhallr | 1 | 0 |  |
+| Þórheiðr | 1 | 0 |  |
+| Þorhildr | 3 | 0 | Þorhildr (2), Þórhildr (1) |
+| Þóri | 21 | 0 |  |
+| Þóríðr | 1 | 0 |  |
+| Þórir | 56 | 1 | Þórir (56), Þorir (1) |
+| Þóris | 4 | 0 |  |
+| Þórissyni | 1 | 0 |  |
+| Þorkell | 49 | 1 | Þorkell (38), Þorkel (12) |
+| Þorkell'k | 1 | 0 |  |
+| Þorkels | 1 | 0 |  |
+| Þorketil | 4 | 0 | Þorketil (2), Þorketill (2) |
+| Þorketils | 1 | 0 |  |
+| Þorla | 1 | 0 |  |
+| Þorlaf | 2 | 0 | Þorlaf (1), Þorlafr (1) |
+| Þorlak | 11 | 0 | Þorlak (8), Þorlakr (3) |
+| Þorlaks | 1 | 0 |  |
+| Þórlaug | 1 | 1 | Þórlaug (1), Þórlaugr (1) |
+| Þorleifr | 6 | 0 | Þorleifr (5), Þórleifr (1) |
+| Þorleifs | 2 | 0 |  |
+| Þorleik | 2 | 0 | Þorleik (1), Þorleikr (1) |
+| Þorli | 1 | 0 |  |
+| Þorlôf | 1 | 0 |  |
+| Þormar | 3 | 0 | Þormar (2), Þormarr (1) |
+| Þormóðr | 9 | 1 | Þormóðr (9), Þormóð (1) |
+| Þormundr | 7 | 0 |  |
+| Þorn | 2 | 0 |  |
+| Þornjótr | 1 | 0 |  |
+| Þorný | 2 | 0 |  |
+| Þóroddr | 1 | 0 |  |
+| Þórolfr | 1 | 0 |  |
+| Þorpum | 1 | 0 |  |
+| Þorríði | 1 | 0 |  |
+| Þorrøðr | 1 | 0 |  |
+| Þorsholmi | 1 | 0 |  |
+| Þorsteini | 1 | 0 |  |
+| Þorsteinn | 111 | 6 | Þorsteinn (77), Þorstein (40) |
+| Þorsteins | 6 | 0 |  |
+| Þorsteinssonr | 3 | 0 |  |
+| Þóru | 9 | 1 |  |
+| Þórulfr | 9 | 1 |  |
+| Þórulfs | 1 | 0 |  |
+| Þórunnar | 1 | 0 |  |
+| Þórunnr | 12 | 0 |  |
+| Þorvaldr | 2 | 1 |  |
+| Þorvarðr | 1 | 0 |  |
+| Þorvið | 1 | 0 |  |
+| Þorvôr | 1 | 0 |  |
+| þotr | 1 | 0 |  |
+| Þrasi | 1 | 0 |  |
+| Þrawijan | 1 | 0 |  |
+| Þrining | 1 | 0 |  |
+| Þrjózkr | 1 | 0 |  |
+| Þró | 1 | 0 |  |
+| Þróndr | 11 | 1 | Þróndr (7), Þrónd (5) |
+| Þrós | 1 | 0 |  |
+| Þrótti | 5 | 0 |  |
+| Þrúðar | 1 | 0 |  |
+| Þrúðrún | 1 | 0 |  |
+| Þrýðríkr | 2 | 0 |  |
+| Þrýðríks | 1 | 0 |  |
+| þuatr | 1 | 0 |  |
+| Þúfa | 1 | 0 |  |
+| Þuli | 1 | 0 |  |
+| Þulir | 2 | 0 |  |
+| Þulr | 1 | 0 |  |
+| Þundar | 1 | 0 |  |
+| Þunn-Áki | 1 | 0 |  |
+| Þunn-Hnakki | 1 | 0 |  |
+| Þunni | 1 | 0 |  |
+| Þúríð | 1 | 0 |  |
+| Þursheiminum | 1 | 0 |  |
+| þuæþ | 1 | 0 |  |
+| Þyrgeir | 1 | 0 |  |
+| Þyrgísl | 1 | 0 |  |
+| Þyrna | 1 | 0 |  |
+| Þyrvé | 13 | 0 |  |
+| Þyrvéar | 2 | 0 |  |
+| Þœfr | 2 | 0 |  |
+| æfsa | 1 | 0 |  |
+| Æsi | 3 | 0 |  |
+| Ôgmundar | 1 | 0 |  |
+| Ôgmundarsonr | 1 | 0 |  |
+| Ôgmundr | 8 | 0 | Ôgmundr (6), Ôgmund (2) |
+| Ôgurstôðum | 1 | 0 |  |
+| Öja | 2 | 0 |  |
+| Ôlfun | 2 | 0 |  |
+| Ôlrekr | 1 | 0 |  |
+| Ôlvé | 1 | 0 |  |
+| Ôlvi | 4 | 0 |  |
+| Ôlvir | 8 | 0 |  |
+| Ôlvis | 1 | 0 |  |
+| Ômmu | 1 | 0 |  |
+| Ôndóttr | 1 | 0 |  |
+| Ôngla | 1 | 0 |  |
+| Ôngum | 1 | 0 |  |
+| Ônunda | 2 | 0 |  |
+| Ônundar | 5 | 0 |  |
+| Ônundr | 64 | 3 | Ônundr (49), Ônund (18) |
+| Œpi | 6 | 2 |  |
+| Œpir | 49 | 3 |  |
+| Œpis | 1 | 0 |  |
+| Øra | 1 | 0 |  |
+| Œringr | 3 | 0 | Œringr (2), Œring (1) |
+| Ôrn | 4 | 3 | Ôrn (5), ôrn (2) |
+| Ôsl | 4 | 0 |  |
+| Ôssur | 1 | 0 |  |
+| Österby | 1 | 0 |  |
+| Ôzurar | 1 | 0 |  |
+| Ôzurr | 48 | 3 | Ôzurr (32), Ôzur (19) |
