@@ -10,7 +10,7 @@ tags:
 ---
 # Rundata name index, by frequency
 
-Individual occurrences is the number of inscriptions a name occurs in, duplicates the extra mentions within the same inscription. Source: Rundata-net.
+Individual occurrences is the number of inscriptions a name occurs in, duplicates the extra mentions within the same inscription. 
 
 | Rank | Name | Individual occurrences | Duplicates | Forms |
 |-----:|------|-------:|-------:|-------|
