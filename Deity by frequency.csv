@@ -1,12 +1,4 @@
 ﻿name,god,individual_occurrences,duplicates,forms,cognates
-Þórr,Þórr,9,0,,"Þunor, Thunar, Donar"
-Óðinn,Óðinn,4,1,,"Wōden, Wōdan, Wuotan"
-Týr,Týr,2,0,Týr (1); Tyrr (1),"Tīw, Ziu"
-Baldrs,Baldr,1,0,,"bealdor, Balder"
-Friggis,Frigg,1,0,,"Frīg, Frīja"
-Heimdallr,Heimdallr,1,0,,
-Wodinz,Óðinn,1,0,,"Wōden, Wōdan, Wuotan"
-Æsir,Æsir,1,0,,"ōs, ans"
 Þorsteinn,Þórr,109,6,Þorsteinn (76); Þorstein (39),
 Þorbjôrn,Þórr,67,1,,
 Þórir,Þórr,55,1,Þórir (55); Þorir (1),
@@ -46,6 +38,7 @@ Freygeirr,Freyr,9,0,Freygeirr (5); Freygeir (4),
 Ingibjôrg,Ing,9,0,,
 Ingivaldr,Ing,9,0,Ingivaldr (7); Ingivald (2),
 Þorgerðr,Þórr,9,0,,
+Þórr,Þórr,9,0,,"Þunor, Thunar, Donar"
 Ingimarr,Ing,8,1,Ingimarr (5); Ingimar (4),
 Ingríðr,Ing,8,1,,
 Þórulfr,Þórr,8,1,,
@@ -66,6 +59,7 @@ Ingiþóru,Ing,5,0,,
 Ingu,Ing,5,0,,
 Þorgísls,Þórr,5,0,,
 Þorsteins,Þórr,5,0,,
+Óðinn,Óðinn,4,1,,"Wōden, Wōdan, Wuotan"
 Ásfríðr,Æsir,4,0,,
 Ásgerðr,Æsir,4,0,,
 Áskatla,Æsir,4,0,,
@@ -106,6 +100,7 @@ Ingigeirr,Ing,2,0,,
 Ingigerði,Ing,2,0,,
 Ingiríðr,Ing,2,0,,
 óðinsdagr,Óðinn,2,0,óðinsdaginn; óðinsdagr,
+Týr,Týr,2,0,Týr (1); Tyrr (1),"Tīw, Ziu"
 Þórald,Þórr,2,0,Þórald (1); Þóraldr (1),
 Þoraldi,Þórr,2,0,Þoraldi (1); Þóraldi (1),
 Þorfreðr,Þórr,2,0,,
@@ -142,6 +137,7 @@ Asugislas,Æsir,1,0,,
 Ásvald,Æsir,1,0,,
 Ásvé,Æsir,1,0,,
 Ásviðar,Æsir,1,0,,
+Baldrs,Baldr,1,0,,"bealdor, Balder"
 Freydís,Freyr,1,0,,
 Freygerðar,Freyr,1,0,,
 Freygerðr,Freyr,1,0,,
@@ -150,6 +146,8 @@ Freylaug,Freyr,1,0,,
 Freyríkr,Freyr,1,0,,
 Freyslundum,Freyr,1,0,,
 Freysteins,Freyr,1,0,,
+Friggis,Frigg,1,0,,"Frīg, Frīja"
+Heimdallr,Heimdallr,1,0,,
 Ingaduz,Ing,1,0,,
 Ingeborg,Ing,1,0,,
 Ingemarus,Ing,1,0,,
@@ -169,6 +167,8 @@ Ingoldinga,Ing,1,0,,
 Óðindísu,Óðinn,1,0,,
 Óðinkárs,Óðinn,1,0,,
 týrsdagr,Týr,1,0,,
+Wodinz,Óðinn,1,0,,"Wōden, Wōdan, Wuotan"
+Æsir,Æsir,1,0,,"ōs, ans"
 Þorbirni,Þórr,1,0,,
 Þorbjôrg,Þórr,1,0,,
 Þordís,Þórr,1,0,,
